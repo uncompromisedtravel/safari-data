@@ -1,0 +1,32 @@
+name: Nightly catalogue bake
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run bake
+        env:
+          SAFARI_TOKEN: ${{ secrets.SAFARI_TOKEN }}
+        run: node bake.js
+
+      - name: Commit catalogue
+        run: |
+          git config user.name "catalogue-bot"
+          git config user.email "actions@github.com"
+          git add safari-catalogue.json
+          git diff --staged --quiet && echo "No changes tonight" || git commit -m "Nightly catalogue $(date -u +%F)"
+          git push
