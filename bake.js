@@ -1,6 +1,7 @@
-// bake.js — nightly pull of the safari.com affiliate catalogue.
-// Reads SAFARI_TOKEN from the environment; writes safari-catalogue.json.
-// v1: full safari list + taxonomies. Rate-period detail comes in v2.
+// bake.js v2 — nightly pull of the safari.com affiliate catalogue.
+// v2: all prices normalised to USD (?currency=USD), plus a brandIndex
+// mapping each operator slug to its bookable safaris via the server-side
+// brand filter — powers the operator review page modules.
 
 const fs = require('fs');
 
@@ -28,7 +29,6 @@ async function get(path, attempt = 1) {
   return res.json();
 }
 
-// The docs don't name the array key in list responses, so find it.
 function extractArray(payload) {
   if (Array.isArray(payload)) return payload;
   for (const key of ['safaris', 'items', 'results', 'data', 'destinations', 'experiences']) {
@@ -42,16 +42,37 @@ async function fetchAllSafaris() {
   const all = [];
   let cursor = null;
   for (let page = 0; page < 50; page++) {
-    const qs = cursor == null ? '?limit=200' : '?limit=200&cursor=' + cursor;
+    const qs = '?limit=200&currency=USD' + (cursor == null ? '' : '&cursor=' + cursor);
     const payload = await get('/api/affiliate/safaris' + qs);
     const batch = extractArray(payload);
     all.push(...batch);
     console.log('page ' + (page + 1) + ': ' + batch.length + ' safaris (running total ' + all.length + ')');
     cursor = payload ? payload.nextCursor : null;
     if (cursor == null || batch.length === 0) break;
-    await sleep(300); // politeness between pages
+    await sleep(300);
   }
   return all;
+}
+
+async function fetchBrandIndex(brands, knownSlugs) {
+  const index = {};
+  const extras = [];
+  for (const b of brands) {
+    try {
+      const payload = await get('/api/affiliate/safaris?limit=200&currency=USD&brand=' + encodeURIComponent(b.slug));
+      const batch = extractArray(payload);
+      index[b.slug] = batch.map((s) => s.slug);
+      for (const s of batch) {
+        if (!knownSlugs.has(s.slug)) { knownSlugs.add(s.slug); extras.push(s); }
+      }
+      console.log('brand ' + b.slug + ': ' + batch.length + ' safaris');
+    } catch (err) {
+      console.log('brand ' + b.slug + ' failed: ' + err.message);
+      index[b.slug] = [];
+    }
+    await sleep(250);
+  }
+  return { index, extras };
 }
 
 (async () => {
@@ -65,6 +86,11 @@ async function fetchAllSafaris() {
     process.exit(1);
   }
 
+  const knownSlugs = new Set(safaris.map((s) => s.slug));
+  const { index: brandIndex, extras } = await fetchBrandIndex(brands, knownSlugs);
+  safaris.push(...extras);
+  if (extras.length) console.log('brand queries surfaced ' + extras.length + ' additional safaris');
+
   const catalogue = {
     generated: new Date().toISOString(),
     source: 'safari.com affiliate API',
@@ -74,6 +100,7 @@ async function fetchAllSafaris() {
       brands: brands.length,
       experiences: experiences.length,
     },
+    brandIndex,
     destinations,
     brands,
     experiences,
@@ -81,8 +108,8 @@ async function fetchAllSafaris() {
   };
 
   fs.writeFileSync('safari-catalogue.json', JSON.stringify(catalogue, null, 1));
-  console.log('Wrote safari-catalogue.json: ' + safaris.length + ' safaris, ' +
-    brands.length + ' brands, ' + destinations.length + ' destinations.');
+  console.log('Wrote safari-catalogue.json: ' + safaris.length + ' safaris (USD), ' +
+    brands.length + ' brands indexed, ' + destinations.length + ' destinations.');
 })().catch((err) => {
   console.error('Bake failed:', err.message);
   process.exit(1);
