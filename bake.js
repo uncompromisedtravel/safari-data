@@ -1,7 +1,8 @@
-// bake.js v2 — nightly pull of the safari.com affiliate catalogue.
-// v2: all prices normalised to USD (?currency=USD), plus a brandIndex
-// mapping each operator slug to its bookable safaris via the server-side
-// brand filter — powers the operator review page modules.
+// bake.js v3 — nightly pull of the safari.com affiliate catalogue.
+// v3: native currencies restored (their ?currency=USD filters rather than
+// converts); nightly FX rate stamps priceFromUsd on every safari for one
+// comparable price column; operator index derived from lodge ownership,
+// replacing their broken server-side brand filter; special-price sanity.
 
 const fs = require('fs');
 
@@ -42,7 +43,7 @@ async function fetchAllSafaris() {
   const all = [];
   let cursor = null;
   for (let page = 0; page < 50; page++) {
-    const qs = '?limit=200&currency=USD' + (cursor == null ? '' : '&cursor=' + cursor);
+    const qs = '?limit=200' + (cursor == null ? '' : '&cursor=' + cursor);
     const payload = await get('/api/affiliate/safaris' + qs);
     const batch = extractArray(payload);
     all.push(...batch);
@@ -54,25 +55,45 @@ async function fetchAllSafaris() {
   return all;
 }
 
-async function fetchBrandIndex(brands, knownSlugs) {
-  const index = {};
-  const extras = [];
-  for (const b of brands) {
-    try {
-      const payload = await get('/api/affiliate/safaris?limit=200&currency=USD&brand=' + encodeURIComponent(b.slug));
-      const batch = extractArray(payload);
-      index[b.slug] = batch.map((s) => s.slug);
-      for (const s of batch) {
-        if (!knownSlugs.has(s.slug)) { knownSlugs.add(s.slug); extras.push(s); }
-      }
-      console.log('brand ' + b.slug + ': ' + batch.length + ' safaris');
-    } catch (err) {
-      console.log('brand ' + b.slug + ' failed: ' + err.message);
-      index[b.slug] = [];
-    }
-    await sleep(250);
+async function fetchZarRate() {
+  try {
+    const res = await fetch('https://open.er-api.com/v6/latest/USD');
+    const data = await res.json();
+    const rate = data && data.rates && data.rates.ZAR;
+    if (rate && rate > 5 && rate < 60) return { zarPerUsd: rate, source: 'open.er-api.com' };
+  } catch (err) {
+    console.log('FX fetch failed: ' + err.message);
   }
-  return { index, extras };
+  console.log('Using fallback ZAR rate');
+  return { zarPerUsd: 18.0, source: 'fallback-static' };
+}
+
+// Operator index: lodge ownership + name matching. Ours, so it cannot break upstream.
+const OPERATORS = {
+  'singita':             { prefixes: ['singita'], text: ['singita'] },
+  'andbeyond':           { lodges: ['ngala', 'ngala-tented', 'phinda-forest', 'phinda-vlei', 'phinda-zuka', 'kichwa-tembo', 'bateleur', 'tengile-river', 'kirkmans-kamp', 'chobe-under-canvas', 'serengeti-under-canvas', 'lake-manyara-tree'], text: ['andbeyond', '&beyond'] },
+  'londolozi':           { prefixes: ['londolozi'] },
+  'sanctuary-retreats':  { lodges: ['sussi-chuma', 'chobe-chilwero', 'chiefs'] },
+  'wilderness':          { lodges: ['damaraland-camp', 'kings-pool'] },
+  'tswalu-kalahari':     { lodges: ['tswalu-kalahari'], text: ['tswalu'] },
+  'natural-selection':   { lodges: ['jacks'] },
+  'african-bush-camps':  { lodges: ['linyanti-bush-camp', 'khwai-lediba'] },
+  'belmond':             { lodges: ['mount-nelson', 'savute-elephant', 'eagle-island'], text: ['belmond'] },
+  'lion-sands':          { prefixes: ['lion-sands'] },
+  'sabi-sabi':           { prefixes: ['sabi-sabi'] },
+  'mala-mala':           { lodges: ['mala-mala-camp'] },
+  'kapama':              { prefixes: ['kapama'] },
+  'ulusaba':             { prefixes: ['ulusaba'] },
+};
+
+function matchesOperator(safari, rules) {
+  const lodges = safari.lodges || [];
+  const text = (safari.name + ' ' + (safari.summary || '') + ' ' +
+    (safari.highlights || []).join(' ')).toLowerCase();
+  if (rules.prefixes && lodges.some((l) => rules.prefixes.some((p) => l.startsWith(p)))) return true;
+  if (rules.lodges && lodges.some((l) => rules.lodges.includes(l))) return true;
+  if (rules.text && rules.text.some((t) => text.includes(t))) return true;
+  return false;
 }
 
 (async () => {
@@ -86,14 +107,33 @@ async function fetchBrandIndex(brands, knownSlugs) {
     process.exit(1);
   }
 
-  const knownSlugs = new Set(safaris.map((s) => s.slug));
-  const { index: brandIndex, extras } = await fetchBrandIndex(brands, knownSlugs);
-  safaris.push(...extras);
-  if (extras.length) console.log('brand queries surfaced ' + extras.length + ' additional safaris');
+  const fx = await fetchZarRate();
+
+  for (const s of safaris) {
+    // Special-price sanity: a "special" that isn't cheaper is noise.
+    if (s.priceFromSpecial != null && s.priceFrom != null && s.priceFromSpecial >= s.priceFrom) {
+      s.priceFromSpecial = null;
+    }
+    const toUsd = (v) => {
+      if (v == null) return null;
+      if (s.currency === 'USD') return Math.round(v);
+      if (s.currency === 'ZAR') return Math.round(v / fx.zarPerUsd / 10) * 10;
+      return null;
+    };
+    s.priceFromUsd = toUsd(s.priceFrom);
+    s.priceFromSpecialUsd = toUsd(s.priceFromSpecial);
+  }
+
+  const brandIndex = {};
+  for (const [slug, rules] of Object.entries(OPERATORS)) {
+    brandIndex[slug] = safaris.filter((s) => matchesOperator(s, rules)).map((s) => s.slug);
+    console.log('operator ' + slug + ': ' + brandIndex[slug].length + ' safaris');
+  }
 
   const catalogue = {
     generated: new Date().toISOString(),
     source: 'safari.com affiliate API',
+    fx: { zarPerUsd: fx.zarPerUsd, source: fx.source, note: 'ZAR prices converted to approximate USD at bake time' },
     counts: {
       safaris: safaris.length,
       destinations: destinations.length,
@@ -108,8 +148,8 @@ async function fetchBrandIndex(brands, knownSlugs) {
   };
 
   fs.writeFileSync('safari-catalogue.json', JSON.stringify(catalogue, null, 1));
-  console.log('Wrote safari-catalogue.json: ' + safaris.length + ' safaris (USD), ' +
-    brands.length + ' brands indexed, ' + destinations.length + ' destinations.');
+  console.log('Wrote safari-catalogue.json: ' + safaris.length + ' safaris, FX ' +
+    fx.zarPerUsd.toFixed(2) + ' ZAR/USD (' + fx.source + ').');
 })().catch((err) => {
   console.error('Bake failed:', err.message);
   process.exit(1);
