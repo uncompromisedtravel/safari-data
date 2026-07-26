@@ -1,8 +1,8 @@
 {
- "generated": "2026-07-25T09:20:47.982Z",
+ "generated": "2026-07-26T10:17:15.251Z",
  "source": "safari.com affiliate API",
  "fx": {
-  "zarPerUsd": 16.824488,
+  "zarPerUsd": 16.825453,
   "source": "open.er-api.com",
   "note": "ZAR prices converted to approximate USD at bake time"
  },
@@ -937,7 +937,7 @@
    "kind": "brand",
    "parentDestination": null,
    "tagline": "Different by nature",
-   "summary": "The Jao Collection is the independent home of the six camps in the Okavango Delta’s Jao Reserve (NG25), an exclusive private concession held by the Kays family. Jao, Kwetsani, Jacana, Tubu Tree, Little Tubu and Pelo span water and dry-land Delta, from architectural flagship luxury to intimate back-to-nature camps.",
+   "summary": "The Jao Collection is the independent home of the camps in the Okavango Delta’s Jao Reserve (NG25), an exclusive private concession held by the Kays family. Jao, Kwetsani, Jacana, Tubu Tree, Little Tubu and Pelo span water and dry-land Delta, from architectural flagship luxury to intimate back-to-nature camps.",
    "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/421865296e1753b4a6ca2d04da07802c9bc7db7c-1500x1000.webp?w=1600&auto=format",
    "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/421865296e1753b4a6ca2d04da07802c9bc7db7c-1500x1000.webp?w=800&auto=format",
    "pageUrl": "https://www.safari.com/jao?a=rjx"
@@ -949,7 +949,7 @@
    "kind": "brand",
    "parentDestination": "greater-kruger",
    "tagline": "Wilderness refined by time",
-   "summary": "A privately owned Big Five reserve just west of the Kruger National Park, hosting four luxury lodges with superb wildlife and an on-site wellness spa.",
+   "summary": "A privately owned Big Five reserve just west of the Kruger National Park, home to five lodges, superb wildlife and an on-site wellness spa.",
    "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/c3e8033d08beece4e875bc5efb0c7738f79b6d0d-1600x800.webp?w=1600&auto=format",
    "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/c3e8033d08beece4e875bc5efb0c7738f79b6d0d-1600x800.webp?w=800&auto=format",
    "pageUrl": "https://www.safari.com/kapama?a=rjx"
@@ -1349,7 +1349,7 @@
     "Round-trip flights from Johannesburg and all transfers included"
    ],
    "featured": false,
-   "popularityScore": 49,
+   "popularityScore": 48,
    "enquiryUrl": "https://www.safari.com/safaris/three-day-sabi-sand-idube-game-reserve?a=rjx",
    "priceFromUsd": 2910,
    "priceFromSpecialUsd": null
@@ -1385,7 +1385,7 @@
     "All internal flights between Johannesburg, Skukuza and Cape Town included"
    ],
    "featured": false,
-   "popularityScore": 49,
+   "popularityScore": 48,
    "enquiryUrl": "https://www.safari.com/safaris/eight-day-sabi-sands-sun-city-cape-town-adventure?a=rjx",
    "priceFromUsd": 5680,
    "priceFromSpecialUsd": null
@@ -1574,9 +1574,45 @@
     "Round-trip flights from Johannesburg to Hoedspruit included"
    ],
    "featured": true,
-   "popularityScore": 39,
+   "popularityScore": 40,
    "enquiryUrl": "https://www.safari.com/safaris/3-day-kapama-classic-safari?a=rjx",
    "priceFromUsd": 2260,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.three-day-kruger-park-lukimbi-fly-in-safari",
+   "slug": "three-day-kruger-park-lukimbi-fly-in-safari",
+   "name": "3 Day Kruger Park Lukimbi Fly-in Safari",
+   "summary": "The 5-Star Lukimbi Safari Lodge is one of only 7 private concessions within Kruger National Park, & at 15 000 hectares is one of the largest. Experience a unique safari where the Big 5 roam free in their natural habitat.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/0e8eac492dee3bee9157e325b58b98e9c75632a7-1600x630.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/0e8eac492dee3bee9157e325b58b98e9c75632a7-1600x630.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 37203,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "south-africa",
+    "kruger-national-park"
+   ],
+   "experiences": [
+    "travel-specials",
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "lukimbi"
+   ],
+   "highlights": [
+    "2 nights at 5-star Lukimbi Safari Lodge in Kruger National Park",
+    "Stay within a 15,000-hectare private concession shared by just 32 guests",
+    "Twice-daily game drives with off-road traversing for close Big Five sightings",
+    "Guided bush walk with an armed ranger",
+    "Return flights from Johannesburg and all transfers included"
+   ],
+   "featured": true,
+   "popularityScore": 33,
+   "enquiryUrl": "https://www.safari.com/safaris/three-day-kruger-park-lukimbi-fly-in-safari?a=rjx",
+   "priceFromUsd": 2210,
    "priceFromSpecialUsd": null
   },
   {
@@ -1614,42 +1650,6 @@
    "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-greater-kruger-with-simbavati?a=rjx",
    "priceFromUsd": 3830,
    "priceFromSpecialUsd": 3050
-  },
-  {
-   "id": "safari.three-day-kruger-park-lukimbi-fly-in-safari",
-   "slug": "three-day-kruger-park-lukimbi-fly-in-safari",
-   "name": "3 Day Kruger Park Lukimbi Fly-in Safari",
-   "summary": "The 5-Star Lukimbi Safari Lodge is one of only 7 private concessions within Kruger National Park, & at 15 000 hectares is one of the largest. Experience a unique safari where the Big 5 roam free in their natural habitat.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/0e8eac492dee3bee9157e325b58b98e9c75632a7-1600x630.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/0e8eac492dee3bee9157e325b58b98e9c75632a7-1600x630.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 37203,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "south-africa",
-    "kruger-national-park"
-   ],
-   "experiences": [
-    "travel-specials",
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "lukimbi"
-   ],
-   "highlights": [
-    "2 nights at 5-star Lukimbi Safari Lodge in Kruger National Park",
-    "Stay within a 15,000-hectare private concession shared by just 32 guests",
-    "Twice-daily game drives with off-road traversing for close Big Five sightings",
-    "Guided bush walk with an armed ranger",
-    "Return flights from Johannesburg and all transfers included"
-   ],
-   "featured": true,
-   "popularityScore": 32,
-   "enquiryUrl": "https://www.safari.com/safaris/three-day-kruger-park-lukimbi-fly-in-safari?a=rjx",
-   "priceFromUsd": 2210,
-   "priceFromSpecialUsd": null
   },
   {
    "id": "safari.eleven-day-southern-africa-safari-in-style",
@@ -1829,7 +1829,7 @@
     "Return flights from Johannesburg to Skukuza and private transfers"
    ],
    "featured": false,
-   "popularityScore": 25,
+   "popularityScore": 26,
    "enquiryUrl": "https://www.safari.com/safaris/four-day-lush-sabi-sand-river-safari?a=rjx",
    "priceFromUsd": 3620,
    "priceFromSpecialUsd": null
@@ -2023,7 +2023,7 @@
     "Flights from Johannesburg to Hoedspruit and on to Victoria Falls"
    ],
    "featured": false,
-   "popularityScore": 20,
+   "popularityScore": 21,
    "enquiryUrl": "https://www.safari.com/safaris/seven-day-safari-in-kapama-game-reserve-and-victoria-falls?a=rjx",
    "priceFromUsd": 4970,
    "priceFromSpecialUsd": null
@@ -2102,6 +2102,40 @@
    "enquiryUrl": "https://www.safari.com/safaris/eight-day-luxury-botswana-to-hwange-safari?a=rjx",
    "priceFromUsd": 4438,
    "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.4-day-all-inclusive-victoria-falls-safari-elephant-camp",
+   "slug": "4-day-all-inclusive-victoria-falls-safari-elephant-camp",
+   "name": "4-Day-All-Inclusive Victoria Falls Safari at Elephant Camp",
+   "summary": "The Elephant Camp is rated one of the top luxury lodges in Zimbabwe, being in close proximity to the Victoria Falls.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/360babfefd6281c6c9cf7e8f56d63cf19f53b3c7-1920x1276.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/360babfefd6281c6c9cf7e8f56d63cf19f53b3c7-1920x1276.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 2688,
+   "priceFromSpecial": 2221,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "zimbabwe",
+    "victoria-falls"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "the-elephant"
+   ],
+   "highlights": [
+    "3 nights at Elephant Camp inside Victoria Falls National Park",
+    "Suites with private plunge pools overlooking the Zambezi Gorges",
+    "Guided tour of Victoria Falls and the Canopy Tour",
+    "Game drives and walking trails tracking the Big Five",
+    "Sunset cruise on the Zambezi Royal Boat",
+    "Round-trip road transfers from Victoria Falls Airport included"
+   ],
+   "featured": true,
+   "popularityScore": 17,
+   "enquiryUrl": "https://www.safari.com/safaris/4-day-all-inclusive-victoria-falls-safari-elephant-camp?a=rjx",
+   "priceFromUsd": 2688,
+   "priceFromSpecialUsd": 2221
   },
   {
    "id": "safari.five-day-malamala-and-timbavati-luxury-safari",
@@ -2190,38 +2224,47 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.4-day-all-inclusive-victoria-falls-safari-elephant-camp",
-   "slug": "4-day-all-inclusive-victoria-falls-safari-elephant-camp",
-   "name": "4-Day-All-Inclusive Victoria Falls Safari at Elephant Camp",
-   "summary": "The Elephant Camp is rated one of the top luxury lodges in Zimbabwe, being in close proximity to the Victoria Falls.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/360babfefd6281c6c9cf7e8f56d63cf19f53b3c7-1920x1276.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/360babfefd6281c6c9cf7e8f56d63cf19f53b3c7-1920x1276.webp?w=800&auto=format",
+   "id": "safari.8-day-all-inclusive-kruger-to-mozambique-fly-in-safari",
+   "slug": "8-day-all-inclusive-kruger-to-mozambique-fly-in-safari",
+   "name": "8-Day All-Inclusive Kruger to Mozambique Fly-In Safari",
+   "summary": "Enjoy the adventure and excitement of a Big Five Kruger safari, rounded off with an idyllic, unspoilt Mozambican beach retreat. This is the best of both worlds’ experience on one holiday.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/b6ece39b94fa7e8750b672b6f8dbfdbf806bceb9-1920x1234.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/b6ece39b94fa7e8750b672b6f8dbfdbf806bceb9-1920x1234.webp?w=800&auto=format",
    "currency": "USD",
-   "priceFrom": 2688,
-   "priceFromSpecial": 2221,
+   "priceFrom": 4397,
+   "priceFromSpecial": 4178,
    "priceBasis": "per person sharing, guide price",
    "destinations": [
-    "zimbabwe",
-    "victoria-falls"
+    "south-africa",
+    "kruger-national-park",
+    "mozambique"
    ],
-   "experiences": [],
+   "experiences": [
+    "bush-and-beach-safaris",
+    "honeymoon-safaris",
+    "family-safaris",
+    "child-friendly-safaris",
+    "big-5-safaris",
+    "mobile-and-walking-safaris"
+   ],
    "brand": null,
    "lodges": [
-    "the-elephant"
+    "lukimbi",
+    "massinga-beach"
    ],
    "highlights": [
-    "3 nights at Elephant Camp inside Victoria Falls National Park",
-    "Suites with private plunge pools overlooking the Zambezi Gorges",
-    "Guided tour of Victoria Falls and the Canopy Tour",
-    "Game drives and walking trails tracking the Big Five",
-    "Sunset cruise on the Zambezi Royal Boat",
-    "Round-trip road transfers from Victoria Falls Airport included"
+    "3 nights at Lukimbi Safari Lodge in Kruger, then 4 at Massinga Beach in Mozambique",
+    "Twice-daily Big Five game drives plus guided bush walks",
+    "Snorkelling at Fingers Reef, kayaking, fishing and beach picnics",
+    "Oceanfront deluxe suite on Mozambique's unspoilt Indian Ocean coast",
+    "All flights between Johannesburg, Kruger and Vilanculos included",
+    "All meals and selected drinks at both lodges"
    ],
-   "featured": true,
-   "popularityScore": 16,
-   "enquiryUrl": "https://www.safari.com/safaris/4-day-all-inclusive-victoria-falls-safari-elephant-camp?a=rjx",
-   "priceFromUsd": 2688,
-   "priceFromSpecialUsd": 2221
+   "featured": false,
+   "popularityScore": 17,
+   "enquiryUrl": "https://www.safari.com/safaris/8-day-all-inclusive-kruger-to-mozambique-fly-in-safari?a=rjx",
+   "priceFromUsd": 4397,
+   "priceFromSpecialUsd": 4178
   },
   {
    "id": "safari.seven-day-safari-promotion-from-sabi-sands-to-victoria-falls",
@@ -2261,49 +2304,6 @@
    "enquiryUrl": "https://www.safari.com/safaris/seven-day-safari-promotion-from-sabi-sands-to-victoria-falls?a=rjx",
    "priceFromUsd": 8797,
    "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.8-day-all-inclusive-kruger-to-mozambique-fly-in-safari",
-   "slug": "8-day-all-inclusive-kruger-to-mozambique-fly-in-safari",
-   "name": "8-Day All-Inclusive Kruger to Mozambique Fly-In Safari",
-   "summary": "Enjoy the adventure and excitement of a Big Five Kruger safari, rounded off with an idyllic, unspoilt Mozambican beach retreat. This is the best of both worlds’ experience on one holiday.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/b6ece39b94fa7e8750b672b6f8dbfdbf806bceb9-1920x1234.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/b6ece39b94fa7e8750b672b6f8dbfdbf806bceb9-1920x1234.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 4397,
-   "priceFromSpecial": 4178,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "south-africa",
-    "kruger-national-park",
-    "mozambique"
-   ],
-   "experiences": [
-    "bush-and-beach-safaris",
-    "honeymoon-safaris",
-    "family-safaris",
-    "child-friendly-safaris",
-    "big-5-safaris",
-    "mobile-and-walking-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "lukimbi",
-    "massinga-beach"
-   ],
-   "highlights": [
-    "3 nights at Lukimbi Safari Lodge in Kruger, then 4 at Massinga Beach in Mozambique",
-    "Twice-daily Big Five game drives plus guided bush walks",
-    "Snorkelling at Fingers Reef, kayaking, fishing and beach picnics",
-    "Oceanfront deluxe suite on Mozambique's unspoilt Indian Ocean coast",
-    "All flights between Johannesburg, Kruger and Vilanculos included",
-    "All meals and selected drinks at both lodges"
-   ],
-   "featured": false,
-   "popularityScore": 16,
-   "enquiryUrl": "https://www.safari.com/safaris/8-day-all-inclusive-kruger-to-mozambique-fly-in-safari?a=rjx",
-   "priceFromUsd": 4397,
-   "priceFromSpecialUsd": 4178
   },
   {
    "id": "safari.eight-day-cape-town-family-safari-and-vic-falls-combo",
@@ -2582,6 +2582,48 @@
    "priceFromSpecialUsd": null
   },
   {
+   "id": "safari.7-day-ultra-lux-kruger-and-vic-falls-fly-in-safari",
+   "slug": "7-day-ultra-lux-kruger-and-vic-falls-fly-in-safari",
+   "name": "7-Day Ultra-Lux Kruger and Vic Falls Fly-in Safari",
+   "summary": "This meticulously planned safari transports guests into two stunning wilderness realms, featuring stays at prestigious luxury lodges and savoring African cuisine beneath the open sky. Begin your adventure in Kruger National Park at Lukimbi Safari Lodge, where you'll reside in a classic suite with superb game viewing opportunities from an expansive private deck. Then, journey to witness the majestic spray of Victoria Falls, staying in a deluxe room at the Palm River Hotel.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/24e1145b90bdbb5969120936b774aeb8551acdfa-1920x1280.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/24e1145b90bdbb5969120936b774aeb8551acdfa-1920x1280.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 5440,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "kruger-national-park",
+    "victoria-falls"
+   ],
+   "experiences": [
+    "family-safaris",
+    "child-friendly-safaris",
+    "big-5-safaris",
+    "mobile-and-walking-safaris",
+    "sleep-out-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "lukimbi",
+    "palm-river-hotel",
+    "ilala-lodge-hotel"
+   ],
+   "highlights": [
+    "3 nights at Lukimbi Safari Lodge in Kruger National Park",
+    "Twice-daily open-vehicle game drives and guided bush walks",
+    "Suite with private deck, indoor and outdoor showers overlooking the river",
+    "3 nights at the 5-star Palm River Hotel in Victoria Falls",
+    "3-course dinner at Cassia Restaurant, Ilala Lodge Hotel",
+    "All flights from Johannesburg to Kruger, on to Vic Falls and back"
+   ],
+   "featured": false,
+   "popularityScore": 12,
+   "enquiryUrl": "https://www.safari.com/safaris/7-day-ultra-lux-kruger-and-vic-falls-fly-in-safari?a=rjx",
+   "priceFromUsd": 5440,
+   "priceFromSpecialUsd": null
+  },
+  {
    "id": "safari.eight-day-chobe-to-sabi-sands-the-ultimate-wildlife-journey",
    "slug": "eight-day-chobe-to-sabi-sands-the-ultimate-wildlife-journey",
    "name": "8-Day Chobe to Sabi Sands: The Ultimate Wildlife Journey",
@@ -2768,48 +2810,6 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.7-day-ultra-lux-kruger-and-vic-falls-fly-in-safari",
-   "slug": "7-day-ultra-lux-kruger-and-vic-falls-fly-in-safari",
-   "name": "7-Day Ultra-Lux Kruger and Vic Falls Fly-in Safari",
-   "summary": "This meticulously planned safari transports guests into two stunning wilderness realms, featuring stays at prestigious luxury lodges and savoring African cuisine beneath the open sky. Begin your adventure in Kruger National Park at Lukimbi Safari Lodge, where you'll reside in a classic suite with superb game viewing opportunities from an expansive private deck. Then, journey to witness the majestic spray of Victoria Falls, staying in a deluxe room at the Palm River Hotel.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/24e1145b90bdbb5969120936b774aeb8551acdfa-1920x1280.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/24e1145b90bdbb5969120936b774aeb8551acdfa-1920x1280.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 5440,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "kruger-national-park",
-    "victoria-falls"
-   ],
-   "experiences": [
-    "family-safaris",
-    "child-friendly-safaris",
-    "big-5-safaris",
-    "mobile-and-walking-safaris",
-    "sleep-out-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "lukimbi",
-    "palm-river-hotel",
-    "ilala-lodge-hotel"
-   ],
-   "highlights": [
-    "3 nights at Lukimbi Safari Lodge in Kruger National Park",
-    "Twice-daily open-vehicle game drives and guided bush walks",
-    "Suite with private deck, indoor and outdoor showers overlooking the river",
-    "3 nights at the 5-star Palm River Hotel in Victoria Falls",
-    "3-course dinner at Cassia Restaurant, Ilala Lodge Hotel",
-    "All flights from Johannesburg to Kruger, on to Vic Falls and back"
-   ],
-   "featured": false,
-   "popularityScore": 11,
-   "enquiryUrl": "https://www.safari.com/safaris/7-day-ultra-lux-kruger-and-vic-falls-fly-in-safari?a=rjx",
-   "priceFromUsd": 5440,
-   "priceFromSpecialUsd": null
-  },
-  {
    "id": "safari.12-day-rovos-rail-namibia-to-south-africa-safari",
    "slug": "12-day-rovos-rail-namibia-to-south-africa-safari",
    "name": "12-Day Rovos Rail Namibia to South Africa Safari",
@@ -2960,7 +2960,7 @@
    "featured": false,
    "popularityScore": 9,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-all-inclusive-lion-sands-tinga-lodge-safari?a=rjx",
-   "priceFromUsd": 6160,
+   "priceFromUsd": 6150,
    "priceFromSpecialUsd": null
   },
   {
@@ -3630,7 +3630,7 @@
    "featured": false,
    "popularityScore": 5,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-kruger-exclusive-getaway-with-lion-sands-narina?a=rjx",
-   "priceFromUsd": 6160,
+   "priceFromUsd": 6150,
    "priceFromSpecialUsd": null
   },
   {
@@ -3965,7 +3965,7 @@
    "popularityScore": 4,
    "enquiryUrl": "https://www.safari.com/safaris/10-day-kruger-to-cape-luxury-safari?a=rjx",
    "priceFromUsd": 9020,
-   "priceFromSpecialUsd": 8530
+   "priceFromSpecialUsd": 8520
   },
   {
    "id": "safari.11-day-botswana-luxury-safari",
@@ -4343,7 +4343,7 @@
    "featured": false,
    "popularityScore": 4,
    "enquiryUrl": "https://www.safari.com/safaris/nine-day-kruger-kwazulu-fly-drive?a=rjx",
-   "priceFromUsd": 5880,
+   "priceFromUsd": 5870,
    "priceFromSpecialUsd": 5290
   },
   {
@@ -4712,44 +4712,6 @@
    "enquiryUrl": "https://www.safari.com/safaris/5-day-thornybush-fly-in-package?a=rjx",
    "priceFromUsd": 4580,
    "priceFromSpecialUsd": 3600
-  },
-  {
-   "id": "safari.5-day-grumeti-safari",
-   "slug": "5-day-grumeti-safari",
-   "name": "6-Day Grumeti Safari Promotion",
-   "summary": "Home of the Great Migration. Simbavati Grumeti is nestled on the open plains between the Serengeti National Park and the Grumeti River,\nwithin Tanzania’s fabled northern safari circuit.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/f01dcfd9d5a759c8e2210d63b9f9f23a1b8e5eed-1920x1169.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/f01dcfd9d5a759c8e2210d63b9f9f23a1b8e5eed-1920x1169.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 3490,
-   "priceFromSpecial": 2855,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "serengeti",
-    "tanzania"
-   ],
-   "experiences": [
-    "big-5-safaris",
-    "great-migration",
-    "hot-air-ballooning"
-   ],
-   "brand": "andbeyond",
-   "lodges": [
-    "grumeti-serengeti-river"
-   ],
-   "highlights": [
-    "5 nights at Simbavati Grumeti between the Serengeti and Grumeti River",
-    "Daily open-vehicle game drives across the acacia-dotted plains",
-    "Walking safari, night drive and full-day game drive included",
-    "Great Wildebeest Migration passes through in June and July",
-    "Resident big cats and large plains-game herds year-round",
-    "Return transfers from Fort Ikoma Airstrip and all meals and drinks included"
-   ],
-   "featured": false,
-   "popularityScore": 3,
-   "enquiryUrl": "https://www.safari.com/safaris/5-day-grumeti-safari?a=rjx",
-   "priceFromUsd": 3490,
-   "priceFromSpecialUsd": 2855
   },
   {
    "id": "safari.7-day-sumptuous-timbavati-and-sabi-sand-safari",
@@ -7844,6 +7806,42 @@
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/six-day-gorilla-trekking-volcanoes-national-park-chimpanzees-in-nyungwe-forest?a=rjx",
    "priceFromUsd": 15242,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.5-day-grumeti-safari",
+   "slug": "5-day-grumeti-safari",
+   "name": "6-Day Grumeti Safari Promotion",
+   "summary": "Home of the Great Migration. Simbavati Grumeti is nestled on the open plains between the Serengeti National Park and the Grumeti River,\nwithin Tanzania’s fabled northern safari circuit.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/f01dcfd9d5a759c8e2210d63b9f9f23a1b8e5eed-1920x1169.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/f01dcfd9d5a759c8e2210d63b9f9f23a1b8e5eed-1920x1169.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 3490,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "serengeti",
+    "tanzania"
+   ],
+   "experiences": [
+    "big-5-safaris",
+    "great-migration",
+    "hot-air-ballooning"
+   ],
+   "brand": "simbavati",
+   "lodges": [],
+   "highlights": [
+    "5 nights at Simbavati Grumeti between the Serengeti and Grumeti River",
+    "Daily open-vehicle game drives across the acacia-dotted plains",
+    "Walking safari, night drive and full-day game drive included",
+    "Great Wildebeest Migration passes through in June and July",
+    "Resident big cats and large plains-game herds year-round",
+    "Return transfers from Fort Ikoma Airstrip and all meals and drinks included"
+   ],
+   "featured": false,
+   "popularityScore": 0,
+   "enquiryUrl": "https://www.safari.com/safaris/5-day-grumeti-safari?a=rjx",
+   "priceFromUsd": 3490,
    "priceFromSpecialUsd": null
   },
   {
