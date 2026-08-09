@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-08T05:28:08.310Z",
+ "generated": "2026-08-09T05:37:32.246Z",
  "source": "safari.com affiliate API",
  "fx": {
-  "zarPerUsd": 16.167927,
+  "zarPerUsd": 16.177411,
   "source": "open.er-api.com",
   "note": "ZAR prices converted to approximate USD at bake time"
  },
@@ -1351,7 +1351,7 @@
    "featured": false,
    "popularityScore": 50,
    "enquiryUrl": "https://www.safari.com/safaris/three-day-sabi-sand-idube-game-reserve?a=rjx",
-   "priceFromUsd": 3030,
+   "priceFromUsd": 3020,
    "priceFromSpecialUsd": null
   },
   {
@@ -1420,44 +1420,10 @@
     "Round-trip flights from Johannesburg and airport transfers included"
    ],
    "featured": true,
-   "popularityScore": 44,
+   "popularityScore": 43,
    "enquiryUrl": "https://www.safari.com/safaris/3-day-victoria-falls-fly-in?a=rjx",
    "priceFromUsd": 1421,
    "priceFromSpecialUsd": 1412
-  },
-  {
-   "id": "safari.eight-day-victoria-falls-and-mauritius-combo",
-   "slug": "eight-day-victoria-falls-and-mauritius-combo",
-   "name": "8-Day Victoria Falls and Mauritius Combo",
-   "summary": "Embark on a thrilling 8-day journey, beginning with an unforgettable stay at one of Southern Africa’s premier safari lodges, Victoria Falls Safari Club. Enjoy breathtaking views of the untouched bushveld, where a central waterhole attracts a variety of wildlife. Journey onwards and enjoy a stopover in Johannesburg for your flight to paradise. Your adventure continues along the Eastern African coast with a luxurious 4-night beach safari in Trou Aux Biches, Mauritius. Relish in world-class cuisine and 5-star service.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/78571bbf355ad05654fe9387eaeb8dbda4b45fdc-1920x1203.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/78571bbf355ad05654fe9387eaeb8dbda4b45fdc-1920x1203.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 5800,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "victoria-falls",
-    "mauritius"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "victoria-falls-safari-lodge"
-   ],
-   "highlights": [
-    "2 nights at Victoria Falls Safari Lodge overlooking a busy waterhole",
-    "Guided tour of Victoria Falls and sunset cruise on the Zambezi",
-    "Overnight at Southern Sun OR Tambo between flights",
-    "4 nights at 5-star Constance Sakoa Boutik in Trou Aux Biches",
-    "Beach days, spa treatments and island excursions in Mauritius",
-    "Return flights from Johannesburg to Victoria Falls and Mauritius included"
-   ],
-   "featured": false,
-   "popularityScore": 44,
-   "enquiryUrl": "https://www.safari.com/safaris/eight-day-victoria-falls-and-mauritius-combo?a=rjx",
-   "priceFromUsd": 5800,
-   "priceFromSpecialUsd": null
   },
   {
    "id": "safari.5-day-luxury-kruger-park-sabi-sand-safari",
@@ -1539,6 +1505,40 @@
    "popularityScore": 43,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-ultra-lux-big-5-sabi-sand-and-kruger-park-safari?a=rjx",
    "priceFromUsd": 6790,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.eight-day-victoria-falls-and-mauritius-combo",
+   "slug": "eight-day-victoria-falls-and-mauritius-combo",
+   "name": "8-Day Victoria Falls and Mauritius Combo",
+   "summary": "Embark on a thrilling 8-day journey, beginning with an unforgettable stay at one of Southern Africa’s premier safari lodges, Victoria Falls Safari Club. Enjoy breathtaking views of the untouched bushveld, where a central waterhole attracts a variety of wildlife. Journey onwards and enjoy a stopover in Johannesburg for your flight to paradise. Your adventure continues along the Eastern African coast with a luxurious 4-night beach safari in Trou Aux Biches, Mauritius. Relish in world-class cuisine and 5-star service.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/78571bbf355ad05654fe9387eaeb8dbda4b45fdc-1920x1203.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/78571bbf355ad05654fe9387eaeb8dbda4b45fdc-1920x1203.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 5800,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "victoria-falls",
+    "mauritius"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "victoria-falls-safari-lodge"
+   ],
+   "highlights": [
+    "2 nights at Victoria Falls Safari Lodge overlooking a busy waterhole",
+    "Guided tour of Victoria Falls and sunset cruise on the Zambezi",
+    "Overnight at Southern Sun OR Tambo between flights",
+    "4 nights at 5-star Constance Sakoa Boutik in Trou Aux Biches",
+    "Beach days, spa treatments and island excursions in Mauritius",
+    "Return flights from Johannesburg to Victoria Falls and Mauritius included"
+   ],
+   "featured": false,
+   "popularityScore": 43,
+   "enquiryUrl": "https://www.safari.com/safaris/eight-day-victoria-falls-and-mauritius-combo?a=rjx",
+   "priceFromUsd": 5800,
    "priceFromSpecialUsd": null
   },
   {
@@ -1760,7 +1760,7 @@
    "featured": true,
    "popularityScore": 29,
    "enquiryUrl": "https://www.safari.com/safaris/three-day-big-five-safari-near-cape-town?a=rjx",
-   "priceFromUsd": 1640,
+   "priceFromUsd": 1630,
    "priceFromSpecialUsd": null
   },
   {
@@ -1796,8 +1796,8 @@
    "featured": false,
    "popularityScore": 29,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-all-inclusive-lion-sands-river-lodge-safari?a=rjx",
-   "priceFromUsd": 7610,
-   "priceFromSpecialUsd": 5890
+   "priceFromUsd": 7600,
+   "priceFromSpecialUsd": 5880
   },
   {
    "id": "safari.four-day-lush-sabi-sand-river-safari",
@@ -1831,7 +1831,7 @@
    "featured": false,
    "popularityScore": 27,
    "enquiryUrl": "https://www.safari.com/safaris/four-day-lush-sabi-sand-river-safari?a=rjx",
-   "priceFromUsd": 3830,
+   "priceFromUsd": 3820,
    "priceFromSpecialUsd": null
   },
   {
@@ -1943,7 +1943,7 @@
    "featured": false,
    "popularityScore": 22,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-timeless-kruger-cape-town-safari?a=rjx",
-   "priceFromUsd": 4590,
+   "priceFromUsd": 4580,
    "priceFromSpecialUsd": null
   },
   {
@@ -2150,7 +2150,7 @@
    "featured": false,
    "popularityScore": 18,
    "enquiryUrl": "https://www.safari.com/safaris/six-day-luxury-big-5-kruger-to-sabi-sands-safari-adventure?a=rjx",
-   "priceFromUsd": 6160,
+   "priceFromUsd": 6150,
    "priceFromSpecialUsd": null
   },
   {
@@ -2349,46 +2349,6 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.seven-day-big-five-sanbona-safari-and-lux-mauritius-beach-escape",
-   "slug": "seven-day-big-five-sanbona-safari-and-lux-mauritius-beach-escape",
-   "name": "7-Day Big 5 Sanbona Safari & LUX* Mauritius Beach Escape",
-   "summary": "Embark on an unforgettable safari adventure from the vibrant city of Cape Town to the expansive Sanbona Wildlife Reserve, South Africa’s largest privately-owned nature reserve. Here, you’ll indulge in ultra-luxurious accommodations, perfectly set for a romantic escape amidst breathtaking wildlife. After your safari experience, continue your journey to LUX* Grand Gaube, a five-star resort nestled on a picturesque peninsula, surrounded by lush tropical gardens and serene lagoons—an idyllic paradise to unwind and indulge.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/bbbafff77c6ef71365464e200409db8ee6c5d146-1920x1440.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/bbbafff77c6ef71365464e200409db8ee6c5d146-1920x1440.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 78100,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "cape-town",
-    "montagu",
-    "mauritius",
-    "south-africa"
-   ],
-   "experiences": [
-    "honeymoon-safaris",
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "sanbona-dwyka",
-    "lux-grand-gaube"
-   ],
-   "highlights": [
-    "2 nights at Sanbona Dwyka Tented Camp in South Africa's largest private reserve",
-    "Twice-daily Big Five game drives and guided wilderness walks",
-    "Direct flight from Cape Town to Mauritius",
-    "5 nights at five-star LUX* Grand Gaube on a beachfront peninsula",
-    "Private boat excursion snorkelling and swimming with sea turtles",
-    "Round-trip transfers and flights included"
-   ],
-   "featured": false,
-   "popularityScore": 15,
-   "enquiryUrl": "https://www.safari.com/safaris/seven-day-big-five-sanbona-safari-and-lux-mauritius-beach-escape?a=rjx",
-   "priceFromUsd": 4830,
-   "priceFromSpecialUsd": null
-  },
-  {
    "id": "safari.eight-day-big-five-fine-wines",
    "slug": "eight-day-big-five-fine-wines",
    "name": "8-Day Big Five & Fine Wines",
@@ -2506,6 +2466,46 @@
    "priceFromSpecialUsd": null
   },
   {
+   "id": "safari.seven-day-big-five-sanbona-safari-and-lux-mauritius-beach-escape",
+   "slug": "seven-day-big-five-sanbona-safari-and-lux-mauritius-beach-escape",
+   "name": "7-Day Big 5 Sanbona Safari & LUX* Mauritius Beach Escape",
+   "summary": "Embark on an unforgettable safari adventure from the vibrant city of Cape Town to the expansive Sanbona Wildlife Reserve, South Africa’s largest privately-owned nature reserve. Here, you’ll indulge in ultra-luxurious accommodations, perfectly set for a romantic escape amidst breathtaking wildlife. After your safari experience, continue your journey to LUX* Grand Gaube, a five-star resort nestled on a picturesque peninsula, surrounded by lush tropical gardens and serene lagoons—an idyllic paradise to unwind and indulge.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/bbbafff77c6ef71365464e200409db8ee6c5d146-1920x1440.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/bbbafff77c6ef71365464e200409db8ee6c5d146-1920x1440.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 78100,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "cape-town",
+    "montagu",
+    "mauritius",
+    "south-africa"
+   ],
+   "experiences": [
+    "honeymoon-safaris",
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "sanbona-dwyka",
+    "lux-grand-gaube"
+   ],
+   "highlights": [
+    "2 nights at Sanbona Dwyka Tented Camp in South Africa's largest private reserve",
+    "Twice-daily Big Five game drives and guided wilderness walks",
+    "Direct flight from Cape Town to Mauritius",
+    "5 nights at five-star LUX* Grand Gaube on a beachfront peninsula",
+    "Private boat excursion snorkelling and swimming with sea turtles",
+    "Round-trip transfers and flights included"
+   ],
+   "featured": false,
+   "popularityScore": 14,
+   "enquiryUrl": "https://www.safari.com/safaris/seven-day-big-five-sanbona-safari-and-lux-mauritius-beach-escape?a=rjx",
+   "priceFromUsd": 4830,
+   "priceFromSpecialUsd": null
+  },
+  {
    "id": "safari.7-day-iconic-kruger-cape-town",
    "slug": "7-day-iconic-kruger-cape-town",
    "name": "7-Day Iconic Kruger & Cape Town",
@@ -2540,7 +2540,7 @@
    "featured": true,
    "popularityScore": 14,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-iconic-kruger-cape-town?a=rjx",
-   "priceFromUsd": 3440,
+   "priceFromUsd": 3430,
    "priceFromSpecialUsd": null
   },
   {
@@ -2870,7 +2870,7 @@
    "featured": false,
    "popularityScore": 10,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-all-inclusive-lion-sands-tinga-lodge-safari?a=rjx",
-   "priceFromUsd": 6410,
+   "priceFromUsd": 6400,
    "priceFromSpecialUsd": null
   },
   {
@@ -2983,7 +2983,7 @@
    "featured": false,
    "popularityScore": 10,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-fly-in-cape-town-to-kruger-luxury-safari?a=rjx",
-   "priceFromUsd": 4220,
+   "priceFromUsd": 4210,
    "priceFromSpecialUsd": null
   },
   {
@@ -3096,7 +3096,7 @@
    "featured": false,
    "popularityScore": 9,
    "enquiryUrl": "https://www.safari.com/safaris/four-day-jock-safari-lodge-fly-in-package?a=rjx",
-   "priceFromUsd": 3780,
+   "priceFromUsd": 3770,
    "priceFromSpecialUsd": null
   },
   {
@@ -3213,7 +3213,7 @@
    "featured": false,
    "popularityScore": 8,
    "enquiryUrl": "https://www.safari.com/safaris/12-day-rovos-rail-namibia-to-south-africa-safari?a=rjx",
-   "priceFromUsd": 13300,
+   "priceFromUsd": 13290,
    "priceFromSpecialUsd": null
   },
   {
@@ -3290,7 +3290,7 @@
    "featured": false,
    "popularityScore": 8,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-sabi-sabi-bush-lodge-package?a=rjx",
-   "priceFromUsd": 6710,
+   "priceFromUsd": 6700,
    "priceFromSpecialUsd": null
   },
   {
@@ -3478,7 +3478,7 @@
    "featured": false,
    "popularityScore": 6,
    "enquiryUrl": "https://www.safari.com/safaris/twelve-day-rovos-rail-pretoria-to-victoria-falls-safari?a=rjx",
-   "priceFromUsd": 10210,
+   "priceFromUsd": 10200,
    "priceFromSpecialUsd": null
   },
   {
@@ -3525,7 +3525,7 @@
    "featured": true,
    "popularityScore": 6,
    "enquiryUrl": "https://www.safari.com/safaris/14-day-self-drive-luxury-garden-route?a=rjx",
-   "priceFromUsd": 8060,
+   "priceFromUsd": 8050,
    "priceFromSpecialUsd": null
   },
   {
@@ -3595,7 +3595,40 @@
    "featured": false,
    "popularityScore": 6,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-kruger-exclusive-getaway-with-lion-sands-narina?a=rjx",
-   "priceFromUsd": 6410,
+   "priceFromUsd": 6400,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.5-day-all-inclusive-luxury-western-chobe-safari",
+   "slug": "5-day-all-inclusive-luxury-western-chobe-safari",
+   "name": "5-Day All-inclusive Luxury Western Chobe Safari",
+   "summary": null,
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/8c75bec70110242b5da885c61599078985c5b644-1920x1280.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/8c75bec70110242b5da885c61599078985c5b644-1920x1280.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 3140,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "chobe"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "muchenje"
+   ],
+   "highlights": [
+    "4 nights at Muchenje Safari Lodge in Western Chobe National Park",
+    "Twice-daily game drives plus night safaris with gourmet dinners",
+    "Full-day Sedudu boat cruise along the Chobe River",
+    "Sunrise guided walking safari and mokoro canoe excursion",
+    "Cultural visit to a local village and schools",
+    "All meals, drinks, park fees and Kasane Airport transfers included"
+   ],
+   "featured": false,
+   "popularityScore": 6,
+   "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-luxury-western-chobe-safari?a=rjx",
+   "priceFromUsd": 3140,
    "priceFromSpecialUsd": null
   },
   {
@@ -3882,75 +3915,6 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.5-day-madikwe-big-5-safari-escape",
-   "slug": "5-day-madikwe-big-5-safari-escape",
-   "name": "5 Day Madikwe Big 5 Safari Escape",
-   "summary": "Just in case you're traveling to South Africa soon, you can enjoy incredible savings with this short-notice 5-day package based on a last-minute special available to you if you Book & Travel within 21 days. Experience a Luxury Safari Adventure at the 5-Star Tuningi Safari Lodge located in the Malaria-Free Madikwe Game Reserve with opportunities to see the famous 'Big Five', & wild dogs a firm favorite in the 75000-hectare reserve. Enjoy top-tier hospitality in a friendly and relaxed environment.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/f32f0a233dc42a81571044c7579c0d378e948cd0-1600x961.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/f32f0a233dc42a81571044c7579c0d378e948cd0-1600x961.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 64818,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "south-africa",
-    "madikwe-pilanesberg"
-   ],
-   "experiences": [
-    "travel-specials",
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "tuningi"
-   ],
-   "highlights": [
-    "4 nights at 5-star Tuningi Safari Lodge in malaria-free Madikwe",
-    "Twice-daily game drives with qualified rangers across 75,000 hectares",
-    "Big Five tracking plus Madikwe's renowned wild dog sightings",
-    "Optional guided bush walks and in-suite massage treatments",
-    "All meals, drinks on drives, and round-trip Johannesburg transfers included"
-   ],
-   "featured": false,
-   "popularityScore": 5,
-   "enquiryUrl": "https://www.safari.com/safaris/5-day-madikwe-big-5-safari-escape?a=rjx",
-   "priceFromUsd": 4010,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.5-day-all-inclusive-luxury-western-chobe-safari",
-   "slug": "5-day-all-inclusive-luxury-western-chobe-safari",
-   "name": "5-Day All-inclusive Luxury Western Chobe Safari",
-   "summary": null,
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/8c75bec70110242b5da885c61599078985c5b644-1920x1280.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/8c75bec70110242b5da885c61599078985c5b644-1920x1280.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 3140,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "chobe"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "muchenje"
-   ],
-   "highlights": [
-    "4 nights at Muchenje Safari Lodge in Western Chobe National Park",
-    "Twice-daily game drives plus night safaris with gourmet dinners",
-    "Full-day Sedudu boat cruise along the Chobe River",
-    "Sunrise guided walking safari and mokoro canoe excursion",
-    "Cultural visit to a local village and schools",
-    "All meals, drinks, park fees and Kasane Airport transfers included"
-   ],
-   "featured": false,
-   "popularityScore": 5,
-   "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-luxury-western-chobe-safari?a=rjx",
-   "priceFromUsd": 3140,
-   "priceFromSpecialUsd": null
-  },
-  {
    "id": "safari.5-day-thornybush-fly-in-package",
    "slug": "5-day-thornybush-fly-in-package",
    "name": "5-Day Thornybush Fly-In Package",
@@ -4027,7 +3991,7 @@
    "popularityScore": 5,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-ultimate-fly-in-luxury-sabi-sand-safari?a=rjx",
    "priceFromUsd": 8570,
-   "priceFromSpecialUsd": 7680
+   "priceFromSpecialUsd": 7670
   },
   {
    "id": "safari.7-day-chobe-delta-fly-in-tour",
@@ -4107,7 +4071,7 @@
    "popularityScore": 5,
    "enquiryUrl": "https://www.safari.com/safaris/nine-day-kruger-kwazulu-fly-drive?a=rjx",
    "priceFromUsd": 6110,
-   "priceFromSpecialUsd": 5510
+   "priceFromSpecialUsd": 5500
   },
   {
    "id": "safari.9-day-victoria-falls-cape-town-malamala-camp-ultra-luxury-safari",
@@ -4344,6 +4308,82 @@
    "popularityScore": 4,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-nottens-camp-all-inclusive-safari?a=rjx",
    "priceFromUsd": 3420,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.5-day-madikwe-big-5-safari-escape",
+   "slug": "5-day-madikwe-big-5-safari-escape",
+   "name": "5 Day Madikwe Big 5 Safari Escape",
+   "summary": "Just in case you're traveling to South Africa soon, you can enjoy incredible savings with this short-notice 5-day package based on a last-minute special available to you if you Book & Travel within 21 days. Experience a Luxury Safari Adventure at the 5-Star Tuningi Safari Lodge located in the Malaria-Free Madikwe Game Reserve with opportunities to see the famous 'Big Five', & wild dogs a firm favorite in the 75000-hectare reserve. Enjoy top-tier hospitality in a friendly and relaxed environment.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/f32f0a233dc42a81571044c7579c0d378e948cd0-1600x961.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/f32f0a233dc42a81571044c7579c0d378e948cd0-1600x961.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 64818,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "south-africa",
+    "madikwe-pilanesberg"
+   ],
+   "experiences": [
+    "travel-specials",
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "tuningi"
+   ],
+   "highlights": [
+    "4 nights at 5-star Tuningi Safari Lodge in malaria-free Madikwe",
+    "Twice-daily game drives with qualified rangers across 75,000 hectares",
+    "Big Five tracking plus Madikwe's renowned wild dog sightings",
+    "Optional guided bush walks and in-suite massage treatments",
+    "All meals, drinks on drives, and round-trip Johannesburg transfers included"
+   ],
+   "featured": false,
+   "popularityScore": 4,
+   "enquiryUrl": "https://www.safari.com/safaris/5-day-madikwe-big-5-safari-escape?a=rjx",
+   "priceFromUsd": 4010,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.7-day-sumptuous-timbavati-and-sabi-sand-safari",
+   "slug": "7-day-sumptuous-timbavati-and-sabi-sand-safari",
+   "name": "7 Day Sumptuous Timbavati And Sabi Sand Safari",
+   "summary": "The Ultimate Wedding & Honeymoon Package, this 7-day safari incorporates a safari experience in the famous Sabi Sands Private Game Reserve and the Timbavati Private Game Reserve; arguably the best wildlife destinations in Africa.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/5e9416bad99251ee48879f6673df413f88f34fc7-1600x1064.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/5e9416bad99251ee48879f6673df413f88f34fc7-1600x1064.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 148228,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "south-africa",
+    "timbavati",
+    "sabi-sand"
+   ],
+   "experiences": [
+    "photographic-safaris",
+    "family-safaris",
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "kings",
+    "leopard-hills"
+   ],
+   "highlights": [
+    "3 nights at Kings Camp in Timbavati, then 3 at Leopard Hills in Sabi Sand",
+    "Twice-daily open-vehicle game drives with ranger and tracker",
+    "Big Five viewing with chance of Timbavati's famous white lions",
+    "Optional walking safaris with an armed ranger in both reserves",
+    "Photography tips from Leopard Hills' competition-entered rangers",
+    "Round-trip flights from OR Tambo and all inter-reserve transfers"
+   ],
+   "featured": false,
+   "popularityScore": 4,
+   "enquiryUrl": "https://www.safari.com/safaris/7-day-sumptuous-timbavati-and-sabi-sand-safari?a=rjx",
+   "priceFromUsd": 9160,
    "priceFromSpecialUsd": null
   },
   {
@@ -4593,7 +4633,7 @@
    "featured": false,
    "popularityScore": 3,
    "enquiryUrl": "https://www.safari.com/safaris/twelve-day-cape-town-kruger-and-madikwe-safari?a=rjx",
-   "priceFromUsd": 9650,
+   "priceFromUsd": 9640,
    "priceFromSpecialUsd": null
   },
   {
@@ -4661,46 +4701,6 @@
    "popularityScore": 3,
    "enquiryUrl": "https://www.safari.com/safaris/five-day-ulusaba-promotion?a=rjx",
    "priceFromUsd": null,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.7-day-sumptuous-timbavati-and-sabi-sand-safari",
-   "slug": "7-day-sumptuous-timbavati-and-sabi-sand-safari",
-   "name": "7 Day Sumptuous Timbavati And Sabi Sand Safari",
-   "summary": "The Ultimate Wedding & Honeymoon Package, this 7-day safari incorporates a safari experience in the famous Sabi Sands Private Game Reserve and the Timbavati Private Game Reserve; arguably the best wildlife destinations in Africa.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/5e9416bad99251ee48879f6673df413f88f34fc7-1600x1064.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/5e9416bad99251ee48879f6673df413f88f34fc7-1600x1064.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 148228,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "south-africa",
-    "timbavati",
-    "sabi-sand"
-   ],
-   "experiences": [
-    "photographic-safaris",
-    "family-safaris",
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "kings",
-    "leopard-hills"
-   ],
-   "highlights": [
-    "3 nights at Kings Camp in Timbavati, then 3 at Leopard Hills in Sabi Sand",
-    "Twice-daily open-vehicle game drives with ranger and tracker",
-    "Big Five viewing with chance of Timbavati's famous white lions",
-    "Optional walking safaris with an armed ranger in both reserves",
-    "Photography tips from Leopard Hills' competition-entered rangers",
-    "Round-trip flights from OR Tambo and all inter-reserve transfers"
-   ],
-   "featured": false,
-   "popularityScore": 3,
-   "enquiryUrl": "https://www.safari.com/safaris/7-day-sumptuous-timbavati-and-sabi-sand-safari?a=rjx",
-   "priceFromUsd": 9170,
    "priceFromSpecialUsd": null
   },
   {
@@ -4900,8 +4900,8 @@
    "featured": false,
    "popularityScore": 2,
    "enquiryUrl": "https://www.safari.com/safaris/11-day-premier-cape-town-kruger-safari?a=rjx",
-   "priceFromUsd": 12820,
-   "priceFromSpecialUsd": 12110
+   "priceFromUsd": 12810,
+   "priceFromSpecialUsd": 12100
   },
   {
    "id": "safari.ten-night-victoria-falls-to-okavango-a-luxurious-safari-odyssey",
@@ -5045,7 +5045,7 @@
    "featured": false,
    "popularityScore": 2,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-fly-in-londolozi-tree-camp-safari?a=rjx",
-   "priceFromUsd": 9850,
+   "priceFromUsd": 9840,
    "priceFromSpecialUsd": null
   },
   {
@@ -5498,7 +5498,7 @@
    "featured": false,
    "popularityScore": 1,
    "enquiryUrl": "https://www.safari.com/safaris/11-day-cape-town-tswalu-and-kruger?a=rjx",
-   "priceFromUsd": 21520,
+   "priceFromUsd": 21500,
    "priceFromSpecialUsd": null
   },
   {
@@ -5878,7 +5878,7 @@
    "featured": false,
    "popularityScore": 1,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-londolozi-varty-camp-fly-in-safari?a=rjx",
-   "priceFromUsd": 6530,
+   "priceFromUsd": 6520,
    "priceFromSpecialUsd": null
   },
   {
@@ -5915,7 +5915,7 @@
    "featured": false,
    "popularityScore": 1,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-promotion-with-malamala-camp?a=rjx",
-   "priceFromUsd": 7210,
+   "priceFromUsd": 7200,
    "priceFromSpecialUsd": 5590
   },
   {
@@ -6017,7 +6017,7 @@
    "featured": false,
    "popularityScore": 1,
    "enquiryUrl": "https://www.safari.com/safaris/6-day-garonga-romantic-safari-big-five-scenic-wonders?a=rjx",
-   "priceFromUsd": 4280,
+   "priceFromUsd": 4270,
    "priceFromSpecialUsd": 3580
   },
   {
@@ -6130,7 +6130,7 @@
    "featured": false,
    "popularityScore": 1,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-malaria-free-big-5-amakhala-safari-best-of-both?a=rjx",
-   "priceFromUsd": 4290,
+   "priceFromUsd": 4280,
    "priceFromSpecialUsd": null
   },
   {
@@ -6815,7 +6815,7 @@
    "featured": true,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/16-day-bush-garden-route?a=rjx",
-   "priceFromUsd": 5400,
+   "priceFromUsd": 5390,
    "priceFromSpecialUsd": null
   },
   {
@@ -7350,8 +7350,8 @@
    "featured": true,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/sabi-sands-promotion?a=rjx",
-   "priceFromUsd": 7240,
-   "priceFromSpecialUsd": 4530
+   "priceFromUsd": 7230,
+   "priceFromSpecialUsd": 4520
   },
   {
    "id": "safari.5-day-all-inclusive-timbavati-safari",
@@ -7384,7 +7384,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-timbavati-safari?a=rjx",
-   "priceFromUsd": 5940,
+   "priceFromUsd": 5930,
    "priceFromSpecialUsd": null
   },
   {
@@ -7594,7 +7594,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-singita-kruger-park-promotion?a=rjx",
-   "priceFromUsd": 10310,
+   "priceFromUsd": 10300,
    "priceFromSpecialUsd": null
   },
   {
@@ -8237,7 +8237,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-cape-town-safari-experience?a=rjx",
-   "priceFromUsd": 2130,
+   "priceFromUsd": 2120,
    "priceFromSpecialUsd": null
   },
   {
@@ -8275,7 +8275,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-kruger-and-cape-winelands-safari?a=rjx",
-   "priceFromUsd": 6040,
+   "priceFromUsd": 6030,
    "priceFromSpecialUsd": null
   },
   {
@@ -8385,7 +8385,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/seven-day-namibian-desert-coast-adventure?a=rjx",
-   "priceFromUsd": 11150,
+   "priceFromUsd": 11140,
    "priceFromSpecialUsd": null
   },
   {
@@ -8699,7 +8699,7 @@
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/8-day-cape-town-to-kwazulu-natal-fly-in-safari?a=rjx",
    "priceFromUsd": 7600,
-   "priceFromSpecialUsd": 6690
+   "priceFromSpecialUsd": 6680
   },
   {
    "id": "safari.eight-day-exclusive-northern-tanzania-migration-safari",
@@ -8990,7 +8990,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/8-day-ultra-lux-tengile-and-tswalu-fly-in-safari?a=rjx",
-   "priceFromUsd": 22050,
+   "priceFromUsd": 22040,
    "priceFromSpecialUsd": null
   },
   {
@@ -9032,7 +9032,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/9-day-diverse-namibia?a=rjx",
-   "priceFromUsd": 7020,
+   "priceFromUsd": 7010,
    "priceFromSpecialUsd": null
   },
   {
@@ -9079,7 +9079,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/nine-day-ultra-lux-fly-in-namibia?a=rjx",
-   "priceFromUsd": 12370,
+   "priceFromUsd": 12360,
    "priceFromSpecialUsd": null
   },
   {
@@ -9237,8 +9237,8 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/nine-day-opulent-cape-town-sabi-sand-safari?a=rjx",
-   "priceFromUsd": 18840,
-   "priceFromSpecialUsd": 15760
+   "priceFromUsd": 18830,
+   "priceFromSpecialUsd": 15750
   },
   {
    "id": "safari.nine-day-wild-encounters-kenyas-big-five-and-ugandas-gentle-giants",
