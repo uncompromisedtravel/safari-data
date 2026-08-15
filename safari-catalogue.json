@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-14T08:01:43.676Z",
+ "generated": "2026-08-15T04:15:36.857Z",
  "source": "safari.com affiliate API",
  "fx": {
-  "zarPerUsd": 16.179379,
+  "zarPerUsd": 16.187231,
   "source": "open.er-api.com",
   "note": "ZAR prices converted to approximate USD at bake time"
  },
@@ -1387,7 +1387,7 @@
    "featured": false,
    "popularityScore": 50,
    "enquiryUrl": "https://www.safari.com/safaris/eight-day-sabi-sands-sun-city-cape-town-adventure?a=rjx",
-   "priceFromUsd": 5910,
+   "priceFromUsd": 5900,
    "priceFromSpecialUsd": null
   },
   {
@@ -1649,7 +1649,7 @@
    "popularityScore": 35,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-greater-kruger-with-simbavati?a=rjx",
    "priceFromUsd": 3990,
-   "priceFromSpecialUsd": 3180
+   "priceFromSpecialUsd": 3170
   },
   {
    "id": "safari.eleven-day-southern-africa-safari-in-style",
@@ -1983,7 +1983,7 @@
    "featured": false,
    "popularityScore": 22,
    "enquiryUrl": "https://www.safari.com/safaris/seven-day-adventure-safari-in-cape-town-kapama-game-reserve?a=rjx",
-   "priceFromUsd": 3900,
+   "priceFromUsd": 3890,
    "priceFromSpecialUsd": null
   },
   {
@@ -2142,7 +2142,7 @@
    "featured": false,
    "popularityScore": 19,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-sabi-sand-north-to-south-safari?a=rjx",
-   "priceFromUsd": 4630,
+   "priceFromUsd": 4620,
    "priceFromSpecialUsd": null
   },
   {
@@ -2385,7 +2385,7 @@
    "featured": false,
    "popularityScore": 15,
    "enquiryUrl": "https://www.safari.com/safaris/seven-day-big-five-sanbona-safari-and-lux-mauritius-beach-escape?a=rjx",
-   "priceFromUsd": 4830,
+   "priceFromUsd": 4820,
    "priceFromSpecialUsd": null
   },
   {
@@ -2925,42 +2925,6 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.4-day-all-inclusive-lion-sands-tinga-lodge-safari",
-   "slug": "4-day-all-inclusive-lion-sands-tinga-lodge-safari",
-   "name": "4-Day All-Inclusive Lion Sands Tinga Lodge Safari",
-   "summary": "The lodge's limited number of suites ensures guests experience the utmost privacy and bespoke service. Crafted to harmonize with the natural environment, the suites feature expansive windows and outdoor showers, immersing guests in the wilderness. Renowned for its enchanting atmosphere and unmatched wildlife encounters. Tinga Lodge promises an unforgettable safari.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/abe87508d1668b02e986d762b3b612e5b6622745-1920x1278.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/abe87508d1668b02e986d762b3b612e5b6622745-1920x1278.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 103559,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "south-africa",
-    "sabi-sabi",
-    "lion-sands"
-   ],
-   "experiences": [
-    "big-5-safaris"
-   ],
-   "brand": "lion-sands",
-   "lodges": [
-    "lion-sands-tinga"
-   ],
-   "highlights": [
-    "3 nights at Lion Sands Tinga Lodge in the Sabi Sand",
-    "Private 125-square-metre suite with plunge pool and outdoor shower",
-    "Twice-daily game drives plus guided bush walks",
-    "Bush dinners and stargazing from your suite's elevated deck",
-    "All meals, selected drinks and Skukuza Airport transfers included"
-   ],
-   "featured": false,
-   "popularityScore": 10,
-   "enquiryUrl": "https://www.safari.com/safaris/4-day-all-inclusive-lion-sands-tinga-lodge-safari?a=rjx",
-   "priceFromUsd": 6400,
-   "priceFromSpecialUsd": null
-  },
-  {
    "id": "safari.four-day-chobe-national-park-safari",
    "slug": "four-day-chobe-national-park-safari",
    "name": "4-day Chobe National Park safari",
@@ -3107,42 +3071,6 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.the-kyle-richards-lion-sands-safari-package",
-   "slug": "the-kyle-richards-lion-sands-safari-package",
-   "name": "The Kyle Richards Lion Sands Safari Package",
-   "summary": "Embark on the exclusive 4-day safari at Hinkwenu Residence in Lion Sands Tinga Lodge, the very safari where we were lucky enough to host Kyle Richards in October 2024. Nestled in the heart of the African wilderness, this retreat offers every corner for you to savor. Enhance your adventure with a private safari vehicle and a dedicated team of field guides and trackers. Your experience is further elevated by a residence chef who crafts meals tailored to your specifications. Conclude your journey with a romantic night under the African sky, where the stars add the ultimate touch of romance to your stay in the Tinyeleti Treehouse.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/e09e75d23fcb90da375693c0fcd2396dcbc69984-1425x1159.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/e09e75d23fcb90da375693c0fcd2396dcbc69984-1425x1159.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 129707,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "sabi-sand",
-    "lion-sands"
-   ],
-   "experiences": [
-    "big-5-safaris"
-   ],
-   "brand": "lion-sands",
-   "lodges": [
-    "lion-sands-tinga"
-   ],
-   "highlights": [
-    "2 nights in the exclusive-use Hi'nkwenu Residence at Lion Sands Tinga Lodge",
-    "Private game vehicle with dedicated FGASA-accredited guide and tracker",
-    "Residence chef, butler, concierge and housekeeper on call throughout",
-    "One night sleep-out in the Tinyeleti Treehouse under the stars",
-    "Game drives in the Sabi Sand and greater Kruger National Park",
-    "Round-trip flights from Cape Town and private Skukuza transfers included"
-   ],
-   "featured": false,
-   "popularityScore": 10,
-   "enquiryUrl": "https://www.safari.com/safaris/the-kyle-richards-lion-sands-safari-package?a=rjx",
-   "priceFromUsd": 8020,
-   "priceFromSpecialUsd": null
-  },
-  {
    "id": "safari.12-day-rovos-rail-namibia-to-south-africa-safari",
    "slug": "12-day-rovos-rail-namibia-to-south-africa-safari",
    "name": "12-Day Rovos Rail Namibia to South Africa Safari",
@@ -3182,7 +3110,7 @@
    "featured": false,
    "popularityScore": 9,
    "enquiryUrl": "https://www.safari.com/safaris/12-day-rovos-rail-namibia-to-south-africa-safari?a=rjx",
-   "priceFromUsd": 13290,
+   "priceFromUsd": 13280,
    "priceFromSpecialUsd": null
   },
   {
@@ -3216,41 +3144,6 @@
    "popularityScore": 9,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-rovos-rail-pretoria-to-cape-town?a=rjx",
    "priceFromUsd": 2780,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.four-day-jock-safari-lodge-fly-in-package",
-   "slug": "four-day-jock-safari-lodge-fly-in-package",
-   "name": "4-Day Jock Safari Lodge Fly-in Package",
-   "summary": "Experience an authentic, unfiltered safari like never before on this 4 day safari at Jock Safari Lodge, located within the Kruger National Park. Nestled in the South-Western corner of the renowned Kruger National Park and overlooking the Mitomeni and Biyamiti rivers, which flow as one, Jock Safari Lodge is the perfect place to experience breathtaking wildlife sightings, including the notorious Big 5. Your trip includes return flights from/to Johannesburg, all meals, accommodation with views of the bush, and game drives in a private concession in the Kruger National Park.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/f47b0e6d017a64406f8ed56381702ddbc0afbc61-1600x833.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/f47b0e6d017a64406f8ed56381702ddbc0afbc61-1600x833.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 61062,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "kruger-national-park"
-   ],
-   "experiences": [
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "jock"
-   ],
-   "highlights": [
-    "3 nights at Jock Safari Lodge in a private 6,000-hectare Kruger concession",
-    "Suites with private plunge pool and Sala overlooking the riverbed",
-    "Twice-daily Big Five game drives with ranger and tracker",
-    "Guided wilderness walks and exclusive riverbed traversing rights",
-    "All meals, house beverages and spa treatments available on site",
-    "Round-trip flights from Johannesburg and private lodge transfers"
-   ],
-   "featured": false,
-   "popularityScore": 9,
-   "enquiryUrl": "https://www.safari.com/safaris/four-day-jock-safari-lodge-fly-in-package?a=rjx",
-   "priceFromUsd": 3770,
    "priceFromSpecialUsd": null
   },
   {
@@ -3324,6 +3217,77 @@
    "popularityScore": 9,
    "enquiryUrl": "https://www.safari.com/safaris/eight-day-luxe-getaway-from-sabi-sabi-to-mauritius?a=rjx",
    "priceFromUsd": 10162,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.4-day-all-inclusive-lion-sands-tinga-lodge-safari",
+   "slug": "4-day-all-inclusive-lion-sands-tinga-lodge-safari",
+   "name": "4-Day All-Inclusive Lion Sands Tinga Lodge Safari",
+   "summary": "The lodge's limited number of suites ensures guests experience the utmost privacy and bespoke service. Crafted to harmonize with the natural environment, the suites feature expansive windows and outdoor showers, immersing guests in the wilderness. Renowned for its enchanting atmosphere and unmatched wildlife encounters. Tinga Lodge promises an unforgettable safari.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/abe87508d1668b02e986d762b3b612e5b6622745-1920x1278.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/abe87508d1668b02e986d762b3b612e5b6622745-1920x1278.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 103559,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "south-africa",
+    "sabi-sabi",
+    "lion-sands"
+   ],
+   "experiences": [
+    "big-5-safaris"
+   ],
+   "brand": "lion-sands",
+   "lodges": [
+    "lion-sands-tinga"
+   ],
+   "highlights": [
+    "3 nights at Lion Sands Tinga Lodge in the Sabi Sand",
+    "Private 125-square-metre suite with plunge pool and outdoor shower",
+    "Twice-daily game drives plus guided bush walks",
+    "Bush dinners and stargazing from your suite's elevated deck",
+    "All meals, selected drinks and Skukuza Airport transfers included"
+   ],
+   "featured": false,
+   "popularityScore": 8,
+   "enquiryUrl": "https://www.safari.com/safaris/4-day-all-inclusive-lion-sands-tinga-lodge-safari?a=rjx",
+   "priceFromUsd": 6400,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.four-day-jock-safari-lodge-fly-in-package",
+   "slug": "four-day-jock-safari-lodge-fly-in-package",
+   "name": "4-Day Jock Safari Lodge Fly-in Package",
+   "summary": "Experience an authentic, unfiltered safari like never before on this 4 day safari at Jock Safari Lodge, located within the Kruger National Park. Nestled in the South-Western corner of the renowned Kruger National Park and overlooking the Mitomeni and Biyamiti rivers, which flow as one, Jock Safari Lodge is the perfect place to experience breathtaking wildlife sightings, including the notorious Big 5. Your trip includes return flights from/to Johannesburg, all meals, accommodation with views of the bush, and game drives in a private concession in the Kruger National Park.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/f47b0e6d017a64406f8ed56381702ddbc0afbc61-1600x833.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/f47b0e6d017a64406f8ed56381702ddbc0afbc61-1600x833.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 61062,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "kruger-national-park"
+   ],
+   "experiences": [
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "jock"
+   ],
+   "highlights": [
+    "3 nights at Jock Safari Lodge in a private 6,000-hectare Kruger concession",
+    "Suites with private plunge pool and Sala overlooking the riverbed",
+    "Twice-daily Big Five game drives with ranger and tracker",
+    "Guided wilderness walks and exclusive riverbed traversing rights",
+    "All meals, house beverages and spa treatments available on site",
+    "Round-trip flights from Johannesburg and private lodge transfers"
+   ],
+   "featured": false,
+   "popularityScore": 8,
+   "enquiryUrl": "https://www.safari.com/safaris/four-day-jock-safari-lodge-fly-in-package?a=rjx",
+   "priceFromUsd": 3770,
    "priceFromSpecialUsd": null
   },
   {
@@ -3412,6 +3376,42 @@
    "priceFromSpecialUsd": 5234
   },
   {
+   "id": "safari.the-kyle-richards-lion-sands-safari-package",
+   "slug": "the-kyle-richards-lion-sands-safari-package",
+   "name": "The Kyle Richards Lion Sands Safari Package",
+   "summary": "Embark on the exclusive 4-day safari at Hinkwenu Residence in Lion Sands Tinga Lodge, the very safari where we were lucky enough to host Kyle Richards in October 2024. Nestled in the heart of the African wilderness, this retreat offers every corner for you to savor. Enhance your adventure with a private safari vehicle and a dedicated team of field guides and trackers. Your experience is further elevated by a residence chef who crafts meals tailored to your specifications. Conclude your journey with a romantic night under the African sky, where the stars add the ultimate touch of romance to your stay in the Tinyeleti Treehouse.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/e09e75d23fcb90da375693c0fcd2396dcbc69984-1425x1159.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/e09e75d23fcb90da375693c0fcd2396dcbc69984-1425x1159.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 129707,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "sabi-sand",
+    "lion-sands"
+   ],
+   "experiences": [
+    "big-5-safaris"
+   ],
+   "brand": "lion-sands",
+   "lodges": [
+    "lion-sands-tinga"
+   ],
+   "highlights": [
+    "2 nights in the exclusive-use Hi'nkwenu Residence at Lion Sands Tinga Lodge",
+    "Private game vehicle with dedicated FGASA-accredited guide and tracker",
+    "Residence chef, butler, concierge and housekeeper on call throughout",
+    "One night sleep-out in the Tinyeleti Treehouse under the stars",
+    "Game drives in the Sabi Sand and greater Kruger National Park",
+    "Round-trip flights from Cape Town and private Skukuza transfers included"
+   ],
+   "featured": false,
+   "popularityScore": 8,
+   "enquiryUrl": "https://www.safari.com/safaris/the-kyle-richards-lion-sands-safari-package?a=rjx",
+   "priceFromUsd": 8010,
+   "priceFromSpecialUsd": null
+  },
+  {
    "id": "safari.twelve-day-rovos-rail-pretoria-to-victoria-falls-safari",
    "slug": "twelve-day-rovos-rail-pretoria-to-victoria-falls-safari",
    "name": "12-Day Rovos Rail Pretoria to Victoria Falls Safari",
@@ -3443,7 +3443,7 @@
    "featured": false,
    "popularityScore": 7,
    "enquiryUrl": "https://www.safari.com/safaris/twelve-day-rovos-rail-pretoria-to-victoria-falls-safari?a=rjx",
-   "priceFromUsd": 10200,
+   "priceFromUsd": 10190,
    "priceFromSpecialUsd": null
   },
   {
@@ -3830,7 +3830,7 @@
    "popularityScore": 5,
    "enquiryUrl": "https://www.safari.com/safaris/10-day-kruger-to-cape-luxury-safari?a=rjx",
    "priceFromUsd": 9380,
-   "priceFromSpecialUsd": 8870
+   "priceFromSpecialUsd": 8860
   },
   {
    "id": "safari.4-day-fly-in-victoria-falls-ultimate-adventure",
@@ -3934,7 +3934,7 @@
    "popularityScore": 5,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-thornybush-fly-in-package?a=rjx",
    "priceFromUsd": 4760,
-   "priceFromSpecialUsd": 3750
+   "priceFromSpecialUsd": 3740
   },
   {
    "id": "safari.5-day-ultimate-fly-in-luxury-sabi-sand-safari",
@@ -3975,7 +3975,7 @@
    "featured": false,
    "popularityScore": 5,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-ultimate-fly-in-luxury-sabi-sand-safari?a=rjx",
-   "priceFromUsd": 8570,
+   "priceFromUsd": 8560,
    "priceFromSpecialUsd": 7670
   },
   {
@@ -4314,7 +4314,7 @@
    "featured": false,
    "popularityScore": 4,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-nottens-camp-all-inclusive-safari?a=rjx",
-   "priceFromUsd": 3420,
+   "priceFromUsd": 3410,
    "priceFromSpecialUsd": null
   },
   {
@@ -4350,7 +4350,7 @@
    "featured": false,
    "popularityScore": 4,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-madikwe-big-5-safari-escape?a=rjx",
-   "priceFromUsd": 4010,
+   "priceFromUsd": 4000,
    "priceFromSpecialUsd": null
   },
   {
@@ -4666,43 +4666,6 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.4-day-ultra-lux-safari-at-lion-sands-ivory-lodge",
-   "slug": "4-day-ultra-lux-safari-at-lion-sands-ivory-lodge",
-   "name": "4-Day Ultra-Lux Safari at Lion Sands Ivory Lodge",
-   "summary": "Lion Sands Ivory Lodge offers unparalleled exclusivity for those seeking solitude and luxury. Nestled by the river, its eight villas provide an intimate viewing of the reserve’s abundant wildlife. Whether from your bed, deck, private plunge pool, or the guest spa, Ivory Lodge presents one of Africa’s most pristine vistas.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/7bce4be0ea180f1d8ee87d4b946cacbb191e9f8e-1920x1312.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/7bce4be0ea180f1d8ee87d4b946cacbb191e9f8e-1920x1312.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 162055,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "south-africa",
-    "sabi-sand",
-    "lion-sands"
-   ],
-   "experiences": [
-    "luxury-safaris",
-    "big-5-safaris"
-   ],
-   "brand": "lion-sands",
-   "lodges": [
-    "lion-sands-ivory"
-   ],
-   "highlights": [
-    "3 nights at Lion Sands Ivory Lodge in the Sabi Sand",
-    "Stay in one of just eight riverside villas with private plunge pools",
-    "Twice-daily game drives plus guided bush walks with expert trackers",
-    "Evening drives for nocturnal wildlife and exceptional stargazing",
-    "All meals, selected drinks and Skukuza Airport transfers included"
-   ],
-   "featured": false,
-   "popularityScore": 3,
-   "enquiryUrl": "https://www.safari.com/safaris/4-day-ultra-lux-safari-at-lion-sands-ivory-lodge?a=rjx",
-   "priceFromUsd": 10020,
-   "priceFromSpecialUsd": null
-  },
-  {
    "id": "safari.five-day-timbavati-bush-adventure-all-inclusive-promotion",
    "slug": "five-day-timbavati-bush-adventure-all-inclusive-promotion",
    "name": "5 Day Timbavati Bush Adventure - All Inclusive Promotion",
@@ -4843,7 +4806,7 @@
    "popularityScore": 3,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-south-african-safari-city-experience?a=rjx",
    "priceFromUsd": 3580,
-   "priceFromSpecialUsd": 3150
+   "priceFromSpecialUsd": 3140
   },
   {
    "id": "safari.7-day-ultra-lux-cape-town-and-londolozi-combo",
@@ -4886,7 +4849,7 @@
    "featured": false,
    "popularityScore": 3,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-ultra-lux-cape-town-and-londolozi-combo?a=rjx",
-   "priceFromUsd": 8980,
+   "priceFromUsd": 8970,
    "priceFromSpecialUsd": null
   },
   {
@@ -5005,7 +4968,7 @@
    "featured": false,
    "popularityScore": 2,
    "enquiryUrl": "https://www.safari.com/safaris/11-day-premier-cape-town-kruger-safari?a=rjx",
-   "priceFromUsd": 12810,
+   "priceFromUsd": 12800,
    "priceFromSpecialUsd": 12100
   },
   {
@@ -5125,7 +5088,7 @@
    "popularityScore": 2,
    "enquiryUrl": "https://www.safari.com/safaris/twelve-day-cape-town-kruger-and-madikwe-safari?a=rjx",
    "priceFromUsd": 9640,
-   "priceFromSpecialUsd": 7880
+   "priceFromSpecialUsd": 7870
   },
   {
    "id": "safari.three-day-big-5-self-drive-tour-to-pilanesberg",
@@ -5195,7 +5158,7 @@
    "featured": false,
    "popularityScore": 2,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-fly-in-londolozi-tree-camp-safari?a=rjx",
-   "priceFromUsd": 9840,
+   "priceFromUsd": 9830,
    "priceFromSpecialUsd": null
   },
   {
@@ -5231,6 +5194,43 @@
    "popularityScore": 2,
    "enquiryUrl": "https://www.safari.com/safaris/four-day-rwanda-gorilla-and-golden-monkey-trekking-adventure-affordable-unforgettable?a=rjx",
    "priceFromUsd": 3133,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.4-day-ultra-lux-safari-at-lion-sands-ivory-lodge",
+   "slug": "4-day-ultra-lux-safari-at-lion-sands-ivory-lodge",
+   "name": "4-Day Ultra-Lux Safari at Lion Sands Ivory Lodge",
+   "summary": "Lion Sands Ivory Lodge offers unparalleled exclusivity for those seeking solitude and luxury. Nestled by the river, its eight villas provide an intimate viewing of the reserve’s abundant wildlife. Whether from your bed, deck, private plunge pool, or the guest spa, Ivory Lodge presents one of Africa’s most pristine vistas.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/7bce4be0ea180f1d8ee87d4b946cacbb191e9f8e-1920x1312.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/7bce4be0ea180f1d8ee87d4b946cacbb191e9f8e-1920x1312.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 162055,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "south-africa",
+    "sabi-sand",
+    "lion-sands"
+   ],
+   "experiences": [
+    "luxury-safaris",
+    "big-5-safaris"
+   ],
+   "brand": "lion-sands",
+   "lodges": [
+    "lion-sands-ivory"
+   ],
+   "highlights": [
+    "3 nights at Lion Sands Ivory Lodge in the Sabi Sand",
+    "Stay in one of just eight riverside villas with private plunge pools",
+    "Twice-daily game drives plus guided bush walks with expert trackers",
+    "Evening drives for nocturnal wildlife and exceptional stargazing",
+    "All meals, selected drinks and Skukuza Airport transfers included"
+   ],
+   "featured": false,
+   "popularityScore": 2,
+   "enquiryUrl": "https://www.safari.com/safaris/4-day-ultra-lux-safari-at-lion-sands-ivory-lodge?a=rjx",
+   "priceFromUsd": 10010,
    "priceFromSpecialUsd": null
   },
   {
@@ -5461,7 +5461,7 @@
    "featured": false,
    "popularityScore": 2,
    "enquiryUrl": "https://www.safari.com/safaris/9-day-cape-town-wine-and-wild-sabi-sands-safari?a=rjx",
-   "priceFromUsd": 8740,
+   "priceFromUsd": 8730,
    "priceFromSpecialUsd": null
   },
   {
@@ -5685,7 +5685,7 @@
    "featured": false,
    "popularityScore": 1,
    "enquiryUrl": "https://www.safari.com/safaris/11-day-cape-town-tswalu-and-kruger?a=rjx",
-   "priceFromUsd": 21500,
+   "priceFromUsd": 21490,
    "priceFromSpecialUsd": null
   },
   {
@@ -5764,7 +5764,7 @@
    "featured": false,
    "popularityScore": 1,
    "enquiryUrl": "https://www.safari.com/safaris/fifteen-day-cape-winelands-whales-garden-route?a=rjx",
-   "priceFromUsd": 6500,
+   "priceFromUsd": 6490,
    "priceFromSpecialUsd": null
   },
   {
@@ -6035,7 +6035,7 @@
    "featured": false,
    "popularityScore": 1,
    "enquiryUrl": "https://www.safari.com/safaris/3-day-singita-fly-in-safari?a=rjx",
-   "priceFromUsd": 7780,
+   "priceFromUsd": 7770,
    "priceFromSpecialUsd": null
   },
   {
@@ -6610,7 +6610,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/10-day-kwandwe-garden-route-and-cape-town?a=rjx",
-   "priceFromUsd": 7000,
+   "priceFromUsd": 6990,
    "priceFromSpecialUsd": null
   },
   {
@@ -6729,7 +6729,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/ten-day-namibia-north-bush-beach?a=rjx",
-   "priceFromUsd": 6500,
+   "priceFromUsd": 6490,
    "priceFromSpecialUsd": null
   },
   {
@@ -6961,7 +6961,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/12-day-garden-route-cape-town-eastern-cape-safari?a=rjx",
-   "priceFromUsd": 6340,
+   "priceFromUsd": 6330,
    "priceFromSpecialUsd": null
   },
   {
@@ -7399,7 +7399,7 @@
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/3-night-onguma-tented-camp-fly-in-package?a=rjx",
    "priceFromUsd": 5890,
-   "priceFromSpecialUsd": 4810
+   "priceFromSpecialUsd": 4800
   },
   {
    "id": "safari.3-night-zannier-omaanda",
@@ -7639,7 +7639,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/five-day-namib-desert-fly-in-safari?a=rjx",
-   "priceFromUsd": 5280,
+   "priceFromUsd": 5270,
    "priceFromSpecialUsd": null
   },
   {
@@ -8254,7 +8254,7 @@
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-madikwe-cape-town?a=rjx",
    "priceFromUsd": 6100,
-   "priceFromSpecialUsd": 5120
+   "priceFromSpecialUsd": 5110
   },
   {
    "id": "safari.7-day-botswana-safari-linyanti-star-suites-khwai-exploration",
@@ -8435,7 +8435,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/seven-day-namibian-desert-coast-adventure?a=rjx",
-   "priceFromUsd": 11140,
+   "priceFromUsd": 11130,
    "priceFromSpecialUsd": null
   },
   {
@@ -8507,7 +8507,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-ultra-lux-cape-town-to-big-5-safari?a=rjx",
-   "priceFromUsd": 5810,
+   "priceFromUsd": 5800,
    "priceFromSpecialUsd": null
   },
   {
@@ -8748,7 +8748,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/8-day-cape-town-to-kwazulu-natal-fly-in-safari?a=rjx",
-   "priceFromUsd": 7600,
+   "priceFromUsd": 7590,
    "priceFromSpecialUsd": 6680
   },
   {
@@ -9041,7 +9041,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/8-day-ultra-lux-tengile-and-tswalu-fly-in-safari?a=rjx",
-   "priceFromUsd": 22040,
+   "priceFromUsd": 22030,
    "priceFromSpecialUsd": null
   },
   {
@@ -9130,7 +9130,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/nine-day-ultra-lux-fly-in-namibia?a=rjx",
-   "priceFromUsd": 12360,
+   "priceFromUsd": 12350,
    "priceFromSpecialUsd": null
   },
   {
@@ -9288,8 +9288,8 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/nine-day-opulent-cape-town-sabi-sand-safari?a=rjx",
-   "priceFromUsd": 18830,
-   "priceFromSpecialUsd": 15750
+   "priceFromUsd": 18820,
+   "priceFromSpecialUsd": 15740
   },
   {
    "id": "safari.nine-day-wild-encounters-kenyas-big-five-and-ugandas-gentle-giants",
