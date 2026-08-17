@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-16T04:53:06.564Z",
+ "generated": "2026-08-17T05:11:52.607Z",
  "source": "safari.com affiliate API",
  "fx": {
-  "zarPerUsd": 16.185472,
+  "zarPerUsd": 16.187875,
   "source": "open.er-api.com",
   "note": "ZAR prices converted to approximate USD at bake time"
  },
@@ -1649,7 +1649,7 @@
    "popularityScore": 35,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-greater-kruger-with-simbavati?a=rjx",
    "priceFromUsd": 3990,
-   "priceFromSpecialUsd": 3180
+   "priceFromSpecialUsd": 3170
   },
   {
    "id": "safari.eleven-day-southern-africa-safari-in-style",
@@ -1835,40 +1835,6 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.four-day-kruger-safari-adventure-with-imbali-lodge",
-   "slug": "four-day-kruger-safari-adventure-with-imbali-lodge",
-   "name": "4 Day All Inclusive Fly-in Tour to Kruger's Imbali Lodge",
-   "summary": "Experience magnificent wildlife sightings on exciting game-drives in the heart of the Kruger National Park – Africa’s most iconic game reserve.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/55f8379bb1885b23272099de48da6ea48213cd2a-1400x520.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/55f8379bb1885b23272099de48da6ea48213cd2a-1400x520.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 47755,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "kruger-national-park"
-   ],
-   "experiences": [
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "imbali"
-   ],
-   "highlights": [
-    "3 nights at Imbali Safari Lodge in suites with private plunge pools",
-    "Twice-daily game drives on the private 100 km² Mluwati Concession",
-    "Big Five tracking with off-road access in greater Kruger",
-    "Dinners served under the stars beneath the lodge's Jackalberry tree",
-    "Round-trip flights from Johannesburg to Hoedspruit, saving 11 hours of road transfer"
-   ],
-   "featured": true,
-   "popularityScore": 24,
-   "enquiryUrl": "https://www.safari.com/safaris/four-day-kruger-safari-adventure-with-imbali-lodge?a=rjx",
-   "priceFromUsd": 2950,
-   "priceFromSpecialUsd": null
-  },
-  {
    "id": "safari.3-day-big-5-safari-at-sanbona-wildlife-reserve",
    "slug": "3-day-big-5-safari-at-sanbona-wildlife-reserve",
    "name": "3-Day BIG 5 Safari at Sanbona Wildlife Reserve (Combine with Cape Town)",
@@ -1901,9 +1867,43 @@
     "Round-trip road transfers from Cape Town included"
    ],
    "featured": false,
-   "popularityScore": 23,
+   "popularityScore": 24,
    "enquiryUrl": "https://www.safari.com/safaris/3-day-big-5-safari-at-sanbona-wildlife-reserve?a=rjx",
    "priceFromUsd": 2790,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.four-day-kruger-safari-adventure-with-imbali-lodge",
+   "slug": "four-day-kruger-safari-adventure-with-imbali-lodge",
+   "name": "4 Day All Inclusive Fly-in Tour to Kruger's Imbali Lodge",
+   "summary": "Experience magnificent wildlife sightings on exciting game-drives in the heart of the Kruger National Park – Africa’s most iconic game reserve.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/55f8379bb1885b23272099de48da6ea48213cd2a-1400x520.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/55f8379bb1885b23272099de48da6ea48213cd2a-1400x520.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 47755,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "kruger-national-park"
+   ],
+   "experiences": [
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "imbali"
+   ],
+   "highlights": [
+    "3 nights at Imbali Safari Lodge in suites with private plunge pools",
+    "Twice-daily game drives on the private 100 km² Mluwati Concession",
+    "Big Five tracking with off-road access in greater Kruger",
+    "Dinners served under the stars beneath the lodge's Jackalberry tree",
+    "Round-trip flights from Johannesburg to Hoedspruit, saving 11 hours of road transfer"
+   ],
+   "featured": true,
+   "popularityScore": 24,
+   "enquiryUrl": "https://www.safari.com/safaris/four-day-kruger-safari-adventure-with-imbali-lodge?a=rjx",
+   "priceFromUsd": 2950,
    "priceFromSpecialUsd": null
   },
   {
@@ -2146,42 +2146,6 @@
    "priceFromSpecialUsd": 2221
   },
   {
-   "id": "safari.eight-day-luxury-botswana-to-hwange-safari",
-   "slug": "eight-day-luxury-botswana-to-hwange-safari",
-   "name": "8-Day Luxury Botswana to Hwange Safari",
-   "summary": "Embark on a luxury safari through the Eden of Africa and embrace the tranquillity of Botswana at Ngoma Safari Lodge. Travel through to where the thunder roars of the stunning Victoria Falls at the Safari Lodge and a life-enriching safari experience at The Hide in the excellence and luxury of Hwange National Park.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/9176b9422a7ab6a2e25069f3e84bbbc63d7dbe4b-1920x1279.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/9176b9422a7ab6a2e25069f3e84bbbc63d7dbe4b-1920x1279.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 4438,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "botswana",
-    "victoria-falls"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "ngoma",
-    "victoria-falls-safari-lodge",
-    "the-hide-hwange"
-   ],
-   "highlights": [
-    "2 nights at Ngoma Safari Lodge overlooking the Chobe floodplains",
-    "Morning game drive in Chobe and sunset cruise on the river",
-    "2 nights at Victoria Falls Safari Lodge with waterhole-facing room",
-    "Guided tour of Victoria Falls and dinner at The Boma drum show",
-    "3 nights at The Hide in Hwange with up to four activities daily",
-    "Optional sleep-out under the stars in the Dove's Nest treehouse"
-   ],
-   "featured": false,
-   "popularityScore": 19,
-   "enquiryUrl": "https://www.safari.com/safaris/eight-day-luxury-botswana-to-hwange-safari?a=rjx",
-   "priceFromUsd": 4438,
-   "priceFromSpecialUsd": null
-  },
-  {
    "id": "safari.six-day-luxury-big-5-kruger-to-sabi-sands-safari-adventure",
    "slug": "six-day-luxury-big-5-kruger-to-sabi-sands-safari-adventure",
    "name": "6-Day Luxury Big 5 Kruger to Sabi Sands Safari Adventure",
@@ -2218,9 +2182,45 @@
     "Return flights between Johannesburg and Skukuza Airport"
    ],
    "featured": false,
-   "popularityScore": 18,
+   "popularityScore": 19,
    "enquiryUrl": "https://www.safari.com/safaris/six-day-luxury-big-5-kruger-to-sabi-sands-safari-adventure?a=rjx",
    "priceFromUsd": 6150,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.eight-day-luxury-botswana-to-hwange-safari",
+   "slug": "eight-day-luxury-botswana-to-hwange-safari",
+   "name": "8-Day Luxury Botswana to Hwange Safari",
+   "summary": "Embark on a luxury safari through the Eden of Africa and embrace the tranquillity of Botswana at Ngoma Safari Lodge. Travel through to where the thunder roars of the stunning Victoria Falls at the Safari Lodge and a life-enriching safari experience at The Hide in the excellence and luxury of Hwange National Park.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/9176b9422a7ab6a2e25069f3e84bbbc63d7dbe4b-1920x1279.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/9176b9422a7ab6a2e25069f3e84bbbc63d7dbe4b-1920x1279.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 4438,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "botswana",
+    "victoria-falls"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "ngoma",
+    "victoria-falls-safari-lodge",
+    "the-hide-hwange"
+   ],
+   "highlights": [
+    "2 nights at Ngoma Safari Lodge overlooking the Chobe floodplains",
+    "Morning game drive in Chobe and sunset cruise on the river",
+    "2 nights at Victoria Falls Safari Lodge with waterhole-facing room",
+    "Guided tour of Victoria Falls and dinner at The Boma drum show",
+    "3 nights at The Hide in Hwange with up to four activities daily",
+    "Optional sleep-out under the stars in the Dove's Nest treehouse"
+   ],
+   "featured": false,
+   "popularityScore": 19,
+   "enquiryUrl": "https://www.safari.com/safaris/eight-day-luxury-botswana-to-hwange-safari?a=rjx",
+   "priceFromUsd": 4438,
    "priceFromSpecialUsd": null
   },
   {
@@ -2385,7 +2385,7 @@
    "featured": false,
    "popularityScore": 16,
    "enquiryUrl": "https://www.safari.com/safaris/seven-day-big-five-sanbona-safari-and-lux-mauritius-beach-escape?a=rjx",
-   "priceFromUsd": 4830,
+   "priceFromUsd": 4820,
    "priceFromSpecialUsd": null
   },
   {
@@ -4432,6 +4432,40 @@
    "priceFromSpecialUsd": null
   },
   {
+   "id": "safari.five-day-timbavati-bush-adventure-all-inclusive-promotion",
+   "slug": "five-day-timbavati-bush-adventure-all-inclusive-promotion",
+   "name": "5 Day Timbavati Bush Adventure - All Inclusive Promotion",
+   "summary": "This 5-day Timbavati Adventure promises thrilling wildlife encounters, scrumptious bush cuisine & a chance to reconnect with nature in one of Africa's world-renowned reserves.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/9c3de0ae4743ad1c3a9c16b1facd744dd98c9d05-1600x1067.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/9c3de0ae4743ad1c3a9c16b1facd744dd98c9d05-1600x1067.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 44965,
+   "priceFromSpecial": 36265,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "timbavati"
+   ],
+   "experiences": [
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "kambaku"
+   ],
+   "highlights": [
+    "4 nights at Kambaku Safari Lodge in Timbavati Private Nature Reserve",
+    "Two daily game drives tracking the Big Five across Greater Kruger",
+    "Optional morning bush walk after breakfast",
+    "All meals and local-brand drinks included throughout the stay",
+    "Round-trip flights between Johannesburg and Hoedspruit, plus airport transfers"
+   ],
+   "featured": false,
+   "popularityScore": 4,
+   "enquiryUrl": "https://www.safari.com/safaris/five-day-timbavati-bush-adventure-all-inclusive-promotion?a=rjx",
+   "priceFromUsd": 2780,
+   "priceFromSpecialUsd": 2240
+  },
+  {
    "id": "safari.7-day-luxury-cape-town-to-amakhala-beach-bush-safari",
    "slug": "7-day-luxury-cape-town-to-amakhala-beach-bush-safari",
    "name": "7-Day Luxury Cape Town To Amakhala - Beach & Bush Safari",
@@ -4639,7 +4673,7 @@
    "popularityScore": 3,
    "enquiryUrl": "https://www.safari.com/safaris/twelve-day-cape-town-kruger-and-madikwe-safari?a=rjx",
    "priceFromUsd": 9640,
-   "priceFromSpecialUsd": 7880
+   "priceFromSpecialUsd": 7870
   },
   {
    "id": "safari.3-day-victoria-falls-safari",
@@ -4707,40 +4741,6 @@
    "enquiryUrl": "https://www.safari.com/safaris/4-day-malaria-free-big-5-mhondoro?a=rjx",
    "priceFromUsd": 2930,
    "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.five-day-timbavati-bush-adventure-all-inclusive-promotion",
-   "slug": "five-day-timbavati-bush-adventure-all-inclusive-promotion",
-   "name": "5 Day Timbavati Bush Adventure - All Inclusive Promotion",
-   "summary": "This 5-day Timbavati Adventure promises thrilling wildlife encounters, scrumptious bush cuisine & a chance to reconnect with nature in one of Africa's world-renowned reserves.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/9c3de0ae4743ad1c3a9c16b1facd744dd98c9d05-1600x1067.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/9c3de0ae4743ad1c3a9c16b1facd744dd98c9d05-1600x1067.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 44965,
-   "priceFromSpecial": 36265,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "timbavati"
-   ],
-   "experiences": [
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "kambaku"
-   ],
-   "highlights": [
-    "4 nights at Kambaku Safari Lodge in Timbavati Private Nature Reserve",
-    "Two daily game drives tracking the Big Five across Greater Kruger",
-    "Optional morning bush walk after breakfast",
-    "All meals and local-brand drinks included throughout the stay",
-    "Round-trip flights between Johannesburg and Hoedspruit, plus airport transfers"
-   ],
-   "featured": false,
-   "popularityScore": 3,
-   "enquiryUrl": "https://www.safari.com/safaris/five-day-timbavati-bush-adventure-all-inclusive-promotion?a=rjx",
-   "priceFromUsd": 2780,
-   "priceFromSpecialUsd": 2240
   },
   {
    "id": "safari.five-day-ulusaba-promotion",
@@ -5121,7 +5121,7 @@
    "featured": true,
    "popularityScore": 2,
    "enquiryUrl": "https://www.safari.com/safaris/three-day-unique-wonder-kruger-train-on-the-bridge-safari?a=rjx",
-   "priceFromUsd": 2280,
+   "priceFromUsd": 2270,
    "priceFromSpecialUsd": null
   },
   {
@@ -5192,7 +5192,7 @@
    "featured": false,
    "popularityScore": 2,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-fly-in-londolozi-tree-camp-safari?a=rjx",
-   "priceFromUsd": 9840,
+   "priceFromUsd": 9830,
    "priceFromSpecialUsd": null
   },
   {
@@ -7002,7 +7002,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/12-day-garden-route-cape-town-eastern-cape-safari?a=rjx",
-   "priceFromUsd": 6340,
+   "priceFromUsd": 6330,
    "priceFromSpecialUsd": null
   },
   {
@@ -8507,7 +8507,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-ultra-lux-cape-town-to-big-5-safari?a=rjx",
-   "priceFromUsd": 5810,
+   "priceFromUsd": 5800,
    "priceFromSpecialUsd": null
   },
   {
