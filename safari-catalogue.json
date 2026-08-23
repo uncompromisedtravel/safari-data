@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-22T03:42:14.730Z",
+ "generated": "2026-08-23T03:51:08.024Z",
  "source": "safari.com affiliate API",
  "fx": {
-  "zarPerUsd": 16.021932,
+  "zarPerUsd": 16.019071,
   "source": "open.er-api.com",
   "note": "ZAR prices converted to approximate USD at bake time"
  },
@@ -24,8 +24,8 @@
    "4-day-fly-in-masai-mara-safari",
    "nine-day-kruger-kwazulu-fly-drive",
    "eight-day-ultra-luxurious-safari-and-island-escape-kenya-to-seychelles",
-   "ten-day-best-of-east-africa-migration-safari",
    "11-day-premier-cape-town-kruger-safari",
+   "ten-day-best-of-east-africa-migration-safari",
    "eleven-day-luxury-adventure-through-south-africa-to-mauritius",
    "10-day-masai-mara-serengeti-manyara-safari",
    "4-day-fly-in-kirkmans-kamp-all-inclusive-safari",
@@ -1357,75 +1357,6 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.3-day-victoria-falls-fly-in",
-   "slug": "3-day-victoria-falls-fly-in",
-   "name": "3 Day Victoria Falls Fly-in Safari ",
-   "summary": "Waterfalls, Wildlife & River Sunsets: Discover the magic of Victoria Falls on this unforgettable 3-day safari. Fly from Johannesburg to one of Africa’s most iconic destinations, where you’ll explore the falls on a guided tour, enjoy a Zambezi River sunset cruise, and stay at the award-winning Victoria Falls Safari Lodge. Ideal for nature lovers and adventure seekers alike.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/8168aa923d5d28e484adc59f81bd94a0fb1365fb-1798x1200.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/8168aa923d5d28e484adc59f81bd94a0fb1365fb-1798x1200.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 1421,
-   "priceFromSpecial": 1412,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "zimbabwe",
-    "victoria-falls"
-   ],
-   "experiences": [
-    "travel-specials"
-   ],
-   "brand": null,
-   "lodges": [
-    "victoria-falls-safari-lodge"
-   ],
-   "highlights": [
-    "2 nights at the award-winning Victoria Falls Safari Lodge",
-    "Guided walking tour through the rainforest at Victoria Falls",
-    "Sunset cruise on the Zambezi with drinks and snacks",
-    "Dinner at the Boma Drum Show and Vulture Culture lunch",
-    "Round-trip flights from Johannesburg and airport transfers included"
-   ],
-   "featured": true,
-   "popularityScore": 86,
-   "enquiryUrl": "https://www.safari.com/safaris/3-day-victoria-falls-fly-in?a=rjx",
-   "priceFromUsd": 1421,
-   "priceFromSpecialUsd": 1412
-  },
-  {
-   "id": "safari.eight-day-victoria-falls-and-mauritius-combo",
-   "slug": "eight-day-victoria-falls-and-mauritius-combo",
-   "name": "8-Day Victoria Falls and Mauritius Combo",
-   "summary": "Embark on a thrilling 8-day journey, beginning with an unforgettable stay at one of Southern Africa’s premier safari lodges, Victoria Falls Safari Club. Enjoy breathtaking views of the untouched bushveld, where a central waterhole attracts a variety of wildlife. Journey onwards and enjoy a stopover in Johannesburg for your flight to paradise. Your adventure continues along the Eastern African coast with a luxurious 4-night beach safari in Trou Aux Biches, Mauritius. Relish in world-class cuisine and 5-star service.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/78571bbf355ad05654fe9387eaeb8dbda4b45fdc-1920x1203.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/78571bbf355ad05654fe9387eaeb8dbda4b45fdc-1920x1203.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 5800,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "victoria-falls",
-    "mauritius"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "victoria-falls-safari-lodge"
-   ],
-   "highlights": [
-    "2 nights at Victoria Falls Safari Lodge overlooking a busy waterhole",
-    "Guided tour of Victoria Falls and sunset cruise on the Zambezi",
-    "Overnight at Southern Sun OR Tambo between flights",
-    "4 nights at 5-star Constance Sakoa Boutik in Trou Aux Biches",
-    "Beach days, spa treatments and island excursions in Mauritius",
-    "Return flights from Johannesburg to Victoria Falls and Mauritius included"
-   ],
-   "featured": false,
-   "popularityScore": 86,
-   "enquiryUrl": "https://www.safari.com/safaris/eight-day-victoria-falls-and-mauritius-combo?a=rjx",
-   "priceFromUsd": 5800,
-   "priceFromSpecialUsd": null
-  },
-  {
    "id": "safari.5-day-luxury-kruger-park-sabi-sand-safari",
    "slug": "5-day-luxury-kruger-park-sabi-sand-safari",
    "name": "5 Day Luxury Kruger Park & Sabi Sand Safari ",
@@ -1461,7 +1392,7 @@
     "Round-trip flights from Johannesburg and all road transfers included"
    ],
    "featured": true,
-   "popularityScore": 85,
+   "popularityScore": 84,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-luxury-kruger-park-sabi-sand-safari?a=rjx",
    "priceFromUsd": 4740,
    "priceFromSpecialUsd": null
@@ -1502,9 +1433,78 @@
     "Round-trip flights from Johannesburg and all road transfers included"
    ],
    "featured": false,
-   "popularityScore": 85,
+   "popularityScore": 84,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-ultra-lux-big-5-sabi-sand-and-kruger-park-safari?a=rjx",
    "priceFromUsd": 6860,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.3-day-victoria-falls-fly-in",
+   "slug": "3-day-victoria-falls-fly-in",
+   "name": "3 Day Victoria Falls Fly-in Safari ",
+   "summary": "Waterfalls, Wildlife & River Sunsets: Discover the magic of Victoria Falls on this unforgettable 3-day safari. Fly from Johannesburg to one of Africa’s most iconic destinations, where you’ll explore the falls on a guided tour, enjoy a Zambezi River sunset cruise, and stay at the award-winning Victoria Falls Safari Lodge. Ideal for nature lovers and adventure seekers alike.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/8168aa923d5d28e484adc59f81bd94a0fb1365fb-1798x1200.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/8168aa923d5d28e484adc59f81bd94a0fb1365fb-1798x1200.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 1421,
+   "priceFromSpecial": 1412,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "zimbabwe",
+    "victoria-falls"
+   ],
+   "experiences": [
+    "travel-specials"
+   ],
+   "brand": null,
+   "lodges": [
+    "victoria-falls-safari-lodge"
+   ],
+   "highlights": [
+    "2 nights at the award-winning Victoria Falls Safari Lodge",
+    "Guided walking tour through the rainforest at Victoria Falls",
+    "Sunset cruise on the Zambezi with drinks and snacks",
+    "Dinner at the Boma Drum Show and Vulture Culture lunch",
+    "Round-trip flights from Johannesburg and airport transfers included"
+   ],
+   "featured": true,
+   "popularityScore": 83,
+   "enquiryUrl": "https://www.safari.com/safaris/3-day-victoria-falls-fly-in?a=rjx",
+   "priceFromUsd": 1421,
+   "priceFromSpecialUsd": 1412
+  },
+  {
+   "id": "safari.eight-day-victoria-falls-and-mauritius-combo",
+   "slug": "eight-day-victoria-falls-and-mauritius-combo",
+   "name": "8-Day Victoria Falls and Mauritius Combo",
+   "summary": "Embark on a thrilling 8-day journey, beginning with an unforgettable stay at one of Southern Africa’s premier safari lodges, Victoria Falls Safari Club. Enjoy breathtaking views of the untouched bushveld, where a central waterhole attracts a variety of wildlife. Journey onwards and enjoy a stopover in Johannesburg for your flight to paradise. Your adventure continues along the Eastern African coast with a luxurious 4-night beach safari in Trou Aux Biches, Mauritius. Relish in world-class cuisine and 5-star service.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/78571bbf355ad05654fe9387eaeb8dbda4b45fdc-1920x1203.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/78571bbf355ad05654fe9387eaeb8dbda4b45fdc-1920x1203.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 5800,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "victoria-falls",
+    "mauritius"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "victoria-falls-safari-lodge"
+   ],
+   "highlights": [
+    "2 nights at Victoria Falls Safari Lodge overlooking a busy waterhole",
+    "Guided tour of Victoria Falls and sunset cruise on the Zambezi",
+    "Overnight at Southern Sun OR Tambo between flights",
+    "4 nights at 5-star Constance Sakoa Boutik in Trou Aux Biches",
+    "Beach days, spa treatments and island excursions in Mauritius",
+    "Return flights from Johannesburg to Victoria Falls and Mauritius included"
+   ],
+   "featured": false,
+   "popularityScore": 83,
+   "enquiryUrl": "https://www.safari.com/safaris/eight-day-victoria-falls-and-mauritius-combo?a=rjx",
+   "priceFromUsd": 5800,
    "priceFromSpecialUsd": null
   },
   {
@@ -1540,7 +1540,7 @@
     "Round-trip flights from Johannesburg to Hoedspruit included"
    ],
    "featured": true,
-   "popularityScore": 76,
+   "popularityScore": 75,
    "enquiryUrl": "https://www.safari.com/safaris/3-day-kapama-classic-safari?a=rjx",
    "priceFromUsd": 2370,
    "priceFromSpecialUsd": null
@@ -1574,7 +1574,7 @@
     "Round-trip flights from Johannesburg and Hoedspruit airport transfers"
    ],
    "featured": true,
-   "popularityScore": 76,
+   "popularityScore": 73,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-kruger-safari-with-hoyo-hoyo?a=rjx",
    "priceFromUsd": 2430,
    "priceFromSpecialUsd": null
@@ -1610,7 +1610,7 @@
     "Return flights from Johannesburg and all transfers included"
    ],
    "featured": true,
-   "popularityScore": 70,
+   "popularityScore": 67,
    "enquiryUrl": "https://www.safari.com/safaris/three-day-kruger-park-lukimbi-fly-in-safari?a=rjx",
    "priceFromUsd": 2320,
    "priceFromSpecialUsd": null
@@ -1646,7 +1646,7 @@
     "Round-trip flights from Johannesburg to Hoedspruit and all transfers"
    ],
    "featured": true,
-   "popularityScore": 69,
+   "popularityScore": 67,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-greater-kruger-with-simbavati?a=rjx",
    "priceFromUsd": 4030,
    "priceFromSpecialUsd": 3210
@@ -1678,7 +1678,7 @@
     "Round-trip road transfers from Cape Town, just 3 hours away"
    ],
    "featured": true,
-   "popularityScore": 61,
+   "popularityScore": 59,
    "enquiryUrl": "https://www.safari.com/safaris/three-day-big-five-safari-near-cape-town?a=rjx",
    "priceFromUsd": 1650,
    "priceFromSpecialUsd": null
@@ -1714,7 +1714,7 @@
     "All meals, drinks and Skukuza Airport transfers included"
    ],
    "featured": false,
-   "popularityScore": 60,
+   "popularityScore": 57,
    "enquiryUrl": "https://www.safari.com/safaris/3-day-lion-sands-sabi-sand-safari?a=rjx",
    "priceFromUsd": 4200,
    "priceFromSpecialUsd": null
@@ -1750,7 +1750,7 @@
     "All meals, selected drinks and round-trip Skukuza Airport transfers included"
    ],
    "featured": false,
-   "popularityScore": 60,
+   "popularityScore": 57,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-all-inclusive-lion-sands-river-lodge-safari?a=rjx",
    "priceFromUsd": 7680,
    "priceFromSpecialUsd": 5940
@@ -1785,7 +1785,7 @@
     "Return flights from Johannesburg to Skukuza and private transfers"
    ],
    "featured": false,
-   "popularityScore": 57,
+   "popularityScore": 55,
    "enquiryUrl": "https://www.safari.com/safaris/four-day-lush-sabi-sand-river-safari?a=rjx",
    "priceFromUsd": 3860,
    "priceFromSpecialUsd": null
@@ -1823,7 +1823,7 @@
     "Round-trip road transfers from Cape Town included"
    ],
    "featured": false,
-   "popularityScore": 47,
+   "popularityScore": 46,
    "enquiryUrl": "https://www.safari.com/safaris/3-day-big-5-safari-at-sanbona-wildlife-reserve?a=rjx",
    "priceFromUsd": 2810,
    "priceFromSpecialUsd": null
@@ -1857,7 +1857,7 @@
     "Round-trip flights from Johannesburg to Hoedspruit, saving 11 hours of road transfer"
    ],
    "featured": true,
-   "popularityScore": 45,
+   "popularityScore": 44,
    "enquiryUrl": "https://www.safari.com/safaris/four-day-kruger-safari-adventure-with-imbali-lodge?a=rjx",
    "priceFromUsd": 2980,
    "priceFromSpecialUsd": null
@@ -1901,48 +1901,9 @@
     "Flights from Johannesburg to Hoedspruit and back from Skukuza included"
    ],
    "featured": false,
-   "popularityScore": 41,
+   "popularityScore": 40,
    "enquiryUrl": "https://www.safari.com/safaris/five-day-malamala-and-timbavati-luxury-safari?a=rjx",
    "priceFromUsd": 6110,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.5-day-all-inclusive-sabi-sand-north-to-south-safari",
-   "slug": "5-day-all-inclusive-sabi-sand-north-to-south-safari",
-   "name": "5-Day All-Inclusive Sabi Sand North to South Safari",
-   "summary": "Discover the renowned Sabi Sand Private Game Reserve, offering opportunities to witness Africa's Big Five. Enjoy the wilderness from the comfort of your camp, with numerous locations to relax and enjoy the African bush views. Your safari includes return flights to and from Johannesburg Airport, all-inclusive dining, and thrilling game drives.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/da74cf73cfcb8f7cbe8aa5e7ec55afada993fb44-1920x1281.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/da74cf73cfcb8f7cbe8aa5e7ec55afada993fb44-1920x1281.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 74843,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "sabi-sand",
-    "south-africa"
-   ],
-   "experiences": [
-    "family-safaris",
-    "big-5-safaris",
-    "mobile-and-walking-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "arathusa",
-    "inyati"
-   ],
-   "highlights": [
-    "2 nights at Arathusa Safari Lodge, then 2 at Inyati Game Lodge",
-    "Twice-daily open-vehicle game drives with skilled rangers and trackers",
-    "Big Five tracking in the Sabi Sand, bordering Kruger National Park",
-    "Walking safaris at both lodges with expert guides",
-    "Boma dinners around the campfire with curated South African wines",
-    "Return flights from Johannesburg and all transfers included"
-   ],
-   "featured": false,
-   "popularityScore": 40,
-   "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-sabi-sand-north-to-south-safari?a=rjx",
-   "priceFromUsd": 4670,
    "priceFromSpecialUsd": null
   },
   {
@@ -1980,7 +1941,7 @@
     "Internal flights via Hoedspruit and all transfers included"
    ],
    "featured": false,
-   "popularityScore": 40,
+   "popularityScore": 39,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-timeless-kruger-cape-town-safari?a=rjx",
    "priceFromUsd": 4630,
    "priceFromSpecialUsd": null
@@ -2020,7 +1981,7 @@
     "Round-trip flights between Cape Town and Hoedspruit with private transfers"
    ],
    "featured": false,
-   "popularityScore": 40,
+   "popularityScore": 39,
    "enquiryUrl": "https://www.safari.com/safaris/seven-day-adventure-safari-in-cape-town-kapama-game-reserve?a=rjx",
    "priceFromUsd": 3930,
    "priceFromSpecialUsd": null
@@ -2062,9 +2023,48 @@
     "Flights from Johannesburg to Hoedspruit and on to Victoria Falls"
    ],
    "featured": false,
-   "popularityScore": 40,
+   "popularityScore": 39,
    "enquiryUrl": "https://www.safari.com/safaris/seven-day-safari-in-kapama-game-reserve-and-victoria-falls?a=rjx",
    "priceFromUsd": 4970,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.5-day-all-inclusive-sabi-sand-north-to-south-safari",
+   "slug": "5-day-all-inclusive-sabi-sand-north-to-south-safari",
+   "name": "5-Day All-Inclusive Sabi Sand North to South Safari",
+   "summary": "Discover the renowned Sabi Sand Private Game Reserve, offering opportunities to witness Africa's Big Five. Enjoy the wilderness from the comfort of your camp, with numerous locations to relax and enjoy the African bush views. Your safari includes return flights to and from Johannesburg Airport, all-inclusive dining, and thrilling game drives.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/da74cf73cfcb8f7cbe8aa5e7ec55afada993fb44-1920x1281.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/da74cf73cfcb8f7cbe8aa5e7ec55afada993fb44-1920x1281.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 74843,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "sabi-sand",
+    "south-africa"
+   ],
+   "experiences": [
+    "family-safaris",
+    "big-5-safaris",
+    "mobile-and-walking-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "arathusa",
+    "inyati"
+   ],
+   "highlights": [
+    "2 nights at Arathusa Safari Lodge, then 2 at Inyati Game Lodge",
+    "Twice-daily open-vehicle game drives with skilled rangers and trackers",
+    "Big Five tracking in the Sabi Sand, bordering Kruger National Park",
+    "Walking safaris at both lodges with expert guides",
+    "Boma dinners around the campfire with curated South African wines",
+    "Return flights from Johannesburg and all transfers included"
+   ],
+   "featured": false,
+   "popularityScore": 38,
+   "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-sabi-sand-north-to-south-safari?a=rjx",
+   "priceFromUsd": 4670,
    "priceFromSpecialUsd": null
   },
   {
@@ -2096,10 +2096,44 @@
     "Round-trip road transfers from Victoria Falls Airport included"
    ],
    "featured": true,
-   "popularityScore": 39,
+   "popularityScore": 36,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-all-inclusive-victoria-falls-safari-elephant-camp?a=rjx",
    "priceFromUsd": 2688,
    "priceFromSpecialUsd": 2221
+  },
+  {
+   "id": "safari.3-day-fly-in-all-incl-beyond-ngala-safari-lodge",
+   "slug": "3-day-fly-in-all-incl-beyond-ngala-safari-lodge",
+   "name": "3-Day Fly-In All-Inclusive &Beyond Ngala Safari Lodge",
+   "summary": "Bask in the luxury 5 star Ngala Safari Lodge, a timeless safari lodge ideally positioned on a private concession inside the highly acclaimed Kruger National Park.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/56a12c22da48e9d918fc308da39d6c926f95104a-1920x1080.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/56a12c22da48e9d918fc308da39d6c926f95104a-1920x1080.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 47610,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "timbavati"
+   ],
+   "experiences": [
+    "big-5-safaris"
+   ],
+   "brand": "andbeyond",
+   "lodges": [
+    "ngala"
+   ],
+   "highlights": [
+    "2 nights at &Beyond Ngala Safari Lodge in a private Kruger concession",
+    "Game drives across 14,700 hectares with Big Five viewing",
+    "Guided bush walks and night drives on an unfenced reserve",
+    "Sundowners at the rim-flow pool overlooking the lodge waterhole",
+    "All meals, local drinks and return flights from Johannesburg included"
+   ],
+   "featured": false,
+   "popularityScore": 35,
+   "enquiryUrl": "https://www.safari.com/safaris/3-day-fly-in-all-incl-beyond-ngala-safari-lodge?a=rjx",
+   "priceFromUsd": 2970,
+   "priceFromSpecialUsd": null
   },
   {
    "id": "safari.six-day-luxury-big-5-kruger-to-sabi-sands-safari-adventure",
@@ -2138,48 +2172,9 @@
     "Return flights between Johannesburg and Skukuza Airport"
    ],
    "featured": false,
-   "popularityScore": 36,
+   "popularityScore": 35,
    "enquiryUrl": "https://www.safari.com/safaris/six-day-luxury-big-5-kruger-to-sabi-sands-safari-adventure?a=rjx",
-   "priceFromUsd": 6210,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.seven-day-safari-promotion-from-sabi-sands-to-victoria-falls",
-   "slug": "seven-day-safari-promotion-from-sabi-sands-to-victoria-falls",
-   "name": "7-Day Safari Promotion: From Sabi Sands to Victoria Falls",
-   "summary": "Big Five Safari & Victoria Falls Elegance: From the wild heart of Sabi Sands to the iconic thundering spray of Victoria Falls, this seamless journey offers an unforgettable blend of luxury, wildlife, and natural wonder.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/b0ca1f5e45a907908d41a74f9beaf0884e4691ca-1800x1200.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/b0ca1f5e45a907908d41a74f9beaf0884e4691ca-1800x1200.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 8797,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "sabi-sand",
-    "victoria-falls",
-    "south-africa",
-    "zimbabwe"
-   ],
-   "experiences": [
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "sabi-sabi-bush",
-    "the-elephant"
-   ],
-   "highlights": [
-    "3 nights at Sabi Sabi Bush Lodge, then 3 at The Elephant Camp",
-    "Twice-daily open-vehicle game drives and a walking safari in Sabi Sand",
-    "Big Five tracking across the unfenced Sabi Sand and Kruger wilderness",
-    "Guided tour of Victoria Falls plus a Zambezi sunset cruise",
-    "One bonus activity: Flight of Angels, white-water rafting, Chobe day trip or Malachite dinner cruise",
-    "All inter-camp flights from Johannesburg via Skukuza and Kruger included"
-   ],
-   "featured": false,
-   "popularityScore": 36,
-   "enquiryUrl": "https://www.safari.com/safaris/seven-day-safari-promotion-from-sabi-sands-to-victoria-falls?a=rjx",
-   "priceFromUsd": 8797,
+   "priceFromUsd": 6220,
    "priceFromSpecialUsd": null
   },
   {
@@ -2213,7 +2208,7 @@
     "Optional sleep-out under the stars in the Dove's Nest treehouse"
    ],
    "featured": false,
-   "popularityScore": 36,
+   "popularityScore": 35,
    "enquiryUrl": "https://www.safari.com/safaris/eight-day-luxury-botswana-to-hwange-safari?a=rjx",
    "priceFromUsd": 4438,
    "priceFromSpecialUsd": null
@@ -2256,10 +2251,49 @@
     "All meals and selected drinks at both lodges"
    ],
    "featured": false,
-   "popularityScore": 35,
+   "popularityScore": 34,
    "enquiryUrl": "https://www.safari.com/safaris/8-day-all-inclusive-kruger-to-mozambique-fly-in-safari?a=rjx",
    "priceFromUsd": 4397,
    "priceFromSpecialUsd": 4178
+  },
+  {
+   "id": "safari.seven-day-safari-promotion-from-sabi-sands-to-victoria-falls",
+   "slug": "seven-day-safari-promotion-from-sabi-sands-to-victoria-falls",
+   "name": "7-Day Safari Promotion: From Sabi Sands to Victoria Falls",
+   "summary": "Big Five Safari & Victoria Falls Elegance: From the wild heart of Sabi Sands to the iconic thundering spray of Victoria Falls, this seamless journey offers an unforgettable blend of luxury, wildlife, and natural wonder.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/b0ca1f5e45a907908d41a74f9beaf0884e4691ca-1800x1200.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/b0ca1f5e45a907908d41a74f9beaf0884e4691ca-1800x1200.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 8797,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "sabi-sand",
+    "victoria-falls",
+    "south-africa",
+    "zimbabwe"
+   ],
+   "experiences": [
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "sabi-sabi-bush",
+    "the-elephant"
+   ],
+   "highlights": [
+    "3 nights at Sabi Sabi Bush Lodge, then 3 at The Elephant Camp",
+    "Twice-daily open-vehicle game drives and a walking safari in Sabi Sand",
+    "Big Five tracking across the unfenced Sabi Sand and Kruger wilderness",
+    "Guided tour of Victoria Falls plus a Zambezi sunset cruise",
+    "One bonus activity: Flight of Angels, white-water rafting, Chobe day trip or Malachite dinner cruise",
+    "All inter-camp flights from Johannesburg via Skukuza and Kruger included"
+   ],
+   "featured": false,
+   "popularityScore": 33,
+   "enquiryUrl": "https://www.safari.com/safaris/seven-day-safari-promotion-from-sabi-sands-to-victoria-falls?a=rjx",
+   "priceFromUsd": 8797,
+   "priceFromSpecialUsd": null
   },
   {
    "id": "safari.eight-day-cape-town-family-safari-and-vic-falls-combo",
@@ -2299,7 +2333,7 @@
     "Internal flights Cape Town to Vic Falls to Johannesburg included"
    ],
    "featured": false,
-   "popularityScore": 34,
+   "popularityScore": 33,
    "enquiryUrl": "https://www.safari.com/safaris/eight-day-cape-town-family-safari-and-vic-falls-combo?a=rjx",
    "priceFromUsd": 4935,
    "priceFromSpecialUsd": null
@@ -2343,43 +2377,9 @@
     "All internal flights and transfers across Cape Town, Kruger and Victoria Falls"
    ],
    "featured": false,
-   "popularityScore": 32,
+   "popularityScore": 31,
    "enquiryUrl": "https://www.safari.com/safaris/eleven-day-southern-africa-safari-in-style?a=rjx",
    "priceFromUsd": 4095,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.3-day-fly-in-all-incl-beyond-ngala-safari-lodge",
-   "slug": "3-day-fly-in-all-incl-beyond-ngala-safari-lodge",
-   "name": "3-Day Fly-In All-Inclusive &Beyond Ngala Safari Lodge",
-   "summary": "Bask in the luxury 5 star Ngala Safari Lodge, a timeless safari lodge ideally positioned on a private concession inside the highly acclaimed Kruger National Park.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/56a12c22da48e9d918fc308da39d6c926f95104a-1920x1080.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/56a12c22da48e9d918fc308da39d6c926f95104a-1920x1080.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 47610,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "timbavati"
-   ],
-   "experiences": [
-    "big-5-safaris"
-   ],
-   "brand": "andbeyond",
-   "lodges": [
-    "ngala"
-   ],
-   "highlights": [
-    "2 nights at &Beyond Ngala Safari Lodge in a private Kruger concession",
-    "Game drives across 14,700 hectares with Big Five viewing",
-    "Guided bush walks and night drives on an unfenced reserve",
-    "Sundowners at the rim-flow pool overlooking the lodge waterhole",
-    "All meals, local drinks and return flights from Johannesburg included"
-   ],
-   "featured": false,
-   "popularityScore": 31,
-   "enquiryUrl": "https://www.safari.com/safaris/3-day-fly-in-all-incl-beyond-ngala-safari-lodge?a=rjx",
-   "priceFromUsd": 2970,
    "priceFromSpecialUsd": null
   },
   {
@@ -2417,50 +2417,9 @@
     "Round-trip transfers and flights included"
    ],
    "featured": false,
-   "popularityScore": 31,
-   "enquiryUrl": "https://www.safari.com/safaris/seven-day-big-five-sanbona-safari-and-lux-mauritius-beach-escape?a=rjx",
-   "priceFromUsd": 4870,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.9-day-south-africa-and-victoria-falls-adventure-safari",
-   "slug": "9-day-south-africa-and-victoria-falls-adventure-safari",
-   "name": "9-Day South Africa and Victoria Falls Adventure Safari",
-   "summary": "This nine-day Southern Africa itinerary begins with coastal scenes in Cape Town before heading into the Sabi Sand Game Reserve for your Big Five safari. The itinerary ends in Victoria Falls, where you'll experience the iconic falls.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/d5fe019bb5304724079a9c1d22af52f6d204c789-1800x1200.jpg?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/d5fe019bb5304724079a9c1d22af52f6d204c789-1800x1200.jpg?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 5194,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "cape-town",
-    "cape-winelands",
-    "sabi-sand",
-    "victoria-falls"
-   ],
-   "experiences": [
-    "bush-and-beach-safaris",
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "commodore-hotel",
-    "inyati",
-    "shongwe-oasis"
-   ],
-   "highlights": [
-    "3 nights at Thirty on Grace in Cape Town's Upper Claremont",
-    "Table Mountain, Boulders Beach penguins and Cape Peninsula sights",
-    "3 nights at Inyati Game Lodge in the 65,000-hectare Sabi Sand",
-    "Twice-daily game drives and guided walking safaris for Big Five viewing",
-    "2 nights at 528 Victoria Falls with guided tour of the falls",
-    "All internal flights and transfers between Cape Town, Sabi Sand and Victoria Falls"
-   ],
-   "featured": false,
    "popularityScore": 30,
-   "enquiryUrl": "https://www.safari.com/safaris/9-day-south-africa-and-victoria-falls-adventure-safari?a=rjx",
-   "priceFromUsd": 5194,
+   "enquiryUrl": "https://www.safari.com/safaris/seven-day-big-five-sanbona-safari-and-lux-mauritius-beach-escape?a=rjx",
+   "priceFromUsd": 4880,
    "priceFromSpecialUsd": null
   },
   {
@@ -2504,7 +2463,7 @@
     "All internal flights between Cape Town, Kruger and Victoria Falls included"
    ],
    "featured": false,
-   "popularityScore": 29,
+   "popularityScore": 28,
    "enquiryUrl": "https://www.safari.com/safaris/11-day-luxury-kruger-victoria-falls-and-cape-town?a=rjx",
    "priceFromUsd": 10485,
    "priceFromSpecialUsd": null
@@ -2542,9 +2501,50 @@
     "Internal flights from Johannesburg to Hoedspruit and on to Cape Town included"
    ],
    "featured": true,
-   "popularityScore": 29,
+   "popularityScore": 28,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-iconic-kruger-cape-town?a=rjx",
    "priceFromUsd": 3470,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.9-day-south-africa-and-victoria-falls-adventure-safari",
+   "slug": "9-day-south-africa-and-victoria-falls-adventure-safari",
+   "name": "9-Day South Africa and Victoria Falls Adventure Safari",
+   "summary": "This nine-day Southern Africa itinerary begins with coastal scenes in Cape Town before heading into the Sabi Sand Game Reserve for your Big Five safari. The itinerary ends in Victoria Falls, where you'll experience the iconic falls.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/d5fe019bb5304724079a9c1d22af52f6d204c789-1800x1200.jpg?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/d5fe019bb5304724079a9c1d22af52f6d204c789-1800x1200.jpg?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 5194,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "cape-town",
+    "cape-winelands",
+    "sabi-sand",
+    "victoria-falls"
+   ],
+   "experiences": [
+    "bush-and-beach-safaris",
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "commodore-hotel",
+    "inyati",
+    "shongwe-oasis"
+   ],
+   "highlights": [
+    "3 nights at Thirty on Grace in Cape Town's Upper Claremont",
+    "Table Mountain, Boulders Beach penguins and Cape Peninsula sights",
+    "3 nights at Inyati Game Lodge in the 65,000-hectare Sabi Sand",
+    "Twice-daily game drives and guided walking safaris for Big Five viewing",
+    "2 nights at 528 Victoria Falls with guided tour of the falls",
+    "All internal flights and transfers between Cape Town, Sabi Sand and Victoria Falls"
+   ],
+   "featured": false,
+   "popularityScore": 28,
+   "enquiryUrl": "https://www.safari.com/safaris/9-day-south-africa-and-victoria-falls-adventure-safari?a=rjx",
+   "priceFromUsd": 5194,
    "priceFromSpecialUsd": null
   },
   {
@@ -2583,47 +2583,9 @@
     "Round-trip flights from Johannesburg to Kasane and Skukuza included"
    ],
    "featured": false,
-   "popularityScore": 27,
+   "popularityScore": 26,
    "enquiryUrl": "https://www.safari.com/safaris/eight-day-chobe-to-sabi-sands-the-ultimate-wildlife-journey?a=rjx",
    "priceFromUsd": 6026,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.4-day-fly-in-masai-mara-safari",
-   "slug": "4-day-fly-in-masai-mara-safari",
-   "name": "4 Day Fly-in Masai Mara Safari",
-   "summary": "The Masai Mara is well known for its year-round concentration of animals, big cat sightings and the Great Mammal Migration which occurs annually - a wildlife spectacle not to be missed!",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/b7cb5596f9cbda7f4e1ebeda63863a92d057b241-1600x1067.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/b7cb5596f9cbda7f4e1ebeda63863a92d057b241-1600x1067.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 4143,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "kenya",
-    "masai-mara"
-   ],
-   "experiences": [
-    "big-5-safaris",
-    "great-migration",
-    "hot-air-ballooning"
-   ],
-   "brand": "andbeyond",
-   "lodges": [
-    "kichwa-tembo"
-   ],
-   "highlights": [
-    "3 nights at &Beyond Kichwa Tembo Tented Camp in the Masai Mara",
-    "Dawn and dusk game drives tracking lion, cheetah, elephant and buffalo",
-    "Hot-air balloon safari at sunrise with champagne breakfast on the plains",
-    "Guided nature walks led by Maasai trackers",
-    "Seasonal Great Migration viewing with year-round big cat sightings",
-    "Round-trip flights from Nairobi Wilson to Kichwa airstrip included"
-   ],
-   "featured": false,
-   "popularityScore": 26,
-   "enquiryUrl": "https://www.safari.com/safaris/4-day-fly-in-masai-mara-safari?a=rjx",
-   "priceFromUsd": 4143,
    "priceFromSpecialUsd": null
   },
   {
@@ -2663,9 +2625,43 @@
     "All flights from Johannesburg to Kruger, on to Vic Falls and back"
    ],
    "featured": false,
-   "popularityScore": 25,
+   "popularityScore": 24,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-ultra-lux-kruger-and-vic-falls-fly-in-safari?a=rjx",
    "priceFromUsd": 5440,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.five-day-private-fly-in-safari-thornybush-game-reserve",
+   "slug": "five-day-private-fly-in-safari-thornybush-game-reserve",
+   "name": "5 Day Fly-in Safari to Timbavati Game Reserve",
+   "summary": "Motswari Private Game Lodge, nestled in the heart of the Timbavati Private Nature Reserve in South Africa, offers an authentic and intimate safari experience.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/ffe39754549caf761177d940fe25a735a59bcbba-1920x1280.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/ffe39754549caf761177d940fe25a735a59bcbba-1920x1280.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 44677,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "timbavati"
+   ],
+   "experiences": [
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "motswari"
+   ],
+   "highlights": [
+    "4 nights at Motswari Private Game Lodge in Timbavati",
+    "Twice-daily game drives in a Big Five reserve",
+    "Chance to track Timbavati's famed white lions and leopards",
+    "All meals, house wines, local spirits and beers included",
+    "Round-trip flights from OR Tambo to Hoedspruit with transfers"
+   ],
+   "featured": true,
+   "popularityScore": 22,
+   "enquiryUrl": "https://www.safari.com/safaris/five-day-private-fly-in-safari-thornybush-game-reserve?a=rjx",
+   "priceFromUsd": 2790,
    "priceFromSpecialUsd": null
   },
   {
@@ -2697,7 +2693,7 @@
     "Round-trip flights from Johannesburg OR Tambo and all meals included"
    ],
    "featured": false,
-   "popularityScore": 22,
+   "popularityScore": 21,
    "enquiryUrl": "https://www.safari.com/safaris/3-day-sabi-sands-arathusa-lodge-safari?a=rjx",
    "priceFromUsd": 2300,
    "priceFromSpecialUsd": null
@@ -2733,43 +2729,9 @@
     "Round-trip flights from Johannesburg to Hoedspruit with transfers"
    ],
    "featured": false,
-   "popularityScore": 22,
+   "popularityScore": 21,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-all-inclusive-fly-in-sabi-sand-safari?a=rjx",
    "priceFromUsd": 3020,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.five-day-private-fly-in-safari-thornybush-game-reserve",
-   "slug": "five-day-private-fly-in-safari-thornybush-game-reserve",
-   "name": "5 Day Fly-in Safari to Timbavati Game Reserve",
-   "summary": "Motswari Private Game Lodge, nestled in the heart of the Timbavati Private Nature Reserve in South Africa, offers an authentic and intimate safari experience.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/ffe39754549caf761177d940fe25a735a59bcbba-1920x1280.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/ffe39754549caf761177d940fe25a735a59bcbba-1920x1280.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 44677,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "timbavati"
-   ],
-   "experiences": [
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "motswari"
-   ],
-   "highlights": [
-    "4 nights at Motswari Private Game Lodge in Timbavati",
-    "Twice-daily game drives in a Big Five reserve",
-    "Chance to track Timbavati's famed white lions and leopards",
-    "All meals, house wines, local spirits and beers included",
-    "Round-trip flights from OR Tambo to Hoedspruit with transfers"
-   ],
-   "featured": true,
-   "popularityScore": 22,
-   "enquiryUrl": "https://www.safari.com/safaris/five-day-private-fly-in-safari-thornybush-game-reserve?a=rjx",
-   "priceFromUsd": 2790,
    "priceFromSpecialUsd": null
   },
   {
@@ -2846,9 +2808,155 @@
     "Flights from Johannesburg to Skukuza and on to Cape Town included"
    ],
    "featured": false,
-   "popularityScore": 21,
+   "popularityScore": 20,
    "enquiryUrl": "https://www.safari.com/safaris/eight-day-big-five-fine-wines?a=rjx",
-   "priceFromUsd": 4760,
+   "priceFromUsd": 4770,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.3-day-fly-in-authentic-rhino-post-safari",
+   "slug": "3-day-fly-in-authentic-rhino-post-safari",
+   "name": "3-Day Fly-In Authentic Rhino Post Safari",
+   "summary": "Rhino Post Safari Lodge, in the heart of South Africa's iconic Kruger National Park, is renowned for its exceptional safari experiences and commitment to environmental sustainability. This eco-friendly lodge is strategically positioned in a private wilderness concession, making it an ideal base for intimate wildlife encounters, including the sought-after Big Five.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/b32898aa103e74b7cea29b99d29a702d4b0ae144-1920x1281.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/b32898aa103e74b7cea29b99d29a702d4b0ae144-1920x1281.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 31685,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "kruger-national-park"
+   ],
+   "experiences": [
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "rhino-post"
+   ],
+   "highlights": [
+    "2 nights at Rhino Post Safari Lodge in Kruger National Park",
+    "Twice-daily game drives in a private wilderness concession",
+    "Big Five viewing including rhino, lion, leopard, elephant and buffalo",
+    "Sundowner drink served on the late afternoon game drive",
+    "Brunch, high tea and gourmet dinners at the lodge",
+    "Round-trip flights from Johannesburg to Skukuza Airport included"
+   ],
+   "featured": false,
+   "popularityScore": 19,
+   "enquiryUrl": "https://www.safari.com/safaris/3-day-fly-in-authentic-rhino-post-safari?a=rjx",
+   "priceFromUsd": 1980,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.4-day-fly-in-masai-mara-safari",
+   "slug": "4-day-fly-in-masai-mara-safari",
+   "name": "4 Day Fly-in Masai Mara Safari",
+   "summary": "The Masai Mara is well known for its year-round concentration of animals, big cat sightings and the Great Mammal Migration which occurs annually - a wildlife spectacle not to be missed!",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/b7cb5596f9cbda7f4e1ebeda63863a92d057b241-1600x1067.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/b7cb5596f9cbda7f4e1ebeda63863a92d057b241-1600x1067.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 4143,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "kenya",
+    "masai-mara"
+   ],
+   "experiences": [
+    "big-5-safaris",
+    "great-migration",
+    "hot-air-ballooning"
+   ],
+   "brand": "andbeyond",
+   "lodges": [
+    "kichwa-tembo"
+   ],
+   "highlights": [
+    "3 nights at &Beyond Kichwa Tembo Tented Camp in the Masai Mara",
+    "Dawn and dusk game drives tracking lion, cheetah, elephant and buffalo",
+    "Hot-air balloon safari at sunrise with champagne breakfast on the plains",
+    "Guided nature walks led by Maasai trackers",
+    "Seasonal Great Migration viewing with year-round big cat sightings",
+    "Round-trip flights from Nairobi Wilson to Kichwa airstrip included"
+   ],
+   "featured": false,
+   "popularityScore": 19,
+   "enquiryUrl": "https://www.safari.com/safaris/4-day-fly-in-masai-mara-safari?a=rjx",
+   "priceFromUsd": 4143,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.4-day-african-chic-fly-in-rhino-post-safari",
+   "slug": "4-day-african-chic-fly-in-rhino-post-safari",
+   "name": "4-Day African Chic Fly-In Rhino Post Safari",
+   "summary": "Rhino Post Safari Lodge, situated within the famed Kruger National Park in South Africa, is celebrated for offering extraordinary safari adventures and its dedication to eco-sustainability. Located in a secluded wilderness concession, this environmentally conscious lodge provides a perfect setting for close-up encounters with wildlife, including the much-desired Big Five.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/b664931d0b35db7100f9d313212a3b728403893c-1920x1280.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/b664931d0b35db7100f9d313212a3b728403893c-1920x1280.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 42348,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "kruger-national-park"
+   ],
+   "experiences": [
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "rhino-post"
+   ],
+   "highlights": [
+    "3 nights at Rhino Post Safari Lodge in Kruger National Park",
+    "Open-vehicle game drive transfer from Skukuza Airport to the lodge",
+    "Two daily safari activities with Big Five viewing",
+    "Sundowner drinks on afternoon drives and gourmet outdoor dinners",
+    "Round-trip flights from Johannesburg (JNB) to Skukuza (SZK)"
+   ],
+   "featured": false,
+   "popularityScore": 19,
+   "enquiryUrl": "https://www.safari.com/safaris/4-day-african-chic-fly-in-rhino-post-safari?a=rjx",
+   "priceFromUsd": 2640,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.5-day-walking-safari-trail",
+   "slug": "5-day-walking-safari-trail",
+   "name": "5 Day Kruger Walking Safari Trail",
+   "summary": "Get up close and personal with nature on this 5-day walking safari. You will get to truly experience the pristine wilderness of the Kruger National Park while walking through it with specially trained rangers.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/898bcc61b666d357c34acf0e8cee2942aa82a4ba-1600x932.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/898bcc61b666d357c34acf0e8cee2942aa82a4ba-1600x932.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 37746,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "south-africa",
+    "kruger-national-park"
+   ],
+   "experiences": [
+    "mobile-and-walking-safaris",
+    "child-friendly-safaris",
+    "big-5-safaris",
+    "sleep-out-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "plains-camp",
+    "rhino-post"
+   ],
+   "highlights": [
+    "2 nights at Rhino Plains Camp, then 2 at Rhino Post Safari Lodge",
+    "Guided walking safaris with expert trackers in a Big Five concession",
+    "Sleep-out under the stars on raised platforms above the bush",
+    "Morning and afternoon open-vehicle game drives from Rhino Post",
+    "All meals, park fees and game-drive beverages included"
+   ],
+   "featured": false,
+   "popularityScore": 19,
+   "enquiryUrl": "https://www.safari.com/safaris/5-day-walking-safari-trail?a=rjx",
+   "priceFromUsd": 2360,
    "priceFromSpecialUsd": null
   },
   {
@@ -2888,118 +2996,10 @@
     "All internal Airlink flights and transfers between Cape Town, Kruger and Livingstone"
    ],
    "featured": false,
-   "popularityScore": 20,
+   "popularityScore": 18,
    "enquiryUrl": "https://www.safari.com/safaris/fifteen-day-classic-southern-africa-experience-cape-town-kruger-victoria-falls?a=rjx",
    "priceFromUsd": 11677,
    "priceFromSpecialUsd": 10116
-  },
-  {
-   "id": "safari.3-day-fly-in-authentic-rhino-post-safari",
-   "slug": "3-day-fly-in-authentic-rhino-post-safari",
-   "name": "3-Day Fly-In Authentic Rhino Post Safari",
-   "summary": "Rhino Post Safari Lodge, in the heart of South Africa's iconic Kruger National Park, is renowned for its exceptional safari experiences and commitment to environmental sustainability. This eco-friendly lodge is strategically positioned in a private wilderness concession, making it an ideal base for intimate wildlife encounters, including the sought-after Big Five.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/b32898aa103e74b7cea29b99d29a702d4b0ae144-1920x1281.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/b32898aa103e74b7cea29b99d29a702d4b0ae144-1920x1281.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 31685,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "kruger-national-park"
-   ],
-   "experiences": [
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "rhino-post"
-   ],
-   "highlights": [
-    "2 nights at Rhino Post Safari Lodge in Kruger National Park",
-    "Twice-daily game drives in a private wilderness concession",
-    "Big Five viewing including rhino, lion, leopard, elephant and buffalo",
-    "Sundowner drink served on the late afternoon game drive",
-    "Brunch, high tea and gourmet dinners at the lodge",
-    "Round-trip flights from Johannesburg to Skukuza Airport included"
-   ],
-   "featured": false,
-   "popularityScore": 20,
-   "enquiryUrl": "https://www.safari.com/safaris/3-day-fly-in-authentic-rhino-post-safari?a=rjx",
-   "priceFromUsd": 1980,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.4-day-african-chic-fly-in-rhino-post-safari",
-   "slug": "4-day-african-chic-fly-in-rhino-post-safari",
-   "name": "4-Day African Chic Fly-In Rhino Post Safari",
-   "summary": "Rhino Post Safari Lodge, situated within the famed Kruger National Park in South Africa, is celebrated for offering extraordinary safari adventures and its dedication to eco-sustainability. Located in a secluded wilderness concession, this environmentally conscious lodge provides a perfect setting for close-up encounters with wildlife, including the much-desired Big Five.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/b664931d0b35db7100f9d313212a3b728403893c-1920x1280.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/b664931d0b35db7100f9d313212a3b728403893c-1920x1280.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 42348,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "kruger-national-park"
-   ],
-   "experiences": [
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "rhino-post"
-   ],
-   "highlights": [
-    "3 nights at Rhino Post Safari Lodge in Kruger National Park",
-    "Open-vehicle game drive transfer from Skukuza Airport to the lodge",
-    "Two daily safari activities with Big Five viewing",
-    "Sundowner drinks on afternoon drives and gourmet outdoor dinners",
-    "Round-trip flights from Johannesburg (JNB) to Skukuza (SZK)"
-   ],
-   "featured": false,
-   "popularityScore": 20,
-   "enquiryUrl": "https://www.safari.com/safaris/4-day-african-chic-fly-in-rhino-post-safari?a=rjx",
-   "priceFromUsd": 2640,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.5-day-walking-safari-trail",
-   "slug": "5-day-walking-safari-trail",
-   "name": "5 Day Kruger Walking Safari Trail",
-   "summary": "Get up close and personal with nature on this 5-day walking safari. You will get to truly experience the pristine wilderness of the Kruger National Park while walking through it with specially trained rangers.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/898bcc61b666d357c34acf0e8cee2942aa82a4ba-1600x932.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/898bcc61b666d357c34acf0e8cee2942aa82a4ba-1600x932.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 37746,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "south-africa",
-    "kruger-national-park"
-   ],
-   "experiences": [
-    "mobile-and-walking-safaris",
-    "child-friendly-safaris",
-    "big-5-safaris",
-    "sleep-out-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "plains-camp",
-    "rhino-post"
-   ],
-   "highlights": [
-    "2 nights at Rhino Plains Camp, then 2 at Rhino Post Safari Lodge",
-    "Guided walking safaris with expert trackers in a Big Five concession",
-    "Sleep-out under the stars on raised platforms above the bush",
-    "Morning and afternoon open-vehicle game drives from Rhino Post",
-    "All meals, park fees and game-drive beverages included"
-   ],
-   "featured": false,
-   "popularityScore": 20,
-   "enquiryUrl": "https://www.safari.com/safaris/5-day-walking-safari-trail?a=rjx",
-   "priceFromUsd": 2360,
-   "priceFromSpecialUsd": null
   },
   {
    "id": "safari.four-day-chobe-national-park-safari",
@@ -3029,7 +3029,7 @@
     "All meals, local drinks and laundry included, with transfers from Kasane Airport"
    ],
    "featured": true,
-   "popularityScore": 19,
+   "popularityScore": 18,
    "enquiryUrl": "https://www.safari.com/safaris/four-day-chobe-national-park-safari?a=rjx",
    "priceFromUsd": 2432,
    "priceFromSpecialUsd": 1656
@@ -3065,7 +3065,7 @@
     "All road transfers between Victoria Falls Station, Kasane Airport and the lodge"
    ],
    "featured": false,
-   "popularityScore": 19,
+   "popularityScore": 18,
    "enquiryUrl": "https://www.safari.com/safaris/seven-day-victoria-falls-and-chobe-classic-railway-safari-adventure?a=rjx",
    "priceFromUsd": 6896,
    "priceFromSpecialUsd": 6090
@@ -3108,7 +3108,7 @@
     "Fish River Canyon, Orange River cruise and Kimberley's Big Hole"
    ],
    "featured": false,
-   "popularityScore": 18,
+   "popularityScore": 17,
    "enquiryUrl": "https://www.safari.com/safaris/12-day-rovos-rail-namibia-to-south-africa-safari?a=rjx",
    "priceFromUsd": 13420,
    "priceFromSpecialUsd": null
@@ -3141,7 +3141,7 @@
     "All meals, beverages and excursions included on board"
    ],
    "featured": false,
-   "popularityScore": 18,
+   "popularityScore": 17,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-rovos-rail-pretoria-to-cape-town?a=rjx",
    "priceFromUsd": 2810,
    "priceFromSpecialUsd": null
@@ -3176,51 +3176,10 @@
     "Scenic travel through the Cape Winelands, Karoo and Valley of a Thousand Hills"
    ],
    "featured": false,
-   "popularityScore": 18,
+   "popularityScore": 17,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-cape-town-to-durban-rovos-rail-safari?a=rjx",
    "priceFromUsd": 5090,
    "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.7-day-kruger-park-and-vic-falls-combo",
-   "slug": "7-day-kruger-park-and-vic-falls-combo",
-   "name": "7-Day Kruger Park and Vic Falls Combo",
-   "summary": "Experience the ultimate safari adventure with a 7-day journey through Kruger National Park and Victoria Falls.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/c260a0c9799389c8953355d2fba7f59135311c40-2160x1440.jpg?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/c260a0c9799389c8953355d2fba7f59135311c40-2160x1440.jpg?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 5529,
-   "priceFromSpecial": 5234,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "kruger-national-park",
-    "victoria-falls",
-    "chobe"
-   ],
-   "experiences": [
-    "honeymoon-safaris",
-    "big-5-safaris",
-    "mobile-and-walking-safaris",
-    "sleep-out-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "kruger-shalati",
-    "the-wallow"
-   ],
-   "highlights": [
-    "3 nights aboard Kruger Shalati, the train on the bridge over the Sabie River",
-    "Twice-daily game drives in open Land Rovers across Kruger National Park",
-    "3 nights at The Wallow Lodge in Victoria Falls",
-    "Full-day Chobe National Park trip with river safari, lunch and game drive",
-    "Guided tour of Victoria Falls on the Zimbabwean side",
-    "All flights from Johannesburg and internal transfers included"
-   ],
-   "featured": false,
-   "popularityScore": 17,
-   "enquiryUrl": "https://www.safari.com/safaris/7-day-kruger-park-and-vic-falls-combo?a=rjx",
-   "priceFromUsd": 5529,
-   "priceFromSpecialUsd": 5234
   },
   {
    "id": "safari.eight-day-luxe-getaway-from-sabi-sabi-to-mauritius",
@@ -3297,48 +3256,45 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.5-day-sabi-sabi-bush-lodge-package",
-   "slug": "5-day-sabi-sabi-bush-lodge-package",
-   "name": "5 Day Sabi Sabi Bush Lodge Package",
-   "summary": "Sabi Sabi is a private game reserve in South Africa, situated in the Sabi Sand Game Reserve which flanks the southwestern section of the Kruger National Park. This 5-day tour is the perfect introduction to the ultimate safari experience.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/a6b72d858356a71224f86afb9ac6158146177fa7-1600x1060.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/a6b72d858356a71224f86afb9ac6158146177fa7-1600x1060.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 108465,
-   "priceFromSpecial": null,
+   "id": "safari.7-day-kruger-park-and-vic-falls-combo",
+   "slug": "7-day-kruger-park-and-vic-falls-combo",
+   "name": "7-Day Kruger Park and Vic Falls Combo",
+   "summary": "Experience the ultimate safari adventure with a 7-day journey through Kruger National Park and Victoria Falls.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/c260a0c9799389c8953355d2fba7f59135311c40-2160x1440.jpg?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/c260a0c9799389c8953355d2fba7f59135311c40-2160x1440.jpg?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 5529,
+   "priceFromSpecial": 5234,
    "priceBasis": "per person sharing, guide price",
    "destinations": [
-    "south-africa",
-    "greater-kruger",
-    "sabi-sand",
-    "sabi-sabi"
+    "kruger-national-park",
+    "victoria-falls",
+    "chobe"
    ],
    "experiences": [
     "honeymoon-safaris",
-    "family-safaris",
-    "child-friendly-safaris",
     "big-5-safaris",
-    "mobile-and-walking-safaris"
+    "mobile-and-walking-safaris",
+    "sleep-out-safaris"
    ],
-   "brand": "sabi-sabi",
+   "brand": null,
    "lodges": [
-    "sabi-sabi-bush",
-    "sabi-sabi-little",
-    "sabi-sabi-selati"
+    "kruger-shalati",
+    "the-wallow"
    ],
    "highlights": [
-    "4 nights at Sabi Sabi Bush Lodge in the Sabi Sand",
-    "Morning and night game drives with skilled rangers and trackers",
-    "Big Five off-road tracking in a private reserve",
-    "Guided bush walk or visit to a Sabi Sabi-supported local school",
-    "Boma dinner under the stars with all beverages included",
-    "Round-trip transfers to the lodge included"
+    "3 nights aboard Kruger Shalati, the train on the bridge over the Sabie River",
+    "Twice-daily game drives in open Land Rovers across Kruger National Park",
+    "3 nights at The Wallow Lodge in Victoria Falls",
+    "Full-day Chobe National Park trip with river safari, lunch and game drive",
+    "Guided tour of Victoria Falls on the Zimbabwean side",
+    "All flights from Johannesburg and internal transfers included"
    ],
    "featured": false,
    "popularityScore": 16,
-   "enquiryUrl": "https://www.safari.com/safaris/5-day-sabi-sabi-bush-lodge-package?a=rjx",
-   "priceFromUsd": 6770,
-   "priceFromSpecialUsd": null
+   "enquiryUrl": "https://www.safari.com/safaris/7-day-kruger-park-and-vic-falls-combo?a=rjx",
+   "priceFromUsd": 5529,
+   "priceFromSpecialUsd": 5234
   },
   {
    "id": "safari.the-kyle-richards-lion-sands-safari-package",
@@ -3412,112 +3368,48 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.twelve-day-rovos-rail-pretoria-to-victoria-falls-safari",
-   "slug": "twelve-day-rovos-rail-pretoria-to-victoria-falls-safari",
-   "name": "12-Day Rovos Rail Pretoria to Victoria Falls Safari",
-   "summary": "Traverse the Drakensberg Mountains and Panorama Route, enjoy game viewing in Kruger, and explore Maputo in Mozambique. Discover the Kingdom of eSwatini, experience a Kapama game drive, and visit the Great Zimbabwe Monument. Tour Antelope Park, Matobo National Park, and Hwange before arriving at Victoria Falls for a village walk and sunset cruise on the Zambezi River.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/7be8d3cb1eaaf3361a0da3ab1e9dc7fa606d296d-1920x1281.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/7be8d3cb1eaaf3361a0da3ab1e9dc7fa606d296d-1920x1281.webp?w=800&auto=format",
+   "id": "safari.5-day-sabi-sabi-bush-lodge-package",
+   "slug": "5-day-sabi-sabi-bush-lodge-package",
+   "name": "5 Day Sabi Sabi Bush Lodge Package",
+   "summary": "Sabi Sabi is a private game reserve in South Africa, situated in the Sabi Sand Game Reserve which flanks the southwestern section of the Kruger National Park. This 5-day tour is the perfect introduction to the ultimate safari experience.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/a6b72d858356a71224f86afb9ac6158146177fa7-1600x1060.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/a6b72d858356a71224f86afb9ac6158146177fa7-1600x1060.webp?w=800&auto=format",
    "currency": "ZAR",
-   "priceFrom": 165000,
+   "priceFrom": 108465,
    "priceFromSpecial": null,
    "priceBasis": "per person sharing, guide price",
    "destinations": [
     "south-africa",
-    "victoria-falls"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "rovos-rail-pullman-suite",
-    "victoria-falls-hotel"
-   ],
-   "highlights": [
-    "11 nights aboard Rovos Rail from Pretoria to Victoria Falls",
-    "Panorama Route stop at God's Window and Blyde River Canyon",
-    "Full-day Kruger game drive and a Kapama Reserve game drive",
-    "Cultural visits to Maputo, eSwatini's Mantenga Village and Great Zimbabwe",
-    "Matobo National Park tour and game viewing in Hwange",
-    "Victoria Falls walking tour and sunset cruise on the Zambezi"
-   ],
-   "featured": false,
-   "popularityScore": 14,
-   "enquiryUrl": "https://www.safari.com/safaris/twelve-day-rovos-rail-pretoria-to-victoria-falls-safari?a=rjx",
-   "priceFromUsd": 10300,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.three-day-mala-mala---best-big-5-safari-in-the-world",
-   "slug": "three-day-mala-mala---best-big-5-safari-in-the-world",
-   "name": "3-Day Mala Mala - Best Big 5 Safari in the World",
-   "summary": "Discover your own paradise at MalaMala Camp, nestled within the expansive MalaMala Game Reserve, renowned for delivering some of the most thrilling wildlife encounters. As one of South Africa's largest private Big Five reserves, MalaMala is a true sanctuary in the heart of the bushveld. The reserve enjoys a prime location, sharing a 19-kilometer (12-mile) unfenced boundary with the iconic Kruger National Park and lying perfectly between the National Park and the prestigious Sabi Sand Reserve.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/dfdd4a47eefe89fa4237d8f55b3e4515f23d24c5-1920x1282.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/dfdd4a47eefe89fa4237d8f55b3e4515f23d24c5-1920x1282.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 66200,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "mala-mala",
-    "south-africa"
-   ],
-   "experiences": [
-    "luxury-safaris"
-   ],
-   "brand": "mala-mala",
-   "lodges": [
-    "mala-mala-camp"
-   ],
-   "highlights": [
-    "2 nights at 5-star MalaMala Camp in MalaMala Game Reserve",
-    "Twice-daily game drives in open 4WD vehicles with expert rangers",
-    "Big Five tracking across a 19-kilometre boundary with Kruger National Park",
-    "Guided nature walk and bush coffee stops in the wilderness",
-    "Sundowners in the bush followed by gourmet dinners under the stars",
-    "Round-trip flights from OR Tambo to Skukuza and all transfers included"
-   ],
-   "featured": false,
-   "popularityScore": 14,
-   "enquiryUrl": "https://www.safari.com/safaris/three-day-mala-mala---best-big-5-safari-in-the-world?a=rjx",
-   "priceFromUsd": 4130,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.5-day-promotion-with-malamala-camp",
-   "slug": "5-day-promotion-with-malamala-camp",
-   "name": "5 Day Promotion with Malamala Camp",
-   "summary": "Embark on a safari adventure of a lifetime with 5 days spent exploring Mala Mala Game Reserve - one of Africa's most pristine game reserves situated in the Sabi Sands. The Sabi Sands Game Reserve shares an open border with Kruger National Park, allowing free movement of wildlife, including the Big Five. Mala Mala, the oldest reserve in Sabi Sands, offers 37,065 acres of exclusive traversing land.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/218fc906a8bea25d3047d91d970e48daa8a44432-1920x1280.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/218fc906a8bea25d3047d91d970e48daa8a44432-1920x1280.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 116525,
-   "priceFromSpecial": 90425,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
+    "greater-kruger",
     "sabi-sand",
-    "mala-mala"
+    "sabi-sabi"
    ],
    "experiences": [
-    "luxury-safaris",
-    "big-5-safaris"
+    "honeymoon-safaris",
+    "family-safaris",
+    "child-friendly-safaris",
+    "big-5-safaris",
+    "mobile-and-walking-safaris"
    ],
-   "brand": "mala-mala",
+   "brand": "sabi-sabi",
    "lodges": [
-    "mala-mala-camp"
+    "sabi-sabi-bush",
+    "sabi-sabi-little",
+    "sabi-sabi-selati"
    ],
    "highlights": [
-    "4 nights at MalaMala Camp in the Sabi Sand Game Reserve",
-    "Twice-daily open-vehicle game drives with expert guides and trackers",
-    "Big Five tracking across 37,065 acres of exclusive traversing land",
-    "Guided bush walks to learn the fauna and flora on foot",
-    "Candlelit dinners on the safari deck overlooking the Sand River",
-    "Round-trip flights from Johannesburg to Skukuza and road transfers included"
+    "4 nights at Sabi Sabi Bush Lodge in the Sabi Sand",
+    "Morning and night game drives with skilled rangers and trackers",
+    "Big Five off-road tracking in a private reserve",
+    "Guided bush walk or visit to a Sabi Sabi-supported local school",
+    "Boma dinner under the stars with all beverages included",
+    "Round-trip transfers to the lodge included"
    ],
    "featured": false,
    "popularityScore": 14,
-   "enquiryUrl": "https://www.safari.com/safaris/5-day-promotion-with-malamala-camp?a=rjx",
-   "priceFromUsd": 7270,
-   "priceFromSpecialUsd": 5640
+   "enquiryUrl": "https://www.safari.com/safaris/5-day-sabi-sabi-bush-lodge-package?a=rjx",
+   "priceFromUsd": 6770,
+   "priceFromSpecialUsd": null
   },
   {
    "id": "safari.7-day-hidden-gem-safari-cape-town-to-pafuri",
@@ -3560,6 +3452,147 @@
    "priceFromSpecialUsd": null
   },
   {
+   "id": "safari.twelve-day-rovos-rail-pretoria-to-victoria-falls-safari",
+   "slug": "twelve-day-rovos-rail-pretoria-to-victoria-falls-safari",
+   "name": "12-Day Rovos Rail Pretoria to Victoria Falls Safari",
+   "summary": "Traverse the Drakensberg Mountains and Panorama Route, enjoy game viewing in Kruger, and explore Maputo in Mozambique. Discover the Kingdom of eSwatini, experience a Kapama game drive, and visit the Great Zimbabwe Monument. Tour Antelope Park, Matobo National Park, and Hwange before arriving at Victoria Falls for a village walk and sunset cruise on the Zambezi River.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/7be8d3cb1eaaf3361a0da3ab1e9dc7fa606d296d-1920x1281.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/7be8d3cb1eaaf3361a0da3ab1e9dc7fa606d296d-1920x1281.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 165000,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "south-africa",
+    "victoria-falls"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "rovos-rail-pullman-suite",
+    "victoria-falls-hotel"
+   ],
+   "highlights": [
+    "11 nights aboard Rovos Rail from Pretoria to Victoria Falls",
+    "Panorama Route stop at God's Window and Blyde River Canyon",
+    "Full-day Kruger game drive and a Kapama Reserve game drive",
+    "Cultural visits to Maputo, eSwatini's Mantenga Village and Great Zimbabwe",
+    "Matobo National Park tour and game viewing in Hwange",
+    "Victoria Falls walking tour and sunset cruise on the Zambezi"
+   ],
+   "featured": false,
+   "popularityScore": 13,
+   "enquiryUrl": "https://www.safari.com/safaris/twelve-day-rovos-rail-pretoria-to-victoria-falls-safari?a=rjx",
+   "priceFromUsd": 10300,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.3-day-chobe-fly-in-safari",
+   "slug": "3-day-chobe-fly-in-safari",
+   "name": "3 Day Chobe Fly-in Safari ",
+   "summary": "This outstanding three-day safari will give you the opportunity to gain an insight into the Chobe National Park which is renowned for having the largest herds of elephants in Africa, whilst still enjoying the classic luxury and comfort of the iconic Chobe Game Lodge.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/d01c176901248c98122263f5796beb9e84513b83-1600x893.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/d01c176901248c98122263f5796beb9e84513b83-1600x893.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 4428,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "botswana",
+    "chobe"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "chobe-game-lodge"
+   ],
+   "highlights": [
+    "2 nights at Chobe Game Lodge, the only property inside Chobe National Park",
+    "Open-vehicle game drives along the Chobe Riverfront with expert guides",
+    "Sundowner cruise on the Chobe River past bathing elephants, hippos and crocodiles",
+    "Big Five viewing among Africa's largest elephant herds",
+    "Round-trip flights from Johannesburg to Kasane plus all transfers"
+   ],
+   "featured": false,
+   "popularityScore": 13,
+   "enquiryUrl": "https://www.safari.com/safaris/3-day-chobe-fly-in-safari?a=rjx",
+   "priceFromUsd": 4428,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.three-day-mala-mala---best-big-5-safari-in-the-world",
+   "slug": "three-day-mala-mala---best-big-5-safari-in-the-world",
+   "name": "3-Day Mala Mala - Best Big 5 Safari in the World",
+   "summary": "Discover your own paradise at MalaMala Camp, nestled within the expansive MalaMala Game Reserve, renowned for delivering some of the most thrilling wildlife encounters. As one of South Africa's largest private Big Five reserves, MalaMala is a true sanctuary in the heart of the bushveld. The reserve enjoys a prime location, sharing a 19-kilometer (12-mile) unfenced boundary with the iconic Kruger National Park and lying perfectly between the National Park and the prestigious Sabi Sand Reserve.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/dfdd4a47eefe89fa4237d8f55b3e4515f23d24c5-1920x1282.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/dfdd4a47eefe89fa4237d8f55b3e4515f23d24c5-1920x1282.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 66200,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "mala-mala",
+    "south-africa"
+   ],
+   "experiences": [
+    "luxury-safaris"
+   ],
+   "brand": "mala-mala",
+   "lodges": [
+    "mala-mala-camp"
+   ],
+   "highlights": [
+    "2 nights at 5-star MalaMala Camp in MalaMala Game Reserve",
+    "Twice-daily game drives in open 4WD vehicles with expert rangers",
+    "Big Five tracking across a 19-kilometre boundary with Kruger National Park",
+    "Guided nature walk and bush coffee stops in the wilderness",
+    "Sundowners in the bush followed by gourmet dinners under the stars",
+    "Round-trip flights from OR Tambo to Skukuza and all transfers included"
+   ],
+   "featured": false,
+   "popularityScore": 13,
+   "enquiryUrl": "https://www.safari.com/safaris/three-day-mala-mala---best-big-5-safari-in-the-world?a=rjx",
+   "priceFromUsd": 4130,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.5-day-promotion-with-malamala-camp",
+   "slug": "5-day-promotion-with-malamala-camp",
+   "name": "5 Day Promotion with Malamala Camp",
+   "summary": "Embark on a safari adventure of a lifetime with 5 days spent exploring Mala Mala Game Reserve - one of Africa's most pristine game reserves situated in the Sabi Sands. The Sabi Sands Game Reserve shares an open border with Kruger National Park, allowing free movement of wildlife, including the Big Five. Mala Mala, the oldest reserve in Sabi Sands, offers 37,065 acres of exclusive traversing land.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/218fc906a8bea25d3047d91d970e48daa8a44432-1920x1280.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/218fc906a8bea25d3047d91d970e48daa8a44432-1920x1280.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 116525,
+   "priceFromSpecial": 90425,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "sabi-sand",
+    "mala-mala"
+   ],
+   "experiences": [
+    "luxury-safaris",
+    "big-5-safaris"
+   ],
+   "brand": "mala-mala",
+   "lodges": [
+    "mala-mala-camp"
+   ],
+   "highlights": [
+    "4 nights at MalaMala Camp in the Sabi Sand Game Reserve",
+    "Twice-daily open-vehicle game drives with expert guides and trackers",
+    "Big Five tracking across 37,065 acres of exclusive traversing land",
+    "Guided bush walks to learn the fauna and flora on foot",
+    "Candlelit dinners on the safari deck overlooking the Sand River",
+    "Round-trip flights from Johannesburg to Skukuza and road transfers included"
+   ],
+   "featured": false,
+   "popularityScore": 13,
+   "enquiryUrl": "https://www.safari.com/safaris/5-day-promotion-with-malamala-camp?a=rjx",
+   "priceFromUsd": 7270,
+   "priceFromSpecialUsd": 5640
+  },
+  {
    "id": "safari.9-day-victoria-falls-cape-town-malamala-camp-ultra-luxury-safari",
    "slug": "9-day-victoria-falls-cape-town-malamala-camp-ultra-luxury-safari",
    "name": "9-Day Victoria Falls, Cape Town, MalaMala Camp Ultra-Luxury Safari",
@@ -3599,75 +3632,9 @@
     "All inter-city flights and private airport transfers included"
    ],
    "featured": false,
-   "popularityScore": 14,
+   "popularityScore": 13,
    "enquiryUrl": "https://www.safari.com/safaris/9-day-victoria-falls-cape-town-malamala-camp-ultra-luxury-safari?a=rjx",
    "priceFromUsd": 9015,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.3-day-chobe-fly-in-safari",
-   "slug": "3-day-chobe-fly-in-safari",
-   "name": "3 Day Chobe Fly-in Safari ",
-   "summary": "This outstanding three-day safari will give you the opportunity to gain an insight into the Chobe National Park which is renowned for having the largest herds of elephants in Africa, whilst still enjoying the classic luxury and comfort of the iconic Chobe Game Lodge.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/d01c176901248c98122263f5796beb9e84513b83-1600x893.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/d01c176901248c98122263f5796beb9e84513b83-1600x893.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 4428,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "botswana",
-    "chobe"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "chobe-game-lodge"
-   ],
-   "highlights": [
-    "2 nights at Chobe Game Lodge, the only property inside Chobe National Park",
-    "Open-vehicle game drives along the Chobe Riverfront with expert guides",
-    "Sundowner cruise on the Chobe River past bathing elephants, hippos and crocodiles",
-    "Big Five viewing among Africa's largest elephant herds",
-    "Round-trip flights from Johannesburg to Kasane plus all transfers"
-   ],
-   "featured": false,
-   "popularityScore": 13,
-   "enquiryUrl": "https://www.safari.com/safaris/3-day-chobe-fly-in-safari?a=rjx",
-   "priceFromUsd": 4428,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.5-day-all-inclusive-luxury-western-chobe-safari",
-   "slug": "5-day-all-inclusive-luxury-western-chobe-safari",
-   "name": "5-Day All-inclusive Luxury Western Chobe Safari",
-   "summary": null,
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/8c75bec70110242b5da885c61599078985c5b644-1920x1280.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/8c75bec70110242b5da885c61599078985c5b644-1920x1280.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 3140,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "chobe"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "muchenje"
-   ],
-   "highlights": [
-    "4 nights at Muchenje Safari Lodge in Western Chobe National Park",
-    "Twice-daily game drives plus night safaris with gourmet dinners",
-    "Full-day Sedudu boat cruise along the Chobe River",
-    "Sunrise guided walking safari and mokoro canoe excursion",
-    "Cultural visit to a local village and schools",
-    "All meals, drinks, park fees and Kasane Airport transfers included"
-   ],
-   "featured": false,
-   "popularityScore": 12,
-   "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-luxury-western-chobe-safari?a=rjx",
-   "priceFromUsd": 3140,
    "priceFromSpecialUsd": null
   },
   {
@@ -3831,6 +3798,39 @@
    "priceFromSpecialUsd": null
   },
   {
+   "id": "safari.5-day-all-inclusive-luxury-western-chobe-safari",
+   "slug": "5-day-all-inclusive-luxury-western-chobe-safari",
+   "name": "5-Day All-inclusive Luxury Western Chobe Safari",
+   "summary": null,
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/8c75bec70110242b5da885c61599078985c5b644-1920x1280.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/8c75bec70110242b5da885c61599078985c5b644-1920x1280.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 3140,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "chobe"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "muchenje"
+   ],
+   "highlights": [
+    "4 nights at Muchenje Safari Lodge in Western Chobe National Park",
+    "Twice-daily game drives plus night safaris with gourmet dinners",
+    "Full-day Sedudu boat cruise along the Chobe River",
+    "Sunrise guided walking safari and mokoro canoe excursion",
+    "Cultural visit to a local village and schools",
+    "All meals, drinks, park fees and Kasane Airport transfers included"
+   ],
+   "featured": false,
+   "popularityScore": 11,
+   "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-luxury-western-chobe-safari?a=rjx",
+   "priceFromUsd": 3140,
+   "priceFromSpecialUsd": null
+  },
+  {
    "id": "safari.six-day-chobe-okavango-safari",
    "slug": "six-day-chobe-okavango-safari",
    "name": "6 Day Romantic Chobe & Okavango Safari",
@@ -3946,49 +3946,6 @@
    "priceFromSpecialUsd": 5560
   },
   {
-   "id": "safari.10-day-kruger-to-cape-luxury-safari",
-   "slug": "10-day-kruger-to-cape-luxury-safari",
-   "name": "10-Day Kruger to Cape Luxury Safari",
-   "summary": "Experience the best of both worlds with this luxurious package: exceptional wildlife viewing, hearty bush meals, and opulent lodging. Explore Cape Town, renowned for its stunning Winelands, majestic mountains, and vibrant coastal scenery, all from your luxurious accommodations at the base of Table Mountain.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/73c8fb2a424139e1b925304334b3e33d26bbb5a3-1920x1344.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/73c8fb2a424139e1b925304334b3e33d26bbb5a3-1920x1344.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 151833,
-   "priceFromSpecial": 143433,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "cape-town",
-    "south-africa",
-    "sabi-sand",
-    "timbavati"
-   ],
-   "experiences": [
-    "photographic-safaris",
-    "family-safaris",
-    "big-5-safaris",
-    "bush-and-beach-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "kings",
-    "leopard-hills",
-    "camissa"
-   ],
-   "highlights": [
-    "3 nights at Kings Camp in Timbavati, then 2 at Leopard Hills in Sabi Sand",
-    "Twice-daily open-vehicle game drives with optional walking safaris",
-    "Big Five viewing including Sabi Sand's renowned leopard sightings",
-    "Ultimate Elephant Experience at Elephant Whispers with bush picnic",
-    "4 nights at Camissa House at the foot of Table Mountain",
-    "All internal flights from Johannesburg to the bush to Cape Town"
-   ],
-   "featured": false,
-   "popularityScore": 10,
-   "enquiryUrl": "https://www.safari.com/safaris/10-day-kruger-to-cape-luxury-safari?a=rjx",
-   "priceFromUsd": 9480,
-   "priceFromSpecialUsd": 8950
-  },
-  {
    "id": "safari.4-day-kruger-exclusive-getaway-with-lion-sands-narina",
    "slug": "4-day-kruger-exclusive-getaway-with-lion-sands-narina",
    "name": "4 Day Kruger Exclusive Getaway with Lion Sands Narina",
@@ -4024,149 +3981,6 @@
    "enquiryUrl": "https://www.safari.com/safaris/4-day-kruger-exclusive-getaway-with-lion-sands-narina?a=rjx",
    "priceFromUsd": 6460,
    "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.4-day-fly-in-victoria-falls-ultimate-adventure",
-   "slug": "4-day-fly-in-victoria-falls-ultimate-adventure",
-   "name": "4-Day Fly-In Victoria Falls Ultimate Adventure",
-   "summary": "This 4-day safari showcases the breathtaking beauty of the Zambezi River, the majestic mist of Victoria Falls, and the wildlife-rich Chobe National Park. Guests will indulge in luxury at Batonka Guest Lodge while embarking on exciting adventures, including a sundowner cruise, helicopter rides, and a full-day trip to the Chobe in Botswana.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/de0bc16ab100ff801e89fc6ffc4ac4f72be4b020-1600x1061.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/de0bc16ab100ff801e89fc6ffc4ac4f72be4b020-1600x1061.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 1810,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "victoria-falls"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "batonka-guest"
-   ],
-   "highlights": [
-    "3 nights at Batonka Guest Lodge in Victoria Falls",
-    "Sundowner cruise on the Zambezi aboard the Pure Signature Deck",
-    "Sunrise walking tour of Victoria Falls with a 25-30 minute helicopter flight",
-    "Full-day crossing into Botswana for a Chobe game drive and boat cruise",
-    "Round-trip flights from Johannesburg and all transfers included"
-   ],
-   "featured": false,
-   "popularityScore": 10,
-   "enquiryUrl": "https://www.safari.com/safaris/4-day-fly-in-victoria-falls-ultimate-adventure?a=rjx",
-   "priceFromUsd": 1810,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.4-day-malaria-free-big-5-botlierskop-tented-lodge",
-   "slug": "4-day-malaria-free-big-5-botlierskop-tented-lodge",
-   "name": "4-Day Malaria-Free Botlierskop Safari",
-   "summary": "Botlierskop Tented Lodge, nestled in the heart of the Garden Route in South Africa, offers a unique and luxurious safari experience in a malaria-free area. This private game reserve spans over 4,200 hectares of diverse landscapes, providing habitat for a wide array of wildlife. The lodge provides a perfect blend of adventure, luxury, and conservation, making it an ideal destination for those seeking an immersive and comfortable wildlife experience in South Africa.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/6e0ce508f4900151b1ac2c3c6d8b28c6dbfd4c76-1920x1280.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/6e0ce508f4900151b1ac2c3c6d8b28c6dbfd4c76-1920x1280.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 22101,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "garden-route"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "botlierskop"
-   ],
-   "highlights": [
-    "3 nights at Botlierskop Tented Lodge on a 4,200-hectare private reserve",
-    "Malaria-free Big Five game drives in the Garden Route",
-    "Swap a drive for a horseback safari or 60-minute spa treatment",
-    "Bird hide visits and dinner served under the stars",
-    "Round-trip 4x4 transfers from George Airport included"
-   ],
-   "featured": false,
-   "popularityScore": 10,
-   "enquiryUrl": "https://www.safari.com/safaris/4-day-malaria-free-big-5-botlierskop-tented-lodge?a=rjx",
-   "priceFromUsd": 1380,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.5-day-thornybush-fly-in-package",
-   "slug": "5-day-thornybush-fly-in-package",
-   "name": "5-Day Thornybush Fly-In Package",
-   "summary": "This safari will take you deep into the heart of the private Thrnybush Game Reserve, ideal for families and couples to create an unforgettable experience. As it is located next to the Timbavati River, you will have ample opportunities for exciting interactions with the wildlife of the Greater Kruger.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/676edf5b107171d565b4887fd4513c47aa345a56-1920x1278.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/676edf5b107171d565b4887fd4513c47aa345a56-1920x1278.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 77034,
-   "priceFromSpecial": 60605,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "kruger-national-park",
-    "south-africa",
-    "thornybush"
-   ],
-   "experiences": [
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "shimungwe"
-   ],
-   "highlights": [
-    "4 nights at Shimungwe Lodge in Thornybush Game Reserve",
-    "Twice-daily open-vehicle game drives in the Greater Kruger",
-    "Big Five viewing alongside the Timbavati River",
-    "Suite balcony overlooking an active waterhole for armchair safari",
-    "Sundowner drinks in the bush at sunset",
-    "Round-trip flights from Johannesburg to Hoedspruit included"
-   ],
-   "featured": false,
-   "popularityScore": 10,
-   "enquiryUrl": "https://www.safari.com/safaris/5-day-thornybush-fly-in-package?a=rjx",
-   "priceFromUsd": 4810,
-   "priceFromSpecialUsd": 3780
-  },
-  {
-   "id": "safari.5-day-ultimate-fly-in-luxury-sabi-sand-safari",
-   "slug": "5-day-ultimate-fly-in-luxury-sabi-sand-safari",
-   "name": "5-Day Ultimate Fly-In Luxury Sabi Sand Safari",
-   "summary": "This 5-star luxury safari experience takes place in the renowned Sabi Sands Game Reserve, which shares an unfenced border with Kruger National Park. Your stay includes two nights at the ultra-exclusive Savanna Private Game Reserve and two nights at Dulini River, where you will enjoy breathtaking views, exceptional wildlife encounters, and unparalleled luxury. Your journey offers exceptional Big Five sightings, fine cuisine, and world-class accommodation.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/43826dcb46fd6d3e2a69fb936a4c1dd68425a031-1920x1280.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/43826dcb46fd6d3e2a69fb936a4c1dd68425a031-1920x1280.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 138605,
-   "priceFromSpecial": 124111,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "greater-kruger",
-    "sabi-sand",
-    "south-africa",
-    "dulini-collection"
-   ],
-   "experiences": [
-    "big-5-safaris",
-    "honeymoon-safaris",
-    "family-safaris",
-    "child-friendly-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "savanna",
-    "dulini-river"
-   ],
-   "highlights": [
-    "2 nights at Savanna Private Game Reserve, then 2 at Dulini River",
-    "Twice-daily game drives in the Sabi Sand, renowned for leopard sightings",
-    "Big Five tracking with expert guides and bush walks",
-    "Private suites with heated plunge pools and outdoor showers",
-    "Bush breakfasts, sundowners and candlelit dinners under the stars",
-    "Round-trip flights from Johannesburg to Skukuza with all transfers"
-   ],
-   "featured": false,
-   "popularityScore": 10,
-   "enquiryUrl": "https://www.safari.com/safaris/5-day-ultimate-fly-in-luxury-sabi-sand-safari?a=rjx",
-   "priceFromUsd": 8650,
-   "priceFromSpecialUsd": 7750
   },
   {
    "id": "safari.7-day-sumptuous-timbavati-and-sabi-sand-safari",
@@ -4209,38 +4023,110 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.4-day-nottens-camp-all-inclusive-safari",
-   "slug": "4-day-nottens-camp-all-inclusive-safari",
-   "name": "4-Day Nottens Camp All-Inclusive Safari",
-   "summary": "Notten's Bush Camp, located in the heart of South Africa's Sabi Sand Game Reserve, is a family-run and operated safari camp known for its authentic and intimate bush experience. This camp stands out for its rustic charm and commitment to providing a genuine African wildlife adventure. With no electricity in the guest rooms, the camp offers a unique, off-the-grid experience, illuminated by lanterns and candles, creating a cozy and romantic atmosphere. Personalized service, attention to detail, and a deep respect for nature make Notten's Bush Camp a highly sought-after destination for safari enthusiasts.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/d14453da533a62e184c83e414d44b4380e874c77-1920x1315.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/d14453da533a62e184c83e414d44b4380e874c77-1920x1315.webp?w=800&auto=format",
+   "id": "safari.10-day-kruger-to-cape-luxury-safari",
+   "slug": "10-day-kruger-to-cape-luxury-safari",
+   "name": "10-Day Kruger to Cape Luxury Safari",
+   "summary": "Experience the best of both worlds with this luxurious package: exceptional wildlife viewing, hearty bush meals, and opulent lodging. Explore Cape Town, renowned for its stunning Winelands, majestic mountains, and vibrant coastal scenery, all from your luxurious accommodations at the base of Table Mountain.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/73c8fb2a424139e1b925304334b3e33d26bbb5a3-1920x1344.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/73c8fb2a424139e1b925304334b3e33d26bbb5a3-1920x1344.webp?w=800&auto=format",
    "currency": "ZAR",
-   "priceFrom": 55264,
-   "priceFromSpecial": null,
+   "priceFrom": 151833,
+   "priceFromSpecial": 143433,
    "priceBasis": "per person sharing, guide price",
    "destinations": [
-    "sabi-sand"
+    "cape-town",
+    "south-africa",
+    "sabi-sand",
+    "timbavati"
    ],
    "experiences": [
-    "big-5-safaris"
+    "photographic-safaris",
+    "family-safaris",
+    "big-5-safaris",
+    "bush-and-beach-safaris"
    ],
    "brand": null,
    "lodges": [
-    "nottens"
+    "kings",
+    "leopard-hills",
+    "camissa"
    ],
    "highlights": [
-    "3 nights at Notten's Bush Camp, one of just 9 private suites",
-    "Twice-daily game drives and bush walks in the Sabi Sand",
-    "Big Five tracking in one of South Africa's richest reserves",
-    "Day excursion into Kruger National Park",
-    "Cultural visit to the local Shangaan community",
-    "Return flights JNB to Skukuza with road transfers to camp"
+    "3 nights at Kings Camp in Timbavati, then 2 at Leopard Hills in Sabi Sand",
+    "Twice-daily open-vehicle game drives with optional walking safaris",
+    "Big Five viewing including Sabi Sand's renowned leopard sightings",
+    "Ultimate Elephant Experience at Elephant Whispers with bush picnic",
+    "4 nights at Camissa House at the foot of Table Mountain",
+    "All internal flights from Johannesburg to the bush to Cape Town"
    ],
    "featured": false,
    "popularityScore": 9,
-   "enquiryUrl": "https://www.safari.com/safaris/4-day-nottens-camp-all-inclusive-safari?a=rjx",
-   "priceFromUsd": 3450,
+   "enquiryUrl": "https://www.safari.com/safaris/10-day-kruger-to-cape-luxury-safari?a=rjx",
+   "priceFromUsd": 9480,
+   "priceFromSpecialUsd": 8950
+  },
+  {
+   "id": "safari.4-day-fly-in-victoria-falls-ultimate-adventure",
+   "slug": "4-day-fly-in-victoria-falls-ultimate-adventure",
+   "name": "4-Day Fly-In Victoria Falls Ultimate Adventure",
+   "summary": "This 4-day safari showcases the breathtaking beauty of the Zambezi River, the majestic mist of Victoria Falls, and the wildlife-rich Chobe National Park. Guests will indulge in luxury at Batonka Guest Lodge while embarking on exciting adventures, including a sundowner cruise, helicopter rides, and a full-day trip to the Chobe in Botswana.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/de0bc16ab100ff801e89fc6ffc4ac4f72be4b020-1600x1061.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/de0bc16ab100ff801e89fc6ffc4ac4f72be4b020-1600x1061.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 1810,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "victoria-falls"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "batonka-guest"
+   ],
+   "highlights": [
+    "3 nights at Batonka Guest Lodge in Victoria Falls",
+    "Sundowner cruise on the Zambezi aboard the Pure Signature Deck",
+    "Sunrise walking tour of Victoria Falls with a 25-30 minute helicopter flight",
+    "Full-day crossing into Botswana for a Chobe game drive and boat cruise",
+    "Round-trip flights from Johannesburg and all transfers included"
+   ],
+   "featured": false,
+   "popularityScore": 9,
+   "enquiryUrl": "https://www.safari.com/safaris/4-day-fly-in-victoria-falls-ultimate-adventure?a=rjx",
+   "priceFromUsd": 1810,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.4-day-malaria-free-big-5-botlierskop-tented-lodge",
+   "slug": "4-day-malaria-free-big-5-botlierskop-tented-lodge",
+   "name": "4-Day Malaria-Free Botlierskop Safari",
+   "summary": "Botlierskop Tented Lodge, nestled in the heart of the Garden Route in South Africa, offers a unique and luxurious safari experience in a malaria-free area. This private game reserve spans over 4,200 hectares of diverse landscapes, providing habitat for a wide array of wildlife. The lodge provides a perfect blend of adventure, luxury, and conservation, making it an ideal destination for those seeking an immersive and comfortable wildlife experience in South Africa.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/6e0ce508f4900151b1ac2c3c6d8b28c6dbfd4c76-1920x1280.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/6e0ce508f4900151b1ac2c3c6d8b28c6dbfd4c76-1920x1280.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 22101,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "garden-route"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "botlierskop"
+   ],
+   "highlights": [
+    "3 nights at Botlierskop Tented Lodge on a 4,200-hectare private reserve",
+    "Malaria-free Big Five game drives in the Garden Route",
+    "Swap a drive for a horseback safari or 60-minute spa treatment",
+    "Bird hide visits and dinner served under the stars",
+    "Round-trip 4x4 transfers from George Airport included"
+   ],
+   "featured": false,
+   "popularityScore": 9,
+   "enquiryUrl": "https://www.safari.com/safaris/4-day-malaria-free-big-5-botlierskop-tented-lodge?a=rjx",
+   "priceFromUsd": 1380,
    "priceFromSpecialUsd": null
   },
   {
@@ -4279,37 +4165,83 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.five-day-ulusaba-promotion",
-   "slug": "five-day-ulusaba-promotion",
-   "name": "5 Day Ulusaba All-Inclusive Fly-in Package",
-   "summary": "Enjoy a 4-night stay and only pay for 3 nights when booking our 5-Day Ulusaba Safari package.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/abc8d714fd35e0b74378a8ad7ebc6ee7c681601f-1600x1067.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/abc8d714fd35e0b74378a8ad7ebc6ee7c681601f-1600x1067.webp?w=800&auto=format",
+   "id": "safari.5-day-thornybush-fly-in-package",
+   "slug": "5-day-thornybush-fly-in-package",
+   "name": "5-Day Thornybush Fly-In Package",
+   "summary": "This safari will take you deep into the heart of the private Thrnybush Game Reserve, ideal for families and couples to create an unforgettable experience. As it is located next to the Timbavati River, you will have ample opportunities for exciting interactions with the wildlife of the Greater Kruger.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/676edf5b107171d565b4887fd4513c47aa345a56-1920x1278.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/676edf5b107171d565b4887fd4513c47aa345a56-1920x1278.webp?w=800&auto=format",
    "currency": "ZAR",
-   "priceFrom": null,
-   "priceFromSpecial": null,
+   "priceFrom": 77034,
+   "priceFromSpecial": 60605,
    "priceBasis": "per person sharing, guide price",
    "destinations": [
-    "ulusaba"
+    "kruger-national-park",
+    "south-africa",
+    "thornybush"
    ],
-   "experiences": [],
-   "brand": "ulusaba",
+   "experiences": [
+    "big-5-safaris"
+   ],
+   "brand": null,
    "lodges": [
-    "ulusaba-safari"
+    "shimungwe"
    ],
    "highlights": [
-    "4 nights at 5-star Ulusaba Safari Lodge in the Sabi Sand",
-    "Twice-daily game drives across 13,500 hectares with dedicated ranger and tracker",
-    "Big Five sightings plus leopard, wild dog and big cats",
-    "Post-breakfast walking safaris and spa treatments between drives",
-    "Private dining for up to 6 in the Safari Lodge wine cellar",
-    "Round-trip flights from Johannesburg to Kruger Mpumalanga, all transfers included"
+    "4 nights at Shimungwe Lodge in Thornybush Game Reserve",
+    "Twice-daily open-vehicle game drives in the Greater Kruger",
+    "Big Five viewing alongside the Timbavati River",
+    "Suite balcony overlooking an active waterhole for armchair safari",
+    "Sundowner drinks in the bush at sunset",
+    "Round-trip flights from Johannesburg to Hoedspruit included"
    ],
-   "featured": true,
+   "featured": false,
    "popularityScore": 9,
-   "enquiryUrl": "https://www.safari.com/safaris/five-day-ulusaba-promotion?a=rjx",
-   "priceFromUsd": null,
-   "priceFromSpecialUsd": null
+   "enquiryUrl": "https://www.safari.com/safaris/5-day-thornybush-fly-in-package?a=rjx",
+   "priceFromUsd": 4810,
+   "priceFromSpecialUsd": 3780
+  },
+  {
+   "id": "safari.5-day-ultimate-fly-in-luxury-sabi-sand-safari",
+   "slug": "5-day-ultimate-fly-in-luxury-sabi-sand-safari",
+   "name": "5-Day Ultimate Fly-In Luxury Sabi Sand Safari",
+   "summary": "This 5-star luxury safari experience takes place in the renowned Sabi Sands Game Reserve, which shares an unfenced border with Kruger National Park. Your stay includes two nights at the ultra-exclusive Savanna Private Game Reserve and two nights at Dulini River, where you will enjoy breathtaking views, exceptional wildlife encounters, and unparalleled luxury. Your journey offers exceptional Big Five sightings, fine cuisine, and world-class accommodation.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/43826dcb46fd6d3e2a69fb936a4c1dd68425a031-1920x1280.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/43826dcb46fd6d3e2a69fb936a4c1dd68425a031-1920x1280.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 138605,
+   "priceFromSpecial": 124111,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "greater-kruger",
+    "sabi-sand",
+    "south-africa",
+    "dulini-collection"
+   ],
+   "experiences": [
+    "big-5-safaris",
+    "honeymoon-safaris",
+    "family-safaris",
+    "child-friendly-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "savanna",
+    "dulini-river"
+   ],
+   "highlights": [
+    "2 nights at Savanna Private Game Reserve, then 2 at Dulini River",
+    "Twice-daily game drives in the Sabi Sand, renowned for leopard sightings",
+    "Big Five tracking with expert guides and bush walks",
+    "Private suites with heated plunge pools and outdoor showers",
+    "Bush breakfasts, sundowners and candlelit dinners under the stars",
+    "Round-trip flights from Johannesburg to Skukuza with all transfers"
+   ],
+   "featured": false,
+   "popularityScore": 9,
+   "enquiryUrl": "https://www.safari.com/safaris/5-day-ultimate-fly-in-luxury-sabi-sand-safari?a=rjx",
+   "priceFromUsd": 8650,
+   "priceFromSpecialUsd": 7750
   },
   {
    "id": "safari.7-day-cape-town-to-the-coast-luxury-train-beach-escape",
@@ -4393,39 +4325,72 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.eight-day-ultra-luxurious-safari-and-island-escape-kenya-to-seychelles",
-   "slug": "eight-day-ultra-luxurious-safari-and-island-escape-kenya-to-seychelles",
-   "name": "8-Day Ultra-Luxurious Safari & Island Escape: Kenya to Seychelles",
-   "summary": "Begin your journey with 3 nights at the exclusive &Beyond Bateleur Camp in Kenya, where you'll immerse yourself in the breathtaking landscapes of the Maasai Mara and encounter awe-inspiring wildlife. Afterward, escape to the tranquil island of La Digue in Seychelles for 4 nights, where pristine beaches await. This perfect combination of thrilling safari adventures and tropical relaxation offers the ultimate getaway.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/34902c41d5000738744ce653f8c4286560d824bd-1920x1080.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/34902c41d5000738744ce653f8c4286560d824bd-1920x1080.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 9463,
-   "priceFromSpecial": 9131,
+   "id": "safari.4-day-nottens-camp-all-inclusive-safari",
+   "slug": "4-day-nottens-camp-all-inclusive-safari",
+   "name": "4-Day Nottens Camp All-Inclusive Safari",
+   "summary": "Notten's Bush Camp, located in the heart of South Africa's Sabi Sand Game Reserve, is a family-run and operated safari camp known for its authentic and intimate bush experience. This camp stands out for its rustic charm and commitment to providing a genuine African wildlife adventure. With no electricity in the guest rooms, the camp offers a unique, off-the-grid experience, illuminated by lanterns and candles, creating a cozy and romantic atmosphere. Personalized service, attention to detail, and a deep respect for nature make Notten's Bush Camp a highly sought-after destination for safari enthusiasts.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/d14453da533a62e184c83e414d44b4380e874c77-1920x1315.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/d14453da533a62e184c83e414d44b4380e874c77-1920x1315.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 55264,
+   "priceFromSpecial": null,
    "priceBasis": "per person sharing, guide price",
    "destinations": [
-    "kenya",
-    "seychelles"
+    "sabi-sand"
    ],
-   "experiences": [],
+   "experiences": [
+    "big-5-safaris"
+   ],
    "brand": null,
    "lodges": [
-    "bateleur",
-    "domaine-orangeraie"
+    "nottens"
    ],
    "highlights": [
-    "3 nights at &Beyond Bateleur Camp in the Maasai Mara",
-    "Twice-daily game drives across the Mara plains with Big Five sightings",
-    "Bush breakfasts, sundowners and a night drive for nocturnal wildlife",
-    "4 nights at Le Domaine de L'Orangeraie on La Digue, Seychelles",
-    "Snorkelling secluded reefs and cycling La Digue's coastline",
-    "Helicopter transfer from Mahé to La Digue Island"
+    "3 nights at Notten's Bush Camp, one of just 9 private suites",
+    "Twice-daily game drives and bush walks in the Sabi Sand",
+    "Big Five tracking in one of South Africa's richest reserves",
+    "Day excursion into Kruger National Park",
+    "Cultural visit to the local Shangaan community",
+    "Return flights JNB to Skukuza with road transfers to camp"
    ],
    "featured": false,
    "popularityScore": 8,
-   "enquiryUrl": "https://www.safari.com/safaris/eight-day-ultra-luxurious-safari-and-island-escape-kenya-to-seychelles?a=rjx",
-   "priceFromUsd": 9463,
-   "priceFromSpecialUsd": 9131
+   "enquiryUrl": "https://www.safari.com/safaris/4-day-nottens-camp-all-inclusive-safari?a=rjx",
+   "priceFromUsd": 3450,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.five-day-ulusaba-promotion",
+   "slug": "five-day-ulusaba-promotion",
+   "name": "5 Day Ulusaba All-Inclusive Fly-in Package",
+   "summary": "Enjoy a 4-night stay and only pay for 3 nights when booking our 5-Day Ulusaba Safari package.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/abc8d714fd35e0b74378a8ad7ebc6ee7c681601f-1600x1067.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/abc8d714fd35e0b74378a8ad7ebc6ee7c681601f-1600x1067.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": null,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "ulusaba"
+   ],
+   "experiences": [],
+   "brand": "ulusaba",
+   "lodges": [
+    "ulusaba-safari"
+   ],
+   "highlights": [
+    "4 nights at 5-star Ulusaba Safari Lodge in the Sabi Sand",
+    "Twice-daily game drives across 13,500 hectares with dedicated ranger and tracker",
+    "Big Five sightings plus leopard, wild dog and big cats",
+    "Post-breakfast walking safaris and spa treatments between drives",
+    "Private dining for up to 6 in the Safari Lodge wine cellar",
+    "Round-trip flights from Johannesburg to Kruger Mpumalanga, all transfers included"
+   ],
+   "featured": true,
+   "popularityScore": 8,
+   "enquiryUrl": "https://www.safari.com/safaris/five-day-ulusaba-promotion?a=rjx",
+   "priceFromUsd": null,
+   "priceFromSpecialUsd": null
   },
   {
    "id": "safari.nine-day-desert-and-delta-ultra-lux-safari",
@@ -4470,6 +4435,40 @@
    "popularityScore": 8,
    "enquiryUrl": "https://www.safari.com/safaris/nine-day-desert-and-delta-ultra-lux-safari?a=rjx",
    "priceFromUsd": 8387,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.3-day-victoria-falls-safari",
+   "slug": "3-day-victoria-falls-safari",
+   "name": "3-Day Livingstone, Victoria Falls Safari",
+   "summary": "Experience Victoria Falls and thrilling activities, while staying in luxury.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/c380e560a705e7bb0bff1016ae038f75e15e7a69-1775x1181.jpg?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/c380e560a705e7bb0bff1016ae038f75e15e7a69-1775x1181.jpg?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 1614,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "victoria-falls",
+    "zambia"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "the-royal-livingstone-hotel"
+   ],
+   "highlights": [
+    "2 nights at the 5-star Royal Livingstone Hotel on the Zambezi",
+    "10-minute walk to Victoria Falls from the hotel",
+    "Guided walking tour of Victoria Falls",
+    "Helicopter or microlight flight over the Falls",
+    "Sunset cruise on the Zambezi aboard the African Queen",
+    "Round-trip transfers from Livingstone Airport included"
+   ],
+   "featured": false,
+   "popularityScore": 7,
+   "enquiryUrl": "https://www.safari.com/safaris/3-day-victoria-falls-safari?a=rjx",
+   "priceFromUsd": 1614,
    "priceFromSpecialUsd": null
   },
   {
@@ -4617,6 +4616,41 @@
    "priceFromSpecialUsd": 3180
   },
   {
+   "id": "safari.eight-day-ultra-luxurious-safari-and-island-escape-kenya-to-seychelles",
+   "slug": "eight-day-ultra-luxurious-safari-and-island-escape-kenya-to-seychelles",
+   "name": "8-Day Ultra-Luxurious Safari & Island Escape: Kenya to Seychelles",
+   "summary": "Begin your journey with 3 nights at the exclusive &Beyond Bateleur Camp in Kenya, where you'll immerse yourself in the breathtaking landscapes of the Maasai Mara and encounter awe-inspiring wildlife. Afterward, escape to the tranquil island of La Digue in Seychelles for 4 nights, where pristine beaches await. This perfect combination of thrilling safari adventures and tropical relaxation offers the ultimate getaway.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/34902c41d5000738744ce653f8c4286560d824bd-1920x1080.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/34902c41d5000738744ce653f8c4286560d824bd-1920x1080.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 9463,
+   "priceFromSpecial": 9131,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "kenya",
+    "seychelles"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "bateleur",
+    "domaine-orangeraie"
+   ],
+   "highlights": [
+    "3 nights at &Beyond Bateleur Camp in the Maasai Mara",
+    "Twice-daily game drives across the Mara plains with Big Five sightings",
+    "Bush breakfasts, sundowners and a night drive for nocturnal wildlife",
+    "4 nights at Le Domaine de L'Orangeraie on La Digue, Seychelles",
+    "Snorkelling secluded reefs and cycling La Digue's coastline",
+    "Helicopter transfer from Mahé to La Digue Island"
+   ],
+   "featured": false,
+   "popularityScore": 7,
+   "enquiryUrl": "https://www.safari.com/safaris/eight-day-ultra-luxurious-safari-and-island-escape-kenya-to-seychelles?a=rjx",
+   "priceFromUsd": 9463,
+   "priceFromSpecialUsd": 9131
+  },
+  {
    "id": "safari.nine-day-classic-botswana-safari",
    "slug": "nine-day-classic-botswana-safari",
    "name": "9-Day Classic Botswana Safari",
@@ -4654,53 +4688,6 @@
    "popularityScore": 7,
    "enquiryUrl": "https://www.safari.com/safaris/nine-day-classic-botswana-safari?a=rjx",
    "priceFromUsd": 11639,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.ten-day-best-of-east-africa-migration-safari",
-   "slug": "ten-day-best-of-east-africa-migration-safari",
-   "name": "10-Day Best of East Africa Migration Safari ",
-   "summary": "Your adventure starts in Nairobi, showcasing modern Kenyan style, before heading to the Masai Mara to see the Big Five, Mara Cats, and the Great Migration (July-November). Stay at Kichwa Tembo Tented Camp for a classic safari experience. Next, travel to the Serengeti, spending two days at a mobile camp with prime views of the migration. Visit Ngorongoro Crater, a wildlife haven, and stay two nights at Melia Ngorongoro with stunning views. End your trip at Lake Manyara National Park, known for tree-climbing lions and flamingos, staying at the Lake Manyara Tree Lodge. A perfect mix of unique stays and incredible wildlife.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/88cf83748704019163d6dfd531d7e1b7d79ccdb6-1800x1200.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/88cf83748704019163d6dfd531d7e1b7d79ccdb6-1800x1200.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 13085,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "kenya",
-    "tanzania",
-    "serengeti",
-    "masai-mara"
-   ],
-   "experiences": [
-    "great-migration",
-    "luxury-safaris",
-    "honeymoon-safaris",
-    "hot-air-ballooning",
-    "mobile-and-walking-safaris",
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "karen-blixen-cottages",
-    "kichwa-tembo",
-    "simbavati-grumeti",
-    "ngorongoro-lodge-melia-collection",
-    "lake-manyara-tree"
-   ],
-   "highlights": [
-    "2 nights at Karen Blixen Cottages with visits to David Sheldrick Trust and Giraffe Centre",
-    "2 nights at Kichwa Tembo in the Masai Mara for Big Five game drives",
-    "2 nights at Simbavati Grumeti Camp in the Serengeti with private guide",
-    "Full-day game drive in the Ngorongoro Crater, staying at Melia Ngorongoro",
-    "Tree-climbing lions and flamingos at Lake Manyara, overnight at andBeyond Tree Lodge",
-    "Stop at Olduvai Gorge en route between the Serengeti and Ngorongoro"
-   ],
-   "featured": false,
-   "popularityScore": 6,
-   "enquiryUrl": "https://www.safari.com/safaris/ten-day-best-of-east-africa-migration-safari?a=rjx",
-   "priceFromUsd": 13085,
    "priceFromSpecialUsd": null
   },
   {
@@ -4745,40 +4732,6 @@
    "enquiryUrl": "https://www.safari.com/safaris/twelve-day-cape-town-kruger-and-madikwe-safari?a=rjx",
    "priceFromUsd": 9740,
    "priceFromSpecialUsd": 7960
-  },
-  {
-   "id": "safari.3-day-victoria-falls-safari",
-   "slug": "3-day-victoria-falls-safari",
-   "name": "3-Day Livingstone, Victoria Falls Safari",
-   "summary": "Experience Victoria Falls and thrilling activities, while staying in luxury.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/c380e560a705e7bb0bff1016ae038f75e15e7a69-1775x1181.jpg?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/c380e560a705e7bb0bff1016ae038f75e15e7a69-1775x1181.jpg?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 1614,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "victoria-falls",
-    "zambia"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "the-royal-livingstone-hotel"
-   ],
-   "highlights": [
-    "2 nights at the 5-star Royal Livingstone Hotel on the Zambezi",
-    "10-minute walk to Victoria Falls from the hotel",
-    "Guided walking tour of Victoria Falls",
-    "Helicopter or microlight flight over the Falls",
-    "Sunset cruise on the Zambezi aboard the African Queen",
-    "Round-trip transfers from Livingstone Airport included"
-   ],
-   "featured": false,
-   "popularityScore": 6,
-   "enquiryUrl": "https://www.safari.com/safaris/3-day-victoria-falls-safari?a=rjx",
-   "priceFromUsd": 1614,
-   "priceFromSpecialUsd": null
   },
   {
    "id": "safari.4-day-malaria-free-big-5-mhondoro",
@@ -5050,7 +5003,7 @@
    "featured": false,
    "popularityScore": 5,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-ultra-lux-safari-at-lion-sands-ivory-lodge?a=rjx",
-   "priceFromUsd": 10110,
+   "priceFromUsd": 10120,
    "priceFromSpecialUsd": null
   },
   {
@@ -5171,6 +5124,53 @@
    "enquiryUrl": "https://www.safari.com/safaris/nine-day-rockfig-south-africa-and-santorini-mozambique-safari?a=rjx",
    "priceFromUsd": 8461,
    "priceFromSpecialUsd": 6737
+  },
+  {
+   "id": "safari.ten-day-best-of-east-africa-migration-safari",
+   "slug": "ten-day-best-of-east-africa-migration-safari",
+   "name": "10-Day Best of East Africa Migration Safari ",
+   "summary": "Your adventure starts in Nairobi, showcasing modern Kenyan style, before heading to the Masai Mara to see the Big Five, Mara Cats, and the Great Migration (July-November). Stay at Kichwa Tembo Tented Camp for a classic safari experience. Next, travel to the Serengeti, spending two days at a mobile camp with prime views of the migration. Visit Ngorongoro Crater, a wildlife haven, and stay two nights at Melia Ngorongoro with stunning views. End your trip at Lake Manyara National Park, known for tree-climbing lions and flamingos, staying at the Lake Manyara Tree Lodge. A perfect mix of unique stays and incredible wildlife.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/88cf83748704019163d6dfd531d7e1b7d79ccdb6-1800x1200.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/88cf83748704019163d6dfd531d7e1b7d79ccdb6-1800x1200.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 13085,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "kenya",
+    "tanzania",
+    "serengeti",
+    "masai-mara"
+   ],
+   "experiences": [
+    "great-migration",
+    "luxury-safaris",
+    "honeymoon-safaris",
+    "hot-air-ballooning",
+    "mobile-and-walking-safaris",
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "karen-blixen-cottages",
+    "kichwa-tembo",
+    "simbavati-grumeti",
+    "ngorongoro-lodge-melia-collection",
+    "lake-manyara-tree"
+   ],
+   "highlights": [
+    "2 nights at Karen Blixen Cottages with visits to David Sheldrick Trust and Giraffe Centre",
+    "2 nights at Kichwa Tembo in the Masai Mara for Big Five game drives",
+    "2 nights at Simbavati Grumeti Camp in the Serengeti with private guide",
+    "Full-day game drive in the Ngorongoro Crater, staying at Melia Ngorongoro",
+    "Tree-climbing lions and flamingos at Lake Manyara, overnight at andBeyond Tree Lodge",
+    "Stop at Olduvai Gorge en route between the Serengeti and Ngorongoro"
+   ],
+   "featured": false,
+   "popularityScore": 4,
+   "enquiryUrl": "https://www.safari.com/safaris/ten-day-best-of-east-africa-migration-safari?a=rjx",
+   "priceFromUsd": 13085,
+   "priceFromSpecialUsd": null
   },
   {
    "id": "safari.eleven-day-luxury-adventure-through-south-africa-to-mauritius",
@@ -5519,7 +5519,7 @@
    "featured": true,
    "popularityScore": 3,
    "enquiryUrl": "https://www.safari.com/safaris/16-day-bush-garden-route?a=rjx",
-   "priceFromUsd": 5440,
+   "priceFromUsd": 5450,
    "priceFromSpecialUsd": null
   },
   {
@@ -5626,7 +5626,7 @@
    "featured": false,
    "popularityScore": 3,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-fly-in-kirkmans-kamp-all-inclusive-safari?a=rjx",
-   "priceFromUsd": 5720,
+   "priceFromUsd": 5730,
    "priceFromSpecialUsd": null
   },
   {
@@ -5697,7 +5697,7 @@
    "featured": false,
    "popularityScore": 3,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-singita-kruger-park-promotion?a=rjx",
-   "priceFromUsd": 10400,
+   "priceFromUsd": 10410,
    "priceFromSpecialUsd": null
   },
   {
@@ -5912,7 +5912,7 @@
    "featured": false,
    "popularityScore": 2,
    "enquiryUrl": "https://www.safari.com/safaris/11-day-cape-town-tswalu-and-kruger?a=rjx",
-   "priceFromUsd": 21710,
+   "priceFromUsd": 21720,
    "priceFromSpecialUsd": null
   },
   {
@@ -6102,7 +6102,7 @@
    "featured": false,
    "popularityScore": 2,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-grootbos-forest-lodge-experience?a=rjx",
-   "priceFromUsd": 3550,
+   "priceFromUsd": 3560,
    "priceFromSpecialUsd": null
   },
   {
@@ -6297,44 +6297,6 @@
    "popularityScore": 1,
    "enquiryUrl": "https://www.safari.com/safaris/ten-day-namibia-south-desert-canyon-and-ocean?a=rjx",
    "priceFromUsd": 6040,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.12-day-garden-route-cape-town-eastern-cape-safari",
-   "slug": "12-day-garden-route-cape-town-eastern-cape-safari",
-   "name": "12 Day Garden Route, Cape Town & Eastern Cape Safari",
-   "summary": "This 12-day tour is an exploration of what makes South Africa a top tourist destination. Your journey begins in Cape Town, renowned for its rich culture and picturesque landscapes. Climbing into your rental car, you travel along the famous Garden Route and arrive in the “ostrich capital of the world”. Here you’ll have the opportunity to explore the dramatic Cango Caves, the Cango Wildlife Ranch, and the various ostrich farms in Oudtshoorn. Heading towards the coastline, your next stop is a town that encompasses indigenous forests, pristine beaches, sandstone cliffs and an idyllic lagoon. Knysna offers a rush of adventure activities, exciting festivals and world-class golf courses. Then, marvel in an unforgettable safari experience with Shamwari Game Reserve showcasing its passion for wildlife conservation and phenomenal BIG 5 game viewing.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/04c87dcc10c7aa65d05088f8b75812703c73c238-1600x744.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/04c87dcc10c7aa65d05088f8b75812703c73c238-1600x744.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 102544,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "cape-town",
-    "garden-route",
-    "oudtshoorn"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "kensington-place",
-    "rosenhof-country",
-    "kanonkop",
-    "shamwari-bayethe"
-   ],
-   "highlights": [
-    "4 nights at Kensington Place in Cape Town with private Cape Peninsula and Winelands tours",
-    "African penguins at Boulders Beach and wine tasting in Stellenbosch and Franschhoek",
-    "1 night at Rosenhof Country House in Oudtshoorn with Cango Caves and ostrich farms",
-    "3 nights at Kanonkop House in Knysna for lagoon cruises and Tsitsikamma Forest",
-    "3 nights at Shamwari Bayethe Lodge with Big Five game drives and walking safaris",
-    "Self-drive along the Garden Route with car rental included throughout"
-   ],
-   "featured": false,
-   "popularityScore": 1,
-   "enquiryUrl": "https://www.safari.com/safaris/12-day-garden-route-cape-town-eastern-cape-safari?a=rjx",
-   "priceFromUsd": 6400,
    "priceFromSpecialUsd": null
   },
   {
@@ -6698,7 +6660,7 @@
    "featured": false,
    "popularityScore": 1,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-madikwe-cape-town?a=rjx",
-   "priceFromUsd": 6160,
+   "priceFromUsd": 6170,
    "priceFromSpecialUsd": 5170
   },
   {
@@ -6877,7 +6839,7 @@
    "featured": false,
    "popularityScore": 1,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-ultra-lux-cape-town-to-big-5-safari?a=rjx",
-   "priceFromUsd": 5860,
+   "priceFromUsd": 5870,
    "priceFromSpecialUsd": null
   },
   {
@@ -7506,6 +7468,44 @@
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/ten-day-scenic-botswana-photo-safari?a=rjx",
    "priceFromUsd": 13950,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.12-day-garden-route-cape-town-eastern-cape-safari",
+   "slug": "12-day-garden-route-cape-town-eastern-cape-safari",
+   "name": "12 Day Garden Route, Cape Town & Eastern Cape Safari",
+   "summary": "This 12-day tour is an exploration of what makes South Africa a top tourist destination. Your journey begins in Cape Town, renowned for its rich culture and picturesque landscapes. Climbing into your rental car, you travel along the famous Garden Route and arrive in the “ostrich capital of the world”. Here you’ll have the opportunity to explore the dramatic Cango Caves, the Cango Wildlife Ranch, and the various ostrich farms in Oudtshoorn. Heading towards the coastline, your next stop is a town that encompasses indigenous forests, pristine beaches, sandstone cliffs and an idyllic lagoon. Knysna offers a rush of adventure activities, exciting festivals and world-class golf courses. Then, marvel in an unforgettable safari experience with Shamwari Game Reserve showcasing its passion for wildlife conservation and phenomenal BIG 5 game viewing.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/04c87dcc10c7aa65d05088f8b75812703c73c238-1600x744.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/04c87dcc10c7aa65d05088f8b75812703c73c238-1600x744.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 102544,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "cape-town",
+    "garden-route",
+    "oudtshoorn"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "kensington-place",
+    "rosenhof-country",
+    "kanonkop",
+    "shamwari-bayethe"
+   ],
+   "highlights": [
+    "4 nights at Kensington Place in Cape Town with private Cape Peninsula and Winelands tours",
+    "African penguins at Boulders Beach and wine tasting in Stellenbosch and Franschhoek",
+    "1 night at Rosenhof Country House in Oudtshoorn with Cango Caves and ostrich farms",
+    "3 nights at Kanonkop House in Knysna for lagoon cruises and Tsitsikamma Forest",
+    "3 nights at Shamwari Bayethe Lodge with Big Five game drives and walking safaris",
+    "Self-drive along the Garden Route with car rental included throughout"
+   ],
+   "featured": false,
+   "popularityScore": 0,
+   "enquiryUrl": "https://www.safari.com/safaris/12-day-garden-route-cape-town-eastern-cape-safari?a=rjx",
+   "priceFromUsd": 6400,
    "priceFromSpecialUsd": null
   },
   {
@@ -9088,7 +9088,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/8-day-ultra-lux-tengile-and-tswalu-fly-in-safari?a=rjx",
-   "priceFromUsd": 22250,
+   "priceFromUsd": 22260,
    "priceFromSpecialUsd": null
   },
   {
@@ -9288,7 +9288,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/nine-day-opulent-cape-town-sabi-sand-safari?a=rjx",
-   "priceFromUsd": 19010,
+   "priceFromUsd": 19020,
    "priceFromSpecialUsd": 15900
   },
   {
