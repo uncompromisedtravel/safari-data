@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-06T07:42:00.951Z",
+ "generated": "2026-09-07T08:00:19.967Z",
  "source": "safari.com affiliate API",
  "fx": {
-  "zarPerUsd": 15.963832,
+  "zarPerUsd": 15.957439,
   "source": "open.er-api.com",
   "note": "ZAR prices converted to approximate USD at bake time"
  },
@@ -1317,7 +1317,7 @@
    "featured": false,
    "popularityScore": 100,
    "enquiryUrl": "https://www.safari.com/safaris/three-day-sabi-sand-idube-game-reserve?a=rjx",
-   "priceFromUsd": 3060,
+   "priceFromUsd": 3070,
    "priceFromSpecialUsd": null
   },
   {
@@ -1386,7 +1386,7 @@
     "Round-trip flights from Johannesburg and airport transfers included"
    ],
    "featured": true,
-   "popularityScore": 86,
+   "popularityScore": 85,
    "enquiryUrl": "https://www.safari.com/safaris/3-day-victoria-falls-fly-in?a=rjx",
    "priceFromUsd": 1421,
    "priceFromSpecialUsd": 1412
@@ -1420,7 +1420,7 @@
     "Return flights from Johannesburg to Victoria Falls and Mauritius included"
    ],
    "featured": false,
-   "popularityScore": 86,
+   "popularityScore": 85,
    "enquiryUrl": "https://www.safari.com/safaris/eight-day-victoria-falls-and-mauritius-combo?a=rjx",
    "priceFromUsd": 5800,
    "priceFromSpecialUsd": null
@@ -1715,7 +1715,7 @@
    "featured": false,
    "popularityScore": 56,
    "enquiryUrl": "https://www.safari.com/safaris/four-day-lush-sabi-sand-river-safari?a=rjx",
-   "priceFromUsd": 3870,
+   "priceFromUsd": 3880,
    "priceFromSpecialUsd": null
   },
   {
@@ -1751,7 +1751,7 @@
    "featured": false,
    "popularityScore": 55,
    "enquiryUrl": "https://www.safari.com/safaris/3-day-lion-sands-sabi-sand-safari?a=rjx",
-   "priceFromUsd": 4210,
+   "priceFromUsd": 4220,
    "priceFromSpecialUsd": null
   },
   {
@@ -1787,7 +1787,7 @@
    "featured": false,
    "popularityScore": 55,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-all-inclusive-lion-sands-river-lodge-safari?a=rjx",
-   "priceFromUsd": 7700,
+   "priceFromUsd": 7710,
    "priceFromSpecialUsd": 5960
   },
   {
@@ -1825,7 +1825,7 @@
    "featured": false,
    "popularityScore": 52,
    "enquiryUrl": "https://www.safari.com/safaris/3-day-big-5-safari-at-sanbona-wildlife-reserve?a=rjx",
-   "priceFromUsd": 2820,
+   "priceFromUsd": 2830,
    "priceFromSpecialUsd": null
   },
   {
@@ -2097,7 +2097,7 @@
    "featured": false,
    "popularityScore": 38,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-timeless-kruger-cape-town-safari?a=rjx",
-   "priceFromUsd": 4640,
+   "priceFromUsd": 4650,
    "priceFromSpecialUsd": null
   },
   {
@@ -2578,6 +2578,41 @@
    "priceFromSpecialUsd": null
   },
   {
+   "id": "safari.7-day-cape-town-to-durban-rovos-rail-safari",
+   "slug": "7-day-cape-town-to-durban-rovos-rail-safari",
+   "name": "7 Day Cape Town to Durban Rovos Rail",
+   "summary": "This extravagantly luxurious 7-day steam train rail journey begins in the bustling city of Cape Town, traverses a variety of diverse regions across South Africa, and ends in the wonderfully warm seaside city of Durban.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/e6a9af524d1e6069de8108e1dcf04a610ab10e12-1600x1067.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/e6a9af524d1e6069de8108e1dcf04a610ab10e12-1600x1067.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 81510,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "south-africa",
+    "cape-town",
+    "cape-winelands"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "rovos-rail-pullman-suite"
+   ],
+   "highlights": [
+    "5 nights aboard Rovos Rail's Pride of Africa, Cape Town to Durban",
+    "1 night at the 5-star Sheraton Hotel in Pretoria with city tour",
+    "Stops at Victorian-era Matjiesfontein and Kimberley's Big Hole",
+    "Big Five game drive in the 20,000-acre Nambiti Conservancy",
+    "Visit to Ardmore Ceramics in the Drakensberg foothills",
+    "Scenic travel through the Cape Winelands, Karoo and Valley of a Thousand Hills"
+   ],
+   "featured": false,
+   "popularityScore": 29,
+   "enquiryUrl": "https://www.safari.com/safaris/7-day-cape-town-to-durban-rovos-rail-safari?a=rjx",
+   "priceFromUsd": 5110,
+   "priceFromSpecialUsd": null
+  },
+  {
    "id": "safari.11-day-luxury-kruger-victoria-falls-and-cape-town",
    "slug": "11-day-luxury-kruger-victoria-falls-and-cape-town",
    "name": "11 Day Luxury Kruger, Victoria Falls & Cape Town",
@@ -2699,41 +2734,6 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.7-day-cape-town-to-durban-rovos-rail-safari",
-   "slug": "7-day-cape-town-to-durban-rovos-rail-safari",
-   "name": "7 Day Cape Town to Durban Rovos Rail",
-   "summary": "This extravagantly luxurious 7-day steam train rail journey begins in the bustling city of Cape Town, traverses a variety of diverse regions across South Africa, and ends in the wonderfully warm seaside city of Durban.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/e6a9af524d1e6069de8108e1dcf04a610ab10e12-1600x1067.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/e6a9af524d1e6069de8108e1dcf04a610ab10e12-1600x1067.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 81510,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "south-africa",
-    "cape-town",
-    "cape-winelands"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "rovos-rail-pullman-suite"
-   ],
-   "highlights": [
-    "5 nights aboard Rovos Rail's Pride of Africa, Cape Town to Durban",
-    "1 night at the 5-star Sheraton Hotel in Pretoria with city tour",
-    "Stops at Victorian-era Matjiesfontein and Kimberley's Big Hole",
-    "Big Five game drive in the 20,000-acre Nambiti Conservancy",
-    "Visit to Ardmore Ceramics in the Drakensberg foothills",
-    "Scenic travel through the Cape Winelands, Karoo and Valley of a Thousand Hills"
-   ],
-   "featured": false,
-   "popularityScore": 24,
-   "enquiryUrl": "https://www.safari.com/safaris/7-day-cape-town-to-durban-rovos-rail-safari?a=rjx",
-   "priceFromUsd": 5110,
-   "priceFromSpecialUsd": null
-  },
-  {
    "id": "safari.7-day-ultra-lux-kruger-and-vic-falls-fly-in-safari",
    "slug": "7-day-ultra-lux-kruger-and-vic-falls-fly-in-safari",
    "name": "7-Day Ultra-Lux Kruger and Vic Falls Fly-in Safari",
@@ -2776,6 +2776,42 @@
    "priceFromSpecialUsd": null
   },
   {
+   "id": "safari.seven-day-victoria-falls-and-chobe-classic-railway-safari-adventure",
+   "slug": "seven-day-victoria-falls-and-chobe-classic-railway-safari-adventure",
+   "name": "7-Day Victoria Falls and Chobe: Classic Railway Safari Adventure",
+   "summary": "Embark on a luxurious, scenic journey aboard the Rovos Rail from Pretoria to Victoria Falls, where the elegance of train travel meets the beauty of Southern Africa. Once you arrive, indulge in an exciting 3-night stay at Ngoma Safari Lodge, where game drives — both on land and water — await. Savour exquisite cuisine crafted by the lodge’s talented chefs, who showcase the rich cultural flavours of Botswana, offering you an unforgettable culinary experience.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/ba68a518c69e56ba3c748f0710d619bb81956068-1900x1268.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/ba68a518c69e56ba3c748f0710d619bb81956068-1900x1268.webp?w=800&auto=format",
+   "currency": "USD",
+   "priceFrom": 6896,
+   "priceFromSpecial": 6090,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "south-africa",
+    "victoria-falls",
+    "chobe"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "rovos-rail-pullman-suite",
+    "ngoma"
+   ],
+   "highlights": [
+    "3 nights aboard Rovos Rail in a Pullman Suite from Pretoria to Victoria Falls",
+    "Gourmet meals and all beverages included throughout the rail journey",
+    "3 nights at Ngoma Safari Lodge overlooking Chobe National Park",
+    "Game drives among Chobe's renowned elephant herds",
+    "Boat safari on the Chobe River for hippo, croc and birdlife",
+    "All road transfers between Victoria Falls Station, Kasane Airport and the lodge"
+   ],
+   "featured": false,
+   "popularityScore": 24,
+   "enquiryUrl": "https://www.safari.com/safaris/seven-day-victoria-falls-and-chobe-classic-railway-safari-adventure?a=rjx",
+   "priceFromUsd": 6896,
+   "priceFromSpecialUsd": 6090
+  },
+  {
    "id": "safari.3-day-fly-in-authentic-rhino-post-safari",
    "slug": "3-day-fly-in-authentic-rhino-post-safari",
    "name": "3-Day Fly-In Authentic Rhino Post Safari",
@@ -2807,7 +2843,7 @@
    "featured": false,
    "popularityScore": 21,
    "enquiryUrl": "https://www.safari.com/safaris/3-day-fly-in-authentic-rhino-post-safari?a=rjx",
-   "priceFromUsd": 1980,
+   "priceFromUsd": 1990,
    "priceFromSpecialUsd": null
   },
   {
@@ -2880,7 +2916,7 @@
    "featured": false,
    "popularityScore": 21,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-walking-safari-trail?a=rjx",
-   "priceFromUsd": 2360,
+   "priceFromUsd": 2370,
    "priceFromSpecialUsd": null
   },
   {
@@ -2923,42 +2959,6 @@
    "enquiryUrl": "https://www.safari.com/safaris/7-day-fly-in-cape-town-to-kruger-luxury-safari?a=rjx",
    "priceFromUsd": 4270,
    "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.seven-day-victoria-falls-and-chobe-classic-railway-safari-adventure",
-   "slug": "seven-day-victoria-falls-and-chobe-classic-railway-safari-adventure",
-   "name": "7-Day Victoria Falls and Chobe: Classic Railway Safari Adventure",
-   "summary": "Embark on a luxurious, scenic journey aboard the Rovos Rail from Pretoria to Victoria Falls, where the elegance of train travel meets the beauty of Southern Africa. Once you arrive, indulge in an exciting 3-night stay at Ngoma Safari Lodge, where game drives — both on land and water — await. Savour exquisite cuisine crafted by the lodge’s talented chefs, who showcase the rich cultural flavours of Botswana, offering you an unforgettable culinary experience.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/ba68a518c69e56ba3c748f0710d619bb81956068-1900x1268.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/ba68a518c69e56ba3c748f0710d619bb81956068-1900x1268.webp?w=800&auto=format",
-   "currency": "USD",
-   "priceFrom": 6896,
-   "priceFromSpecial": 6090,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "south-africa",
-    "victoria-falls",
-    "chobe"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "rovos-rail-pullman-suite",
-    "ngoma"
-   ],
-   "highlights": [
-    "3 nights aboard Rovos Rail in a Pullman Suite from Pretoria to Victoria Falls",
-    "Gourmet meals and all beverages included throughout the rail journey",
-    "3 nights at Ngoma Safari Lodge overlooking Chobe National Park",
-    "Game drives among Chobe's renowned elephant herds",
-    "Boat safari on the Chobe River for hippo, croc and birdlife",
-    "All road transfers between Victoria Falls Station, Kasane Airport and the lodge"
-   ],
-   "featured": false,
-   "popularityScore": 21,
-   "enquiryUrl": "https://www.safari.com/safaris/seven-day-victoria-falls-and-chobe-classic-railway-safari-adventure?a=rjx",
-   "priceFromUsd": 6896,
-   "priceFromSpecialUsd": 6090
   },
   {
    "id": "safari.eight-day-big-five-fine-wines",
@@ -3481,7 +3481,44 @@
    "featured": false,
    "popularityScore": 15,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-sabi-sabi-bush-lodge-package?a=rjx",
-   "priceFromUsd": 6790,
+   "priceFromUsd": 6800,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.7-day-cape-town-to-the-coast-luxury-train-beach-escape",
+   "slug": "7-day-cape-town-to-the-coast-luxury-train-beach-escape",
+   "name": "7-Day Cape Town to the Coast: Luxury Train & Beach Escape",
+   "summary": "This luxury train and beach escape offers a unique blend of timeless luxury, rich history and breathtaking beach views.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/b4ddcbed9b450ebe0cd97d5598e357b6efa2ee80-1800x1200.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/b4ddcbed9b450ebe0cd97d5598e357b6efa2ee80-1800x1200.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 57236,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "cape-town"
+   ],
+   "experiences": [
+    "rail-journeys",
+    "honeymoon-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "rovos-rail-pullman-suite",
+    "st-james-manor"
+   ],
+   "highlights": [
+    "3 nights aboard Rovos Rail in a Pullman Suite from Pretoria to Cape Town",
+    "Guided tour of Kimberley's Big Hole and Diamond Mine Museum",
+    "Stop at Matjiesfontein, a preserved Victorian railway village in the Karoo",
+    "3 nights at St James Manor, a seaside guesthouse on the Cape Peninsula",
+    "Day exploring Kalk Bay harbour, galleries and fresh seafood restaurants",
+    "All meals and beverages on board, plus airport and station transfers"
+   ],
+   "featured": false,
+   "popularityScore": 15,
+   "enquiryUrl": "https://www.safari.com/safaris/7-day-cape-town-to-the-coast-luxury-train-beach-escape?a=rjx",
+   "priceFromUsd": 3590,
    "priceFromSpecialUsd": null
   },
   {
@@ -3595,7 +3632,7 @@
    "popularityScore": 14,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-promotion-with-malamala-camp?a=rjx",
    "priceFromUsd": 7300,
-   "priceFromSpecialUsd": 5660
+   "priceFromSpecialUsd": 5670
   },
   {
    "id": "safari.9-day-victoria-falls-cape-town-malamala-camp-ultra-luxury-safari",
@@ -3865,43 +3902,6 @@
    "popularityScore": 12,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-sumptuous-timbavati-and-sabi-sand-safari?a=rjx",
    "priceFromUsd": 9290,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.7-day-cape-town-to-the-coast-luxury-train-beach-escape",
-   "slug": "7-day-cape-town-to-the-coast-luxury-train-beach-escape",
-   "name": "7-Day Cape Town to the Coast: Luxury Train & Beach Escape",
-   "summary": "This luxury train and beach escape offers a unique blend of timeless luxury, rich history and breathtaking beach views.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/b4ddcbed9b450ebe0cd97d5598e357b6efa2ee80-1800x1200.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/b4ddcbed9b450ebe0cd97d5598e357b6efa2ee80-1800x1200.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 57236,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "cape-town"
-   ],
-   "experiences": [
-    "rail-journeys",
-    "honeymoon-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "rovos-rail-pullman-suite",
-    "st-james-manor"
-   ],
-   "highlights": [
-    "3 nights aboard Rovos Rail in a Pullman Suite from Pretoria to Cape Town",
-    "Guided tour of Kimberley's Big Hole and Diamond Mine Museum",
-    "Stop at Matjiesfontein, a preserved Victorian railway village in the Karoo",
-    "3 nights at St James Manor, a seaside guesthouse on the Cape Peninsula",
-    "Day exploring Kalk Bay harbour, galleries and fresh seafood restaurants",
-    "All meals and beverages on board, plus airport and station transfers"
-   ],
-   "featured": false,
-   "popularityScore": 12,
-   "enquiryUrl": "https://www.safari.com/safaris/7-day-cape-town-to-the-coast-luxury-train-beach-escape?a=rjx",
-   "priceFromUsd": 3590,
    "priceFromSpecialUsd": null
   },
   {
@@ -4314,8 +4314,8 @@
    "featured": false,
    "popularityScore": 9,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-ultimate-fly-in-luxury-sabi-sand-safari?a=rjx",
-   "priceFromUsd": 8680,
-   "priceFromSpecialUsd": 7770
+   "priceFromUsd": 8690,
+   "priceFromSpecialUsd": 7780
   },
   {
    "id": "safari.11-day-botswana-luxury-safari",
@@ -4558,7 +4558,7 @@
    "popularityScore": 7,
    "enquiryUrl": "https://www.safari.com/safaris/twelve-day-cape-town-kruger-and-madikwe-safari?a=rjx",
    "priceFromUsd": 9950,
-   "priceFromSpecialUsd": 7980
+   "priceFromSpecialUsd": 7990
   },
   {
    "id": "safari.3-day-victoria-falls-safari",
@@ -4663,7 +4663,7 @@
    "featured": false,
    "popularityScore": 7,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-ultra-lux-safari-at-lion-sands-ivory-lodge?a=rjx",
-   "priceFromUsd": 10150,
+   "priceFromUsd": 10160,
    "priceFromSpecialUsd": null
   },
   {
@@ -5304,7 +5304,7 @@
    "featured": false,
    "popularityScore": 4,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-fly-in-londolozi-tree-camp-safari?a=rjx",
-   "priceFromUsd": 9970,
+   "priceFromUsd": 9980,
    "priceFromSpecialUsd": null
   },
   {
@@ -5667,7 +5667,7 @@
    "featured": false,
    "popularityScore": 3,
    "enquiryUrl": "https://www.safari.com/safaris/11-day-cape-town-tswalu-and-kruger?a=rjx",
-   "priceFromUsd": 21790,
+   "priceFromUsd": 21800,
    "priceFromSpecialUsd": null
   },
   {
@@ -5819,7 +5819,7 @@
    "featured": false,
    "popularityScore": 3,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-singita-kruger-park-promotion?a=rjx",
-   "priceFromUsd": 10440,
+   "priceFromUsd": 10450,
    "priceFromSpecialUsd": null
   },
   {
@@ -6406,7 +6406,7 @@
    "featured": false,
    "popularityScore": 2,
    "enquiryUrl": "https://www.safari.com/safaris/nine-day-ultra-lux-fly-in-namibia?a=rjx",
-   "priceFromUsd": 12520,
+   "priceFromUsd": 12530,
    "priceFromSpecialUsd": null
   },
   {
@@ -6532,7 +6532,7 @@
    "featured": false,
    "popularityScore": 1,
    "enquiryUrl": "https://www.safari.com/safaris/12-day-garden-route-cape-town-eastern-cape-safari?a=rjx",
-   "priceFromUsd": 6760,
+   "priceFromUsd": 6770,
    "priceFromSpecialUsd": null
   },
   {
@@ -6606,7 +6606,7 @@
    "featured": false,
    "popularityScore": 1,
    "enquiryUrl": "https://www.safari.com/safaris/3-night-zannier-omaanda?a=rjx",
-   "priceFromUsd": 1280,
+   "priceFromUsd": 1290,
    "priceFromSpecialUsd": null
   },
   {
@@ -7601,7 +7601,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/3-day-tswalu-the-motse-fly-in-safari?a=rjx",
-   "priceFromUsd": 8880,
+   "priceFromUsd": 8890,
    "priceFromSpecialUsd": null
   },
   {
@@ -7734,7 +7734,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-big-5-pilansberg-adventure-safari?a=rjx",
-   "priceFromUsd": 2490,
+   "priceFromUsd": 2500,
    "priceFromSpecialUsd": null
   },
   {
@@ -7899,7 +7899,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-timbavati-safari?a=rjx",
-   "priceFromUsd": 6010,
+   "priceFromUsd": 6020,
    "priceFromSpecialUsd": null
   },
   {
@@ -8791,7 +8791,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/8-day-durban-bayala-and-st-lucia?a=rjx",
-   "priceFromUsd": 1660,
+   "priceFromUsd": 1670,
    "priceFromSpecialUsd": null
   },
   {
@@ -8946,7 +8946,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/8-day-journey-safari-cellars-city-lights?a=rjx",
-   "priceFromUsd": 4290,
+   "priceFromUsd": 4300,
    "priceFromSpecialUsd": null
   },
   {
@@ -9287,7 +9287,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/nine-day-opulent-cape-town-sabi-sand-safari?a=rjx",
-   "priceFromUsd": 19080,
+   "priceFromUsd": 19090,
    "priceFromSpecialUsd": 15960
   },
   {
