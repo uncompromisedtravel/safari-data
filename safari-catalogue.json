@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-12T07:44:19.965Z",
+ "generated": "2026-09-13T08:03:56.765Z",
  "source": "safari.com affiliate API",
  "fx": {
-  "zarPerUsd": 16.139976,
+  "zarPerUsd": 16.138615,
   "source": "open.er-api.com",
   "note": "ZAR prices converted to approximate USD at bake time"
  },
@@ -1386,7 +1386,7 @@
     "Round-trip flights from Johannesburg and airport transfers included"
    ],
    "featured": true,
-   "popularityScore": 86,
+   "popularityScore": 88,
    "enquiryUrl": "https://www.safari.com/safaris/3-day-victoria-falls-fly-in?a=rjx",
    "priceFromUsd": 1421,
    "priceFromSpecialUsd": 1412
@@ -1546,6 +1546,42 @@
    "priceFromSpecialUsd": null
   },
   {
+   "id": "safari.three-day-kruger-park-lukimbi-fly-in-safari",
+   "slug": "three-day-kruger-park-lukimbi-fly-in-safari",
+   "name": "3 Day Kruger Park Lukimbi Fly-in Safari",
+   "summary": "The 5-Star Lukimbi Safari Lodge is one of only 7 private concessions within Kruger National Park, & at 15 000 hectares is one of the largest. Experience a unique safari where the Big 5 roam free in their natural habitat.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/0e8eac492dee3bee9157e325b58b98e9c75632a7-1600x630.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/0e8eac492dee3bee9157e325b58b98e9c75632a7-1600x630.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 37203,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "south-africa",
+    "kruger-national-park"
+   ],
+   "experiences": [
+    "travel-specials",
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "lukimbi"
+   ],
+   "highlights": [
+    "2 nights at 5-star Lukimbi Safari Lodge in Kruger National Park",
+    "Stay within a 15,000-hectare private concession shared by just 32 guests",
+    "Twice-daily game drives with off-road traversing for close Big Five sightings",
+    "Guided bush walk with an armed ranger",
+    "Return flights from Johannesburg and all transfers included"
+   ],
+   "featured": true,
+   "popularityScore": 76,
+   "enquiryUrl": "https://www.safari.com/safaris/three-day-kruger-park-lukimbi-fly-in-safari?a=rjx",
+   "priceFromUsd": 2310,
+   "priceFromSpecialUsd": null
+  },
+  {
    "id": "safari.4-day-kruger-safari-with-hoyo-hoyo",
    "slug": "4-day-kruger-safari-with-hoyo-hoyo",
    "name": "4 Day All-Inclusive Kruger Safari with Hoyo Hoyo",
@@ -1610,46 +1646,10 @@
     "Round-trip flights from Johannesburg to Hoedspruit and all transfers"
    ],
    "featured": true,
-   "popularityScore": 75,
+   "popularityScore": 73,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-greater-kruger-with-simbavati?a=rjx",
    "priceFromUsd": 4000,
    "priceFromSpecialUsd": 3180
-  },
-  {
-   "id": "safari.three-day-kruger-park-lukimbi-fly-in-safari",
-   "slug": "three-day-kruger-park-lukimbi-fly-in-safari",
-   "name": "3 Day Kruger Park Lukimbi Fly-in Safari",
-   "summary": "The 5-Star Lukimbi Safari Lodge is one of only 7 private concessions within Kruger National Park, & at 15 000 hectares is one of the largest. Experience a unique safari where the Big 5 roam free in their natural habitat.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/0e8eac492dee3bee9157e325b58b98e9c75632a7-1600x630.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/0e8eac492dee3bee9157e325b58b98e9c75632a7-1600x630.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 37203,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "south-africa",
-    "kruger-national-park"
-   ],
-   "experiences": [
-    "travel-specials",
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "lukimbi"
-   ],
-   "highlights": [
-    "2 nights at 5-star Lukimbi Safari Lodge in Kruger National Park",
-    "Stay within a 15,000-hectare private concession shared by just 32 guests",
-    "Twice-daily game drives with off-road traversing for close Big Five sightings",
-    "Guided bush walk with an armed ranger",
-    "Return flights from Johannesburg and all transfers included"
-   ],
-   "featured": true,
-   "popularityScore": 70,
-   "enquiryUrl": "https://www.safari.com/safaris/three-day-kruger-park-lukimbi-fly-in-safari?a=rjx",
-   "priceFromUsd": 2310,
-   "priceFromSpecialUsd": null
   },
   {
    "id": "safari.three-day-big-five-safari-near-cape-town",
@@ -2430,49 +2430,6 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.12-day-rovos-rail-namibia-to-south-africa-safari",
-   "slug": "12-day-rovos-rail-namibia-to-south-africa-safari",
-   "name": "12-Day Rovos Rail Namibia to South Africa Safari",
-   "summary": "This journey commences in Walvis Bay, Namibia, traversing the Namib Desert to Otjiwarongo, where guests can observe desert-adapted wildlife in Etosha National Park. Experience the iconic red dunes of Sossusvlei and marvel at the quiver trees in Garas Park. Explore Luderitz for its colonial architecture and abundant wildlife, including seals and flamingos, before visiting the largest canyon in the southern hemisphere. Discover Upington and enjoy an exclusive cruise on the Orange River as you cross into South Africa to explore the Diamond Mine Museum in Kimberley.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/6541899823dee3f0a82d3cbe4f3b33336fd22b15-1920x1080.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/6541899823dee3f0a82d3cbe4f3b33336fd22b15-1920x1080.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 215000,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "namibia",
-    "walvis-bay",
-    "sossusvlei",
-    "windhoek",
-    "etosha",
-    "fish-river-canyon",
-    "south-africa"
-   ],
-   "experiences": [
-    "mobile-and-walking-safaris",
-    "sleep-out-safaris",
-    "hot-air-ballooning"
-   ],
-   "brand": null,
-   "lodges": [
-    "rovos-rail-pullman-suite"
-   ],
-   "highlights": [
-    "9 nights aboard Rovos Rail from Walvis Bay to Pretoria",
-    "1 night at Etosha Lodge with afternoon and morning game drives",
-    "Visit to the Cheetah Conservation Fund in Otjiwarongo",
-    "1 night in Sossusvlei with desert drive, bush dinner and Deadvlei",
-    "Walking the ghost town of Kolmanskop and colonial Lüderitz",
-    "Fish River Canyon, Orange River cruise and Kimberley's Big Hole"
-   ],
-   "featured": false,
-   "popularityScore": 30,
-   "enquiryUrl": "https://www.safari.com/safaris/12-day-rovos-rail-namibia-to-south-africa-safari?a=rjx",
-   "priceFromUsd": 13320,
-   "priceFromSpecialUsd": null
-  },
-  {
    "id": "safari.four-day-kruger-safari-adventure-with-imbali-lodge",
    "slug": "four-day-kruger-safari-adventure-with-imbali-lodge",
    "name": "4 Day All Inclusive Fly-in Tour to Kruger's Imbali Lodge",
@@ -2505,39 +2462,6 @@
    "popularityScore": 30,
    "enquiryUrl": "https://www.safari.com/safaris/four-day-kruger-safari-adventure-with-imbali-lodge?a=rjx",
    "priceFromUsd": 2960,
-   "priceFromSpecialUsd": null
-  },
-  {
-   "id": "safari.4-day-rovos-rail-pretoria-to-cape-town",
-   "slug": "4-day-rovos-rail-pretoria-to-cape-town",
-   "name": "4 Day Rovos Rail Pretoria to Cape Town",
-   "summary": "Incorporating a great train journey into your travel itinerary adds a unique perspective to your vacation. With some of the best-escorted rail tours in the world, traveling by train in Southern Africa has become a firm favorite in recent years.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/9d7e14e3973751aa436b726dac4437f7589b4fe9-1600x947.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/9d7e14e3973751aa436b726dac4437f7589b4fe9-1600x947.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 45000,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "south-africa",
-    "cape-town"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "rovos-rail-pullman-suite"
-   ],
-   "highlights": [
-    "3 nights aboard Rovos Rail from Pretoria to Cape Town",
-    "Tour of Kimberley's Diamond Mine Museum and the Big Hole",
-    "Stop at the Victorian village of Matjiesfontein in the Karoo",
-    "Scenic passage through the Hex River Valley into Cape Town",
-    "All meals, beverages and excursions included on board"
-   ],
-   "featured": false,
-   "popularityScore": 30,
-   "enquiryUrl": "https://www.safari.com/safaris/4-day-rovos-rail-pretoria-to-cape-town?a=rjx",
-   "priceFromUsd": 2790,
    "priceFromSpecialUsd": null
   },
   {
@@ -2576,6 +2500,82 @@
    "popularityScore": 30,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-iconic-kruger-cape-town?a=rjx",
    "priceFromUsd": 3640,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.12-day-rovos-rail-namibia-to-south-africa-safari",
+   "slug": "12-day-rovos-rail-namibia-to-south-africa-safari",
+   "name": "12-Day Rovos Rail Namibia to South Africa Safari",
+   "summary": "This journey commences in Walvis Bay, Namibia, traversing the Namib Desert to Otjiwarongo, where guests can observe desert-adapted wildlife in Etosha National Park. Experience the iconic red dunes of Sossusvlei and marvel at the quiver trees in Garas Park. Explore Luderitz for its colonial architecture and abundant wildlife, including seals and flamingos, before visiting the largest canyon in the southern hemisphere. Discover Upington and enjoy an exclusive cruise on the Orange River as you cross into South Africa to explore the Diamond Mine Museum in Kimberley.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/6541899823dee3f0a82d3cbe4f3b33336fd22b15-1920x1080.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/6541899823dee3f0a82d3cbe4f3b33336fd22b15-1920x1080.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 215000,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "namibia",
+    "walvis-bay",
+    "sossusvlei",
+    "windhoek",
+    "etosha",
+    "fish-river-canyon",
+    "south-africa"
+   ],
+   "experiences": [
+    "mobile-and-walking-safaris",
+    "sleep-out-safaris",
+    "hot-air-ballooning"
+   ],
+   "brand": null,
+   "lodges": [
+    "rovos-rail-pullman-suite"
+   ],
+   "highlights": [
+    "9 nights aboard Rovos Rail from Walvis Bay to Pretoria",
+    "1 night at Etosha Lodge with afternoon and morning game drives",
+    "Visit to the Cheetah Conservation Fund in Otjiwarongo",
+    "1 night in Sossusvlei with desert drive, bush dinner and Deadvlei",
+    "Walking the ghost town of Kolmanskop and colonial Lüderitz",
+    "Fish River Canyon, Orange River cruise and Kimberley's Big Hole"
+   ],
+   "featured": false,
+   "popularityScore": 29,
+   "enquiryUrl": "https://www.safari.com/safaris/12-day-rovos-rail-namibia-to-south-africa-safari?a=rjx",
+   "priceFromUsd": 13320,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.4-day-rovos-rail-pretoria-to-cape-town",
+   "slug": "4-day-rovos-rail-pretoria-to-cape-town",
+   "name": "4 Day Rovos Rail Pretoria to Cape Town",
+   "summary": "Incorporating a great train journey into your travel itinerary adds a unique perspective to your vacation. With some of the best-escorted rail tours in the world, traveling by train in Southern Africa has become a firm favorite in recent years.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/9d7e14e3973751aa436b726dac4437f7589b4fe9-1600x947.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/9d7e14e3973751aa436b726dac4437f7589b4fe9-1600x947.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 45000,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "south-africa",
+    "cape-town"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "rovos-rail-pullman-suite"
+   ],
+   "highlights": [
+    "3 nights aboard Rovos Rail from Pretoria to Cape Town",
+    "Tour of Kimberley's Diamond Mine Museum and the Big Hole",
+    "Stop at the Victorian village of Matjiesfontein in the Karoo",
+    "Scenic passage through the Hex River Valley into Cape Town",
+    "All meals, beverages and excursions included on board"
+   ],
+   "featured": false,
+   "popularityScore": 29,
+   "enquiryUrl": "https://www.safari.com/safaris/4-day-rovos-rail-pretoria-to-cape-town?a=rjx",
+   "priceFromUsd": 2790,
    "priceFromSpecialUsd": null
   },
   {
@@ -3121,41 +3121,6 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.twelve-day-rovos-rail-pretoria-to-victoria-falls-safari",
-   "slug": "twelve-day-rovos-rail-pretoria-to-victoria-falls-safari",
-   "name": "12-Day Rovos Rail Pretoria to Victoria Falls Safari",
-   "summary": "Traverse the Drakensberg Mountains and Panorama Route, enjoy game viewing in Kruger, and explore Maputo in Mozambique. Discover the Kingdom of eSwatini, experience a Kapama game drive, and visit the Great Zimbabwe Monument. Tour Antelope Park, Matobo National Park, and Hwange before arriving at Victoria Falls for a village walk and sunset cruise on the Zambezi River.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/7be8d3cb1eaaf3361a0da3ab1e9dc7fa606d296d-1920x1281.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/7be8d3cb1eaaf3361a0da3ab1e9dc7fa606d296d-1920x1281.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 165000,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "south-africa",
-    "victoria-falls"
-   ],
-   "experiences": [],
-   "brand": null,
-   "lodges": [
-    "rovos-rail-pullman-suite",
-    "victoria-falls-hotel"
-   ],
-   "highlights": [
-    "11 nights aboard Rovos Rail from Pretoria to Victoria Falls",
-    "Panorama Route stop at God's Window and Blyde River Canyon",
-    "Full-day Kruger game drive and a Kapama Reserve game drive",
-    "Cultural visits to Maputo, eSwatini's Mantenga Village and Great Zimbabwe",
-    "Matobo National Park tour and game viewing in Hwange",
-    "Victoria Falls walking tour and sunset cruise on the Zambezi"
-   ],
-   "featured": false,
-   "popularityScore": 19,
-   "enquiryUrl": "https://www.safari.com/safaris/twelve-day-rovos-rail-pretoria-to-victoria-falls-safari?a=rjx",
-   "priceFromUsd": 10220,
-   "priceFromSpecialUsd": null
-  },
-  {
    "id": "safari.3-day-masai-mara-explorer",
    "slug": "3-day-masai-mara-explorer",
    "name": "3-Day Masai Mara Fly-in Safari with Governors Camp",
@@ -3225,6 +3190,41 @@
    "enquiryUrl": "https://www.safari.com/safaris/four-day-chobe-national-park-safari?a=rjx",
    "priceFromUsd": 2432,
    "priceFromSpecialUsd": 1656
+  },
+  {
+   "id": "safari.twelve-day-rovos-rail-pretoria-to-victoria-falls-safari",
+   "slug": "twelve-day-rovos-rail-pretoria-to-victoria-falls-safari",
+   "name": "12-Day Rovos Rail Pretoria to Victoria Falls Safari",
+   "summary": "Traverse the Drakensberg Mountains and Panorama Route, enjoy game viewing in Kruger, and explore Maputo in Mozambique. Discover the Kingdom of eSwatini, experience a Kapama game drive, and visit the Great Zimbabwe Monument. Tour Antelope Park, Matobo National Park, and Hwange before arriving at Victoria Falls for a village walk and sunset cruise on the Zambezi River.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/7be8d3cb1eaaf3361a0da3ab1e9dc7fa606d296d-1920x1281.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/7be8d3cb1eaaf3361a0da3ab1e9dc7fa606d296d-1920x1281.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 165000,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "south-africa",
+    "victoria-falls"
+   ],
+   "experiences": [],
+   "brand": null,
+   "lodges": [
+    "rovos-rail-pullman-suite",
+    "victoria-falls-hotel"
+   ],
+   "highlights": [
+    "11 nights aboard Rovos Rail from Pretoria to Victoria Falls",
+    "Panorama Route stop at God's Window and Blyde River Canyon",
+    "Full-day Kruger game drive and a Kapama Reserve game drive",
+    "Cultural visits to Maputo, eSwatini's Mantenga Village and Great Zimbabwe",
+    "Matobo National Park tour and game viewing in Hwange",
+    "Victoria Falls walking tour and sunset cruise on the Zambezi"
+   ],
+   "featured": false,
+   "popularityScore": 18,
+   "enquiryUrl": "https://www.safari.com/safaris/twelve-day-rovos-rail-pretoria-to-victoria-falls-safari?a=rjx",
+   "priceFromUsd": 10220,
+   "priceFromSpecialUsd": null
   },
   {
    "id": "safari.3-day-sabi-sands-arathusa-lodge-safari",
@@ -3560,7 +3560,7 @@
    "featured": false,
    "popularityScore": 15,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-hidden-gem-safari-cape-town-to-pafuri?a=rjx",
-   "priceFromUsd": 3360,
+   "priceFromUsd": 3370,
    "priceFromSpecialUsd": null
   },
   {
@@ -4312,7 +4312,7 @@
    "popularityScore": 10,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-thornybush-fly-in-package?a=rjx",
    "priceFromUsd": 4770,
-   "priceFromSpecialUsd": 3750
+   "priceFromSpecialUsd": 3760
   },
   {
    "id": "safari.5-day-ultimate-fly-in-luxury-sabi-sand-safari",
@@ -4952,7 +4952,7 @@
    "featured": false,
    "popularityScore": 6,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-malaria-free-big-5-mhondoro?a=rjx",
-   "priceFromUsd": 2930,
+   "priceFromUsd": 2940,
    "priceFromSpecialUsd": null
   },
   {
@@ -5740,7 +5740,7 @@
    "featured": false,
    "popularityScore": 3,
    "enquiryUrl": "https://www.safari.com/safaris/11-day-cape-town-tswalu-and-kruger?a=rjx",
-   "priceFromUsd": 21550,
+   "priceFromUsd": 21560,
    "priceFromSpecialUsd": null
   },
   {
@@ -6750,7 +6750,7 @@
    "featured": false,
    "popularityScore": 1,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-ultra-luxurious-timbavati-fly-in-safari?a=rjx",
-   "priceFromUsd": 8370,
+   "priceFromUsd": 8380,
    "priceFromSpecialUsd": null
   },
   {
@@ -9288,8 +9288,8 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/nine-day-opulent-cape-town-sabi-sand-safari?a=rjx",
-   "priceFromUsd": 18870,
-   "priceFromSpecialUsd": 15780
+   "priceFromUsd": 18880,
+   "priceFromSpecialUsd": 15790
   },
   {
    "id": "safari.nine-day-wild-encounters-kenyas-big-five-and-ugandas-gentle-giants",
