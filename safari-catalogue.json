@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-04T09:26:12.596Z",
+ "generated": "2026-10-05T10:06:14.575Z",
  "source": "safari.com affiliate API",
  "fx": {
-  "zarPerUsd": 16.660331,
+  "zarPerUsd": 16.658578,
   "source": "open.er-api.com",
   "note": "ZAR prices converted to approximate USD at bake time"
  },
@@ -1477,42 +1477,6 @@
    "priceFromSpecialUsd": null
   },
   {
-   "id": "safari.5-day-all-inclusive-greater-kruger-with-simbavati",
-   "slug": "5-day-all-inclusive-greater-kruger-with-simbavati",
-   "name": "5 Day All-Inclusive Greater Kruger with Simbavati",
-   "summary": "In terms of an all-Inclusive top wildlife experience, it doesn't get much better than this! Enjoy 5-days at Simbavati River Lodge, in the Timbavati Private Game Reserve.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/9720f609787ea72c5bbebecbeea6a66344b7a0f7-1200x858.jpg?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/9720f609787ea72c5bbebecbeea6a66344b7a0f7-1200x858.jpg?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 64515,
-   "priceFromSpecial": 51390,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "timbavati",
-    "greater-kruger"
-   ],
-   "experiences": [
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "simbavati-river"
-   ],
-   "highlights": [
-    "4 nights at Simbavati River Lodge in the Timbavati Private Game Reserve",
-    "Twice-daily game drives at dawn and dusk with expert rangers",
-    "Big Five viewing with a chance of sighting the rare white lions",
-    "Sundowners in the bush and spotlit night drives for nocturnal wildlife",
-    "Wildlife viewing from your deck above the lodge waterhole",
-    "Round-trip flights from Johannesburg to Hoedspruit and all transfers"
-   ],
-   "featured": true,
-   "popularityScore": 77,
-   "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-greater-kruger-with-simbavati?a=rjx",
-   "priceFromUsd": 3870,
-   "priceFromSpecialUsd": 3080
-  },
-  {
    "id": "safari.4-day-kruger-safari-with-hoyo-hoyo",
    "slug": "4-day-kruger-safari-with-hoyo-hoyo",
    "name": "4 Day All-Inclusive Kruger Safari with Hoyo Hoyo",
@@ -1545,6 +1509,42 @@
    "enquiryUrl": "https://www.safari.com/safaris/4-day-kruger-safari-with-hoyo-hoyo?a=rjx",
    "priceFromUsd": 2340,
    "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.5-day-all-inclusive-greater-kruger-with-simbavati",
+   "slug": "5-day-all-inclusive-greater-kruger-with-simbavati",
+   "name": "5 Day All-Inclusive Greater Kruger with Simbavati",
+   "summary": "In terms of an all-Inclusive top wildlife experience, it doesn't get much better than this! Enjoy 5-days at Simbavati River Lodge, in the Timbavati Private Game Reserve.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/9720f609787ea72c5bbebecbeea6a66344b7a0f7-1200x858.jpg?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/9720f609787ea72c5bbebecbeea6a66344b7a0f7-1200x858.jpg?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 64515,
+   "priceFromSpecial": 51390,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "timbavati",
+    "greater-kruger"
+   ],
+   "experiences": [
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "simbavati-river"
+   ],
+   "highlights": [
+    "4 nights at Simbavati River Lodge in the Timbavati Private Game Reserve",
+    "Twice-daily game drives at dawn and dusk with expert rangers",
+    "Big Five viewing with a chance of sighting the rare white lions",
+    "Sundowners in the bush and spotlit night drives for nocturnal wildlife",
+    "Wildlife viewing from your deck above the lodge waterhole",
+    "Round-trip flights from Johannesburg to Hoedspruit and all transfers"
+   ],
+   "featured": true,
+   "popularityScore": 75,
+   "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-greater-kruger-with-simbavati?a=rjx",
+   "priceFromUsd": 3870,
+   "priceFromSpecialUsd": 3080
   },
   {
    "id": "safari.3-day-victoria-falls-fly-in",
@@ -1582,42 +1582,6 @@
    "priceFromSpecialUsd": 1412
   },
   {
-   "id": "safari.three-day-kruger-park-lukimbi-fly-in-safari",
-   "slug": "three-day-kruger-park-lukimbi-fly-in-safari",
-   "name": "3 Day Kruger Park Lukimbi Fly-in Safari",
-   "summary": "The 5-Star Lukimbi Safari Lodge is one of only 7 private concessions within Kruger National Park, & at 15 000 hectares is one of the largest. Experience a unique safari where the Big 5 roam free in their natural habitat.",
-   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/0e8eac492dee3bee9157e325b58b98e9c75632a7-1600x630.webp?w=1600&auto=format",
-   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/0e8eac492dee3bee9157e325b58b98e9c75632a7-1600x630.webp?w=800&auto=format",
-   "currency": "ZAR",
-   "priceFrom": 37203,
-   "priceFromSpecial": null,
-   "priceBasis": "per person sharing, guide price",
-   "destinations": [
-    "south-africa",
-    "kruger-national-park"
-   ],
-   "experiences": [
-    "travel-specials",
-    "big-5-safaris"
-   ],
-   "brand": null,
-   "lodges": [
-    "lukimbi"
-   ],
-   "highlights": [
-    "2 nights at 5-star Lukimbi Safari Lodge in Kruger National Park",
-    "Stay within a 15,000-hectare private concession shared by just 32 guests",
-    "Twice-daily game drives with off-road traversing for close Big Five sightings",
-    "Guided bush walk with an armed ranger",
-    "Return flights from Johannesburg and all transfers included"
-   ],
-   "featured": true,
-   "popularityScore": 70,
-   "enquiryUrl": "https://www.safari.com/safaris/three-day-kruger-park-lukimbi-fly-in-safari?a=rjx",
-   "priceFromUsd": 2230,
-   "priceFromSpecialUsd": null
-  },
-  {
    "id": "safari.eight-day-victoria-falls-and-mauritius-combo",
    "slug": "eight-day-victoria-falls-and-mauritius-combo",
    "name": "8-Day Victoria Falls and Mauritius Combo",
@@ -1649,6 +1613,42 @@
    "popularityScore": 70,
    "enquiryUrl": "https://www.safari.com/safaris/eight-day-victoria-falls-and-mauritius-combo?a=rjx",
    "priceFromUsd": 5800,
+   "priceFromSpecialUsd": null
+  },
+  {
+   "id": "safari.three-day-kruger-park-lukimbi-fly-in-safari",
+   "slug": "three-day-kruger-park-lukimbi-fly-in-safari",
+   "name": "3 Day Kruger Park Lukimbi Fly-in Safari",
+   "summary": "The 5-Star Lukimbi Safari Lodge is one of only 7 private concessions within Kruger National Park, & at 15 000 hectares is one of the largest. Experience a unique safari where the Big 5 roam free in their natural habitat.",
+   "heroImageUrl": "https://cdn.sanity.io/images/s82b6z49/production/0e8eac492dee3bee9157e325b58b98e9c75632a7-1600x630.webp?w=1600&auto=format",
+   "heroImageThumbUrl": "https://cdn.sanity.io/images/s82b6z49/production/0e8eac492dee3bee9157e325b58b98e9c75632a7-1600x630.webp?w=800&auto=format",
+   "currency": "ZAR",
+   "priceFrom": 37203,
+   "priceFromSpecial": null,
+   "priceBasis": "per person sharing, guide price",
+   "destinations": [
+    "south-africa",
+    "kruger-national-park"
+   ],
+   "experiences": [
+    "travel-specials",
+    "big-5-safaris"
+   ],
+   "brand": null,
+   "lodges": [
+    "lukimbi"
+   ],
+   "highlights": [
+    "2 nights at 5-star Lukimbi Safari Lodge in Kruger National Park",
+    "Stay within a 15,000-hectare private concession shared by just 32 guests",
+    "Twice-daily game drives with off-road traversing for close Big Five sightings",
+    "Guided bush walk with an armed ranger",
+    "Return flights from Johannesburg and all transfers included"
+   ],
+   "featured": true,
+   "popularityScore": 69,
+   "enquiryUrl": "https://www.safari.com/safaris/three-day-kruger-park-lukimbi-fly-in-safari?a=rjx",
+   "priceFromUsd": 2230,
    "priceFromSpecialUsd": null
   },
   {
@@ -1903,7 +1903,7 @@
    "featured": false,
    "popularityScore": 44,
    "enquiryUrl": "https://www.safari.com/safaris/five-day-malamala-and-timbavati-luxury-safari?a=rjx",
-   "priceFromUsd": 5870,
+   "priceFromUsd": 5880,
    "priceFromSpecialUsd": null
   },
   {
@@ -2705,7 +2705,7 @@
    "featured": false,
    "popularityScore": 21,
    "enquiryUrl": "https://www.safari.com/safaris/12-day-rovos-rail-namibia-to-south-africa-safari?a=rjx",
-   "priceFromUsd": 12900,
+   "priceFromUsd": 12910,
    "priceFromSpecialUsd": null
   },
   {
@@ -2815,7 +2815,7 @@
    "featured": false,
    "popularityScore": 21,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-cape-town-to-durban-rovos-rail-safari?a=rjx",
-   "priceFromUsd": 5920,
+   "priceFromUsd": 5930,
    "priceFromSpecialUsd": null
   },
   {
@@ -3720,7 +3720,7 @@
    "featured": true,
    "popularityScore": 12,
    "enquiryUrl": "https://www.safari.com/safaris/14-day-self-drive-luxury-garden-route?a=rjx",
-   "priceFromUsd": 8430,
+   "priceFromUsd": 8440,
    "priceFromSpecialUsd": null
   },
   {
@@ -5785,7 +5785,7 @@
    "featured": false,
    "popularityScore": 3,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-fly-in-kirkmans-kamp-all-inclusive-safari?a=rjx",
-   "priceFromUsd": 5500,
+   "priceFromUsd": 5510,
    "priceFromSpecialUsd": null
   },
   {
@@ -8638,7 +8638,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-northern-namibian-adventure-tour?a=rjx",
-   "priceFromUsd": 2420,
+   "priceFromUsd": 2430,
    "priceFromSpecialUsd": null
   },
   {
@@ -9288,7 +9288,7 @@
    "featured": false,
    "popularityScore": 0,
    "enquiryUrl": "https://www.safari.com/safaris/nine-day-opulent-cape-town-sabi-sand-safari?a=rjx",
-   "priceFromUsd": 18280,
+   "priceFromUsd": 18290,
    "priceFromSpecialUsd": 15290
   },
   {
