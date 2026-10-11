@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-10T09:31:36.082Z",
+ "generated": "2026-10-11T09:44:43.819Z",
  "source": "safari.com affiliate API",
  "fx": {
-  "zarPerUsd": 16.538925,
+  "zarPerUsd": 16.539966,
   "source": "open.er-api.com",
   "note": "ZAR prices converted to approximate USD at bake time"
  },
@@ -2137,7 +2137,7 @@
    "featured": false,
    "popularityScore": 36,
    "enquiryUrl": "https://www.safari.com/safaris/5-day-all-inclusive-sabi-sand-north-to-south-safari?a=rjx",
-   "priceFromUsd": 4530,
+   "priceFromUsd": 4520,
    "priceFromSpecialUsd": null
   },
   {
@@ -2780,7 +2780,7 @@
    "featured": false,
    "popularityScore": 21,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-rovos-rail-pretoria-to-cape-town?a=rjx",
-   "priceFromUsd": 3270,
+   "priceFromUsd": 3260,
    "priceFromSpecialUsd": null
   },
   {
@@ -4555,7 +4555,7 @@
    "featured": false,
    "popularityScore": 8,
    "enquiryUrl": "https://www.safari.com/safaris/7-day-south-african-safari-city-experience?a=rjx",
-   "priceFromUsd": 3690,
+   "priceFromUsd": 3680,
    "priceFromSpecialUsd": null
   },
   {
@@ -5580,7 +5580,7 @@
    "featured": false,
    "popularityScore": 4,
    "enquiryUrl": "https://www.safari.com/safaris/9-day-cape-town-wine-and-wild-sabi-sands-safari?a=rjx",
-   "priceFromUsd": 9050,
+   "priceFromUsd": 9040,
    "priceFromSpecialUsd": null
   },
   {
@@ -5785,7 +5785,7 @@
    "featured": false,
    "popularityScore": 3,
    "enquiryUrl": "https://www.safari.com/safaris/4-day-fly-in-kirkmans-kamp-all-inclusive-safari?a=rjx",
-   "priceFromUsd": 5550,
+   "priceFromUsd": 5540,
    "priceFromSpecialUsd": null
   },
   {
